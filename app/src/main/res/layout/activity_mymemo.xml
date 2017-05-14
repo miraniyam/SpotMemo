@@ -6,35 +6,28 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:padding="20dp"
         android:textSize="20dp"
-        android:text="N개의 메모"
-        android:contentDescription="N개의 메모. 내가 남긴 메모입니다."
-        android:id="@+id/btn_myMemo"
-        android:onClick="onClickMyMemo"/>
-
-    <fragment
-        android:id="@+id/map"
-        android:layout_width="match_parent"
-        android:layout_height="300dp"
-        android:name="com.google.android.gms.maps.MapFragment"/>
+        android:padding="20dp"
+        android:id="@+id/btn_outside"
+        android:text="도로/거리 정보"
+        android:onClick="onClickOutside"/>
 
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:padding="20dp"
         android:textSize="20dp"
-        android:text="메모 추가"
-        android:id="@+id/btn_addMemo"
-        android:onClick="onClickAddMemo"/>
+        android:id="@+id/btn_store"
+        android:text="상점/맛집 정보"
+        android:onClick="onClickStore"/>
 
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:padding="20dp"
         android:textSize="20dp"
-        android:text="내 주변 메모보기"
-        android:id="@+id/btn_othersMemo"
-        android:onClick="onClickOthersMemo"/>
+        android:id="@+id/btn_inside"
+        android:text="실내/건물 정보"
+        android:onClick="onClickInside"/>
 
 </LinearLayout>
