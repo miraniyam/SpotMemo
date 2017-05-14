@@ -3,6 +3,8 @@
     package="com.example.miranlee.spotmemo">
 
     <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 
     <uses-feature android:required="true"
         android:glEsVersion="0x00020000"/>
@@ -33,6 +35,10 @@
         <activity android:name=".OthersMemoActivity"/>
 
         <activity android:name=".ShowMyMemoActivity"/>
+
+        <activity android:name=".AddVoiceActivity"/>
+
+        <activity android:name=".AddTextActivity"/>
     </application>
 
 </manifest>

@@ -1,5 +1,6 @@
 package com.example.miranlee.spotmemo;
 
+import android.content.Intent;
 import android.media.MediaRecorder;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
@@ -11,6 +12,7 @@ import android.view.View;
  */
 
 public class AddMemoActivity extends ActionBarActivity {
+
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -19,19 +21,12 @@ public class AddMemoActivity extends ActionBarActivity {
     }
 
     public void onClickAddVoiceMemo(View view) {
-        MediaRecorder recorder = new MediaRecorder();
-        recorder.setAudioSource(MediaRecorder.AudioSource.MIC);
-        recorder.setOutputFormat(MediaRecorder.OutputFormat.MPEG_4);
-        recorder.setAudioEncoder(MediaRecorder.AudioEncoder.DEFAULT);
-        try {
-            recorder.prepare();
-            recorder.start();
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
+        Intent i = new Intent(this, AddVoiceActivity.class);
+        startActivity(i);
     }
 
     public void onClickAddTextMemo(View view) {
-
+        Intent i = new Intent(this, AddTextActivity.class);
+        startActivity(i);
     }
 }
