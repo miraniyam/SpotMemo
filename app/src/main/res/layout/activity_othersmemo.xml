@@ -3,4 +3,39 @@
     android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="match_parent">
 
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:padding="20dp"
+        android:id="@+id/btn_outside"
+        android:text="도로/거리 정보"
+        android:onClick="onClickOutside"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        android:textSize="20dp"
+        android:id="@+id/btn_store"
+        android:text="상점/맛집 정보"
+        android:onClick="onClickStore"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        android:textSize="20dp"
+        android:id="@+id/btn_inside"
+        android:text="실내/건물 정보"
+        android:onClick="onClickInside"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        android:textSize="20dp"
+        android:text="뒤로가기"
+        android:onClick="onBack"/>
+
 </LinearLayout>

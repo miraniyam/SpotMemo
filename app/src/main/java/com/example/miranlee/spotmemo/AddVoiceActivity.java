@@ -1,11 +1,13 @@
 package com.example.miranlee.spotmemo;
 
+import android.content.Intent;
 import android.media.MediaRecorder;
 import android.os.Bundle;
 import android.os.Environment;
 import android.speech.tts.TextToSpeech;
 import android.support.v7.app.ActionBarActivity;
 import android.view.View;
+import android.widget.Button;
 
 import java.io.File;
 import java.text.SimpleDateFormat;
@@ -21,6 +23,9 @@ public class AddVoiceActivity extends ActionBarActivity implements TextToSpeech.
     MediaRecorder recorder = new MediaRecorder();
     TextToSpeech tts;
 
+    Button startbtn;
+    Button stopbtn;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -29,6 +34,10 @@ public class AddVoiceActivity extends ActionBarActivity implements TextToSpeech.
 
         tts = new TextToSpeech(this, this);
         tts.setLanguage(Locale.KOREA);
+
+        startbtn = (Button)findViewById(R.id.btn_start);
+        stopbtn = (Button)findViewById(R.id.btn_stop);
+        stopbtn.setEnabled(false);
     }
 
     public void onClickStart(View view) {
@@ -49,6 +58,8 @@ public class AddVoiceActivity extends ActionBarActivity implements TextToSpeech.
                 // 안내 음성이 다 끝나고 나야 저장할 것이다!
             }
             recorder.start();
+            startbtn.setEnabled(false);
+            stopbtn.setEnabled(true);
         }catch(Exception e) {
             e.printStackTrace();
         }
@@ -58,10 +69,17 @@ public class AddVoiceActivity extends ActionBarActivity implements TextToSpeech.
         recorder.stop();
         recorder.release();
         tts.speak("녹음이 완료되었습니다",TextToSpeech.QUEUE_FLUSH,null);
+        startbtn.setEnabled(true);
     }
 
     @Override
     public void onInit(int i) {
 
+    }
+
+    public void onBack(View view) {
+        Intent i = new Intent(this, AddMemoActivity.class);
+        finish();
+        startActivity(i);
     }
 }

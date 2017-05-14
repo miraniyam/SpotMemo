@@ -29,4 +29,10 @@ public class AddMemoActivity extends ActionBarActivity {
         Intent i = new Intent(this, AddTextActivity.class);
         startActivity(i);
     }
+
+    public void onBack(View view) {
+        Intent i = new Intent(this, MainActivity.class);
+        finish();
+        startActivity(i);
+    }
 }
