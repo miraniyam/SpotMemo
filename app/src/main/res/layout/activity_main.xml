@@ -8,8 +8,7 @@
         android:layout_height="wrap_content"
         android:padding="20dp"
         android:textSize="20dp"
-        android:text="N개의 메모"
-        android:contentDescription="N개의 메모. 내가 남긴 메모입니다."
+        android:text="내가 남긴 N개 메모"
         android:id="@+id/btn_myMemo"
         android:onClick="onClickMyMemo"/>
 
@@ -33,7 +32,7 @@
         android:layout_height="wrap_content"
         android:padding="20dp"
         android:textSize="20dp"
-        android:text="내 주변 메모보기"
+        android:text="주변에 공유된 메모보기"
         android:id="@+id/btn_othersMemo"
         android:onClick="onClickOthersMemo"/>
 

@@ -16,12 +16,16 @@ public class ShowCateMemoActivity extends ActionBarActivity {
         setContentView(R.layout.activity_showmymemo);
         Intent i = getIntent();
         String title = i.getStringExtra("title");
-        if(title.equals("outside")) {
-            setTitle("도로/거리 정보");
-        }else if(title.equals("store")) {
-            setTitle("상점/맛집 정보");
-        }else {
-            setTitle("실내/건물 정보");
+        if(title.equals("cafe")) {
+            setTitle("카페 정보");
+        }else if(title.equals("food")) {
+            setTitle("식당 정보");
+        }else if(title.equals("theater")){
+            setTitle("영화관/공연장 정보");
+        }else if(title.equals("shop")) {
+            setTitle("옷가게 정보");
+        }else if(title.equals("public")) {
+            setTitle("공공시설 정보");
         }
     }
 

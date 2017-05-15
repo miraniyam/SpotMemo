@@ -8,6 +8,7 @@ import android.speech.tts.TextToSpeech;
 import android.support.v7.app.ActionBarActivity;
 import android.view.View;
 import android.widget.Button;
+import android.widget.Toast;
 
 import java.io.File;
 import java.text.SimpleDateFormat;
@@ -25,6 +26,7 @@ public class AddVoiceActivity extends ActionBarActivity implements TextToSpeech.
 
     Button startbtn;
     Button stopbtn;
+    Button backbtn;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -37,17 +39,18 @@ public class AddVoiceActivity extends ActionBarActivity implements TextToSpeech.
 
         startbtn = (Button)findViewById(R.id.btn_start);
         stopbtn = (Button)findViewById(R.id.btn_stop);
+        backbtn = (Button)findViewById(R.id.btn_back);
         stopbtn.setEnabled(false);
     }
 
     public void onClickStart(View view) {
-        tts.speak("녹음을 시작합니다",TextToSpeech.QUEUE_FLUSH,null);
+        tts.speak("이 멘트가 끝나면 녹음이 시작됩니다.",TextToSpeech.QUEUE_FLUSH,null);
         try {
             File nfile = new File(Environment.getExternalStoragePublicDirectory(Environment.DIRECTORY_DOCUMENTS), "SpotMemo/Voice/");
 
             boolean f = nfile.mkdirs();
 
-            String filename = new SimpleDateFormat("yyyy-mm-dd-hh-mm").format(new Date());
+            String filename = new SimpleDateFormat("yyyy-mm-dd-hh-mm-ss").format(new Date());
 
             recorder.setAudioSource(MediaRecorder.AudioSource.MIC);
             recorder.setOutputFormat(MediaRecorder.OutputFormat.THREE_GPP);
@@ -59,6 +62,7 @@ public class AddVoiceActivity extends ActionBarActivity implements TextToSpeech.
             }
             recorder.start();
             startbtn.setEnabled(false);
+            backbtn.setEnabled(false);
             stopbtn.setEnabled(true);
         }catch(Exception e) {
             e.printStackTrace();
@@ -70,6 +74,8 @@ public class AddVoiceActivity extends ActionBarActivity implements TextToSpeech.
         recorder.release();
         tts.speak("녹음이 완료되었습니다",TextToSpeech.QUEUE_FLUSH,null);
         startbtn.setEnabled(true);
+        stopbtn.setEnabled(false);
+        backbtn.setEnabled(true);
     }
 
     @Override

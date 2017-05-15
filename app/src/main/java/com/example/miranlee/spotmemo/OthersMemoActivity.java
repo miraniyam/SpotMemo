@@ -14,24 +14,38 @@ public class OthersMemoActivity extends ActionBarActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_othersmemo);
-        setTitle("내 주변 메모보기");
+        setTitle("주변의 공유된 메모보기");
     }
 
-    public void onClickOutside(View view) {
+    // 카페, 식당, 영화관/공연장, 옷가게, 공공기관
+
+    public void onClickCafe(View view) {
         Intent i = new Intent(this, ShowCateMemoActivity.class);
-        i.putExtra("title","outside");
+        i.putExtra("title","cafe");
         startActivity(i);
     }
 
-    public void onClickStore(View view) {
+    public void onClickFood(View view) {
         Intent i = new Intent(this, ShowCateMemoActivity.class);
-        i.putExtra("title","store");
+        i.putExtra("title","food");
         startActivity(i);
     }
 
-    public void onClickInside(View view) {
+    public void onClickTheater(View view) {
         Intent i = new Intent(this, ShowCateMemoActivity.class);
-        i.putExtra("title","inside");
+        i.putExtra("title","theater");
+        startActivity(i);
+    }
+
+    public void onClickShop(View view) {
+        Intent i = new Intent(this, ShowCateMemoActivity.class);
+        i.putExtra("title","shop");
+        startActivity(i);
+    }
+
+    public void onClickPublic(View view) {
+        Intent i = new Intent(this, ShowCateMemoActivity.class);
+        i.putExtra("title","public");
         startActivity(i);
     }
 

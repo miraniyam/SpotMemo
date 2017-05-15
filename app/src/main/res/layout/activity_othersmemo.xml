@@ -6,29 +6,47 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textSize="20dp"
         android:padding="20dp"
-        android:id="@+id/btn_outside"
-        android:text="도로/거리 정보"
-        android:onClick="onClickOutside"/>
+        android:textSize="20dp"
+        android:id="@+id/btn_cafe"
+        android:text="카페"
+        android:onClick="onClickCafe"/>
 
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:padding="20dp"
         android:textSize="20dp"
-        android:id="@+id/btn_store"
-        android:text="상점/맛집 정보"
-        android:onClick="onClickStore"/>
+        android:id="@+id/btn_food"
+        android:text="식당"
+        android:onClick="onClickFood"/>
 
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:padding="20dp"
         android:textSize="20dp"
-        android:id="@+id/btn_inside"
-        android:text="실내/건물 정보"
-        android:onClick="onClickInside"/>
+        android:id="@+id/btn_culture"
+        android:text="영화관/공연장"
+        android:onClick="onClickTheater"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        android:textSize="20dp"
+        android:id="@+id/btn_shop"
+        android:text="옷가게"
+        android:onClick="onClickShop"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        android:textSize="20dp"
+        android:id="@+id/btn_public"
+        android:text="공공시설"
+        android:onClick="onClickPublic"/>
 
     <Button
         android:layout_width="match_parent"
