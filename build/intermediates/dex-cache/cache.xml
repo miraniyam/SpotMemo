@@ -1,0 +1,995 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/kyeolhan/.android/build-cache/b984e071425e73e627e7f92a87c3e72bb0410590/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_164af3a82b8b891cd5dc92fce9bc62d2f5d4ee5e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kyeolhan/.android/build-cache/4f83399c739ab1aacfa0848f9389306e6a949d11/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="183e4fb7cf95f4fa54963cfcdaf0f4d7e2397bad">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_975de7252cea8580889695818c66a9616abd3da2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyeolhan/.android/build-cache/45253e0baf220d7cea28658294ee2b659097e412/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fdf15d202000492aefe43092b21af5332df0178">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/pre-dexed/debug/classes_bf092dd174481ff17d20808a0c2bc299f1bbf7c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyeolhan/.android/build-cache/0b6cd74281eb6e5af28d2751df34ad424d0c837c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="acc7a846f0bc56ecccda535fc919fd338b2b3e2c">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/pre-dexed/debug/classes_e1b95bf121c4fafff35bfe68ecc9c4dc4afcd538.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyeolhan/.android/build-cache/b984e071425e73e627e7f92a87c3e72bb0410590/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/pre-dexed/debug/classes_164af3a82b8b891cd5dc92fce9bc62d2f5d4ee5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyeolhan/.android/build-cache/4f83399c739ab1aacfa0848f9389306e6a949d11/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="183e4fb7cf95f4fa54963cfcdaf0f4d7e2397bad">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/pre-dexed/debug/classes_975de7252cea8580889695818c66a9616abd3da2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kyeolhan/.android/build-cache/45253e0baf220d7cea28658294ee2b659097e412/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fdf15d202000492aefe43092b21af5332df0178">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bf092dd174481ff17d20808a0c2bc299f1bbf7c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kyeolhan/.android/build-cache/0b6cd74281eb6e5af28d2751df34ad424d0c837c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="acc7a846f0bc56ecccda535fc919fd338b2b3e2c">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e1b95bf121c4fafff35bfe68ecc9c4dc4afcd538/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kyeolhan/.android/build-cache/dc31400a8146781e3a84b12851daa7ed1db505d0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="88ae4c6ceaeab7beca5e396e0698c6958e26a2d2">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a57c5f734bc6b161ea4fe73ca99cb960315c5d86/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kyeolhan/.android/build-cache/1211dfb78ab6be16b73067e5815dd43b68fbb2f4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="688809418e4c2b5014a028c02708d6aeaba466ff">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_22ad0e63f0c24900d8b764db300e5fe7106ebfb2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyeolhan/.android/build-cache/1211dfb78ab6be16b73067e5815dd43b68fbb2f4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="688809418e4c2b5014a028c02708d6aeaba466ff">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/pre-dexed/debug/classes_22ad0e63f0c24900d8b764db300e5fe7106ebfb2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kyeolhan/.android/build-cache/4c7a09601f646d0f109f617dc85213c9dc7187a5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="90236fba9ac4dfb1f4196e231aab964522143ef6">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5de8c24570972f22478a44b39ea9d2ccf7be8700/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kyeolhan/.android/build-cache/08e70b3027a2707d2d30d263ac6c3f5390a7dcf0/output/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_db301ec906f7d1d0d7df23250b25acb2b4c68f79/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyeolhan/.android/build-cache/bf96638e855744d473b54703d17964e50a90cf58/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="610ae6a6872d9718fc05e2c726758206bd367595">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/pre-dexed/debug/classes_29fee9979fa9e922d43245a4a3e75db28e2199f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyeolhan/.android/build-cache/5891f678a8a3d7b7d1848cb1d995a8da37ba6d74/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cba8868595f6aaff54cf7d1798591108cf5611c">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/pre-dexed/debug/classes_13a4160939ba450b10508dc887a3b3f74b929a97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyeolhan/.android/build-cache/4c7a09601f646d0f109f617dc85213c9dc7187a5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="90236fba9ac4dfb1f4196e231aab964522143ef6">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/pre-dexed/debug/classes_5de8c24570972f22478a44b39ea9d2ccf7be8700.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kyeolhan/.android/build-cache/24a316e29f64b9abdf9a17a5c488730a4ffb024a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6d0d5e86f5b7203834df01ed78ebfdd5cbf74d48">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_91f6487c4df096d1f1ab126a1a0e105f9846660e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyeolhan/.android/build-cache/dc31400a8146781e3a84b12851daa7ed1db505d0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="88ae4c6ceaeab7beca5e396e0698c6958e26a2d2">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/pre-dexed/debug/classes_a57c5f734bc6b161ea4fe73ca99cb960315c5d86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyeolhan/.android/build-cache/08e70b3027a2707d2d30d263ac6c3f5390a7dcf0/output/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_db301ec906f7d1d0d7df23250b25acb2b4c68f79.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kyeolhan/.android/build-cache/5891f678a8a3d7b7d1848cb1d995a8da37ba6d74/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cba8868595f6aaff54cf7d1798591108cf5611c">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_13a4160939ba450b10508dc887a3b3f74b929a97/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kyeolhan/.android/build-cache/03e18d2d485ef19c385d0e3ad43d4dabbb954cd7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d66b8668122393a15c90471c5c974c25439d193a">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bb5f756ac479ba8cda6cf383a6fcfe189c9a4060/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyeolhan/.android/build-cache/9c39ce9d4aea400d56b96a6c04abef1218afe3ee/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a9c8affe1f564ec0d063be68469d26e972455217">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/pre-dexed/debug/classes_b9941400efeb559e8711379ebc2295b1523f2d2d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kyeolhan/.android/build-cache/9c39ce9d4aea400d56b96a6c04abef1218afe3ee/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a9c8affe1f564ec0d063be68469d26e972455217">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b9941400efeb559e8711379ebc2295b1523f2d2d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kyeolhan/.android/build-cache/5e5e81a8ba753145776d7eed51ffffa48fa1c2a3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_abdd5a90ef3506d877b6e3c55ff7bcd9b264aa88/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyeolhan/.android/build-cache/aead3b540e50fe6e65a59b01ebf2c1880328838e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4eeba61bbc47e49a5fbdfd9aa21af5d10bf4df7c">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/pre-dexed/debug/classes_1514416f5c0f906a57592615ea03a6ef3687d78b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kyeolhan/.android/build-cache/b89ced291a9d9e6869bde3636a5e53d276f06e68/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="701c58abf53f488bc5bb0162f1305a38a32fb5f1">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_871e7aa94b8bfad019d6e0c528866538498b5dc5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kyeolhan/.android/build-cache/aead3b540e50fe6e65a59b01ebf2c1880328838e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4eeba61bbc47e49a5fbdfd9aa21af5d10bf4df7c">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1514416f5c0f906a57592615ea03a6ef3687d78b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyeolhan/.android/build-cache/b89ced291a9d9e6869bde3636a5e53d276f06e68/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="701c58abf53f488bc5bb0162f1305a38a32fb5f1">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/pre-dexed/debug/classes_871e7aa94b8bfad019d6e0c528866538498b5dc5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kyeolhan/.android/build-cache/1176b3799df68a56127e09ddd3336bb7c652a990/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2ed7ba48801a0a361727833ade3b6cf096968cc0">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b544fd2124d2cd7c7c9cb1cfcbbf997544246d57/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyeolhan/.android/build-cache/03e18d2d485ef19c385d0e3ad43d4dabbb954cd7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d66b8668122393a15c90471c5c974c25439d193a">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/pre-dexed/debug/classes_bb5f756ac479ba8cda6cf383a6fcfe189c9a4060.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kyeolhan/.android/build-cache/aa6f73e58493cf5244b561f1339374776ad30327/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d2d27edb6fbc12fdf28008cdff920e66f08cf159">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1d87d5eaae74014d21441f1351bfffcd8162654b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kyeolhan/.android/build-cache/3d6e54d8d97f1d524d1d0e3b8e8f549335704a39/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="143e5647b772c08c9f0d807b24bbc0b05ff6c7d2">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_526bd6c8b189a9f804e3bca8948a7ea947710cbd/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyeolhan/.android/build-cache/3d6e54d8d97f1d524d1d0e3b8e8f549335704a39/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="143e5647b772c08c9f0d807b24bbc0b05ff6c7d2">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/pre-dexed/debug/classes_526bd6c8b189a9f804e3bca8948a7ea947710cbd.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kyeolhan/.android/build-cache/73c978b62e39dad6c6b3acb445b0d023ba05f6b0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d72eb1ceff1b0bac4916088eb44bb93f86b1265c">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_12a79da33befb083428e4a4402d0c6a92c39e55e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kyeolhan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_869a89f731cf79894399ca0e876793996cf2bfb5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kyeolhan/.android/build-cache/bf96638e855744d473b54703d17964e50a90cf58/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="610ae6a6872d9718fc05e2c726758206bd367595">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_29fee9979fa9e922d43245a4a3e75db28e2199f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyeolhan/.android/build-cache/aa6f73e58493cf5244b561f1339374776ad30327/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d2d27edb6fbc12fdf28008cdff920e66f08cf159">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/pre-dexed/debug/classes_1d87d5eaae74014d21441f1351bfffcd8162654b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyeolhan/.android/build-cache/73c978b62e39dad6c6b3acb445b0d023ba05f6b0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d72eb1ceff1b0bac4916088eb44bb93f86b1265c">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/pre-dexed/debug/classes_12a79da33befb083428e4a4402d0c6a92c39e55e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyeolhan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_869a89f731cf79894399ca0e876793996cf2bfb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyeolhan/.android/build-cache/df362901cb9efefb6b07e735d639fd1443b4b364/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93094dbb2af50e23339620bebd7b4b6161410edb">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/pre-dexed/debug/classes_f4aae11344f5d1fb3d91d46db0a9269a91b95ca8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kyeolhan/.android/build-cache/df362901cb9efefb6b07e735d639fd1443b4b364/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93094dbb2af50e23339620bebd7b4b6161410edb">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f4aae11344f5d1fb3d91d46db0a9269a91b95ca8/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyeolhan/.android/build-cache/2900d2b70351f91d9a21dd22b8113e7de10ffd87/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c76804333008c855433cad5cfd1256e86045e97b">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/pre-dexed/debug/classes_b4eed4a9b6fc587c6ffda119e8ca4f3dec648fce.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kyeolhan/.android/build-cache/2900d2b70351f91d9a21dd22b8113e7de10ffd87/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c76804333008c855433cad5cfd1256e86045e97b">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b4eed4a9b6fc587c6ffda119e8ca4f3dec648fce/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyeolhan/.android/build-cache/33e1300793c2509324615dc443028a31975716c8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b50fe5288bba9d1635ba619bd3c308319205543e">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/pre-dexed/debug/classes_de94d0ff14a42752bab47df28ff827debacaa803.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kyeolhan/.android/build-cache/2fe1f0eb54835701c75bce11d927220e92b86366/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6b8d1a53648f7ecfe9e7bf0baf9ca657c5a1ff91">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3ffd877fd824ee18f334717e4fcc29adc1a246ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kyeolhan/.android/build-cache/c411e6b41a8ca8ec94a5976adaf500eefd63a8ee/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_436b5822fd131be20d006adbe755cb6642c30bf1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kyeolhan/.android/build-cache/73d26c5edd6a3dd67398311c2455ad0342bd9519/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6c8a4af7cf76d958c76ed7682f39e4b386b69305">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b8aa6c5eff1411d422f545f0152db7695efcb202/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kyeolhan/.android/build-cache/e7f959c66c559835ecb274cbb395aa5b0eb526d3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6e59092fd2487af4a2963fff8b58a44113dbad61/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyeolhan/.android/build-cache/2fe1f0eb54835701c75bce11d927220e92b86366/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6b8d1a53648f7ecfe9e7bf0baf9ca657c5a1ff91">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/pre-dexed/debug/classes_3ffd877fd824ee18f334717e4fcc29adc1a246ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyeolhan/.android/build-cache/109456021f846d5a6fcdb52752547baa24d99d1b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e0f082141b7aa90aab5d3a47ab09b0edc958f6b">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/pre-dexed/debug/classes_03cc7f9faa0905c114f28adb9a238d45d2e1faa1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kyeolhan/.android/build-cache/d7f2e23ee585b0b23645da9c811318a98a88bae5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="80ecaefc1035fde747999e4c20e18d207363efa2">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ae57a1f70ab9cb4031d854cc9bf02dbc26444922/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyeolhan/.android/build-cache/4981eff2f1adfd07d4f54439e77d8bba6c601bc1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fe159787dd4c4bc9ed6a9d4f7430e9af1f3516c8">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/pre-dexed/debug/classes_38b0368b26193be475ebbbbf7ee94e0e31f765ac.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kyeolhan/.android/build-cache/109456021f846d5a6fcdb52752547baa24d99d1b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e0f082141b7aa90aab5d3a47ab09b0edc958f6b">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_03cc7f9faa0905c114f28adb9a238d45d2e1faa1/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyeolhan/.android/build-cache/73d26c5edd6a3dd67398311c2455ad0342bd9519/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6c8a4af7cf76d958c76ed7682f39e4b386b69305">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/pre-dexed/debug/classes_b8aa6c5eff1411d422f545f0152db7695efcb202.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyeolhan/.android/build-cache/83f31c8b3d81e13e267ec5e907f3a127987d8134/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="657abe17c5ba58f5d24803ba303c6005b180897a">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/pre-dexed/debug/classes_090f449fe530a122b067cbcb943311cfb7a9a0d3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kyeolhan/.android/build-cache/1597a354fadfed723049eb7932d0f6a27293910c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="597d0d34e15e713c486e8f4ccf739f0c7d05bde4">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_22716a06ca0a135f8398440c9a39409fdafc964e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kyeolhan/.android/build-cache/4981eff2f1adfd07d4f54439e77d8bba6c601bc1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fe159787dd4c4bc9ed6a9d4f7430e9af1f3516c8">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_38b0368b26193be475ebbbbf7ee94e0e31f765ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kyeolhan/.android/build-cache/83f31c8b3d81e13e267ec5e907f3a127987d8134/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="657abe17c5ba58f5d24803ba303c6005b180897a">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_090f449fe530a122b067cbcb943311cfb7a9a0d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyeolhan/.android/build-cache/d7f2e23ee585b0b23645da9c811318a98a88bae5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="80ecaefc1035fde747999e4c20e18d207363efa2">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/pre-dexed/debug/classes_ae57a1f70ab9cb4031d854cc9bf02dbc26444922.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kyeolhan/.android/build-cache/33e1300793c2509324615dc443028a31975716c8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b50fe5288bba9d1635ba619bd3c308319205543e">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_de94d0ff14a42752bab47df28ff827debacaa803/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyeolhan/.android/build-cache/c22ce37662c44f8b017127b00a98a7e3609fc124/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98ac18f891a8279ae57c4771cbf4a2a65f95b04c">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/pre-dexed/debug/classes_34fef6fd398e88715a1a23d3894bb0ad6380c669.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kyeolhan/.android/build-cache/c22ce37662c44f8b017127b00a98a7e3609fc124/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98ac18f891a8279ae57c4771cbf4a2a65f95b04c">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_34fef6fd398e88715a1a23d3894bb0ad6380c669/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyeolhan/.android/build-cache/1597a354fadfed723049eb7932d0f6a27293910c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="597d0d34e15e713c486e8f4ccf739f0c7d05bde4">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/pre-dexed/debug/classes_22716a06ca0a135f8398440c9a39409fdafc964e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyeolhan/.android/build-cache/3a297628db3476967d95e5f0363002d8d2732d7e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="287051610dd01cc6eeaed7fc689712c31ad1ff70">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/pre-dexed/debug/classes_3702abac440e3d9dcb1af8f9e063bff745e53247.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kyeolhan/.android/build-cache/8e9ef1c63c9d192abf487376142cc1996d18e3c8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43df709c95f6b0501b3adbc7da992b6a69a03214">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_17ed9e94e31904e14c0910cc7b0ad463e635ebde/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyeolhan/.android/build-cache/a874a7c09527274c8023a73367de29b3254369c8/output/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_95163e8a6355098554cfcd834fd11298e5694706.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyeolhan/.android/build-cache/4e86735bbeaa8df6a289f5835820a41513a424b3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c01990d0a9bbc67f4c2b9610c1170046c2e37b3e">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/pre-dexed/debug/classes_e4674bb07a81323ca91e6e1923723f3e16396dd2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kyeolhan/.android/build-cache/17ccd67f4ea5c8f90360561d90162110f0d5e6b2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8748e15968514ff1708deb3bb7f0c17623e50bbb">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8462409781d0bceb322dd7ee437bbaa0c90cc011/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kyeolhan/.android/build-cache/3a297628db3476967d95e5f0363002d8d2732d7e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="287051610dd01cc6eeaed7fc689712c31ad1ff70">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3702abac440e3d9dcb1af8f9e063bff745e53247/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kyeolhan/.android/build-cache/c8a25367229dca3b8fd8324dd58d5d69b94134a2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dde643ce80b967f869e9b111255815ba4d391653">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2065a6dba5145fd1fe8b1ee7a50a645f3f596a64/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kyeolhan/.android/build-cache/2f8b2554190bd1644f05bf5aef7e2a8389d92883/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="54933c89f90a872aa342004e82b23e776fe12736">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9b53483cffb3611743e9447a12c7ee1bef6ffc5d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyeolhan/.android/build-cache/8e9ef1c63c9d192abf487376142cc1996d18e3c8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43df709c95f6b0501b3adbc7da992b6a69a03214">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/pre-dexed/debug/classes_17ed9e94e31904e14c0910cc7b0ad463e635ebde.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyeolhan/.android/build-cache/c8a25367229dca3b8fd8324dd58d5d69b94134a2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dde643ce80b967f869e9b111255815ba4d391653">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/pre-dexed/debug/classes_2065a6dba5145fd1fe8b1ee7a50a645f3f596a64.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kyeolhan/.android/build-cache/4e86735bbeaa8df6a289f5835820a41513a424b3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c01990d0a9bbc67f4c2b9610c1170046c2e37b3e">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e4674bb07a81323ca91e6e1923723f3e16396dd2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyeolhan/.android/build-cache/b592a1bc68dd50baf9005c9e9ed848bdfbe75e4a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa6a6e385297077a344e0bb95ab6c22f22119261">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/pre-dexed/debug/classes_8a596b88d4aa618b2c70b8939fc134296b8768fa.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kyeolhan/.android/build-cache/b592a1bc68dd50baf9005c9e9ed848bdfbe75e4a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa6a6e385297077a344e0bb95ab6c22f22119261">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8a596b88d4aa618b2c70b8939fc134296b8768fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyeolhan/.android/build-cache/1176b3799df68a56127e09ddd3336bb7c652a990/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2ed7ba48801a0a361727833ade3b6cf096968cc0">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/pre-dexed/debug/classes_b544fd2124d2cd7c7c9cb1cfcbbf997544246d57.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kyeolhan/.android/build-cache/c395faa899c647e16fa9e932f7112dcd1d04c2cd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="29d9916bd9ad8406a53edbafbbce5e18943aa882">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0805e254f4f9a30bc00e84411a84a880d6293495/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyeolhan/.android/build-cache/c411e6b41a8ca8ec94a5976adaf500eefd63a8ee/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/pre-dexed/debug/classes_436b5822fd131be20d006adbe755cb6642c30bf1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyeolhan/.android/build-cache/a874a7c09527274c8023a73367de29b3254369c8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/pre-dexed/debug/classes_f27825f88f1bb6790bfd7ea9cdde847df013af72.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kyeolhan/.android/build-cache/a874a7c09527274c8023a73367de29b3254369c8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f27825f88f1bb6790bfd7ea9cdde847df013af72/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyeolhan/.android/build-cache/d885022ea30466adaa2a0539217e9ae4cda9ab9a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6b8ad09b76c4ffaedf443ca54bc2418760870689">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/pre-dexed/debug/classes_479ea4412db4ef1ea46c139ce8dfaa1346c982c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyeolhan/.android/build-cache/c395faa899c647e16fa9e932f7112dcd1d04c2cd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="29d9916bd9ad8406a53edbafbbce5e18943aa882">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/pre-dexed/debug/classes_0805e254f4f9a30bc00e84411a84a880d6293495.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kyeolhan/.android/build-cache/d885022ea30466adaa2a0539217e9ae4cda9ab9a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6b8ad09b76c4ffaedf443ca54bc2418760870689">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_479ea4412db4ef1ea46c139ce8dfaa1346c982c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyeolhan/.android/build-cache/bac9b31670670b59ce74c4fb0910e7ebd73584b9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0e23941db151e67886844de6586e180bb2b860ad">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/pre-dexed/debug/classes_dc4afae8d10a08150dcad235d49805a54023ad39.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kyeolhan/.android/build-cache/5df2103b468d809d0fbe1f1a52b29edfc90dd298/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_93eb7e133924f41ea48a9357669453fac5431113/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kyeolhan/.android/build-cache/bac9b31670670b59ce74c4fb0910e7ebd73584b9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0e23941db151e67886844de6586e180bb2b860ad">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dc4afae8d10a08150dcad235d49805a54023ad39/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kyeolhan/.android/build-cache/72eebb4e9b12a3eb4d4c471845a4c0a6be75dd38/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_472a8683a8dafea6aa80fad4fd4eb9dc82481959/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_83f4444f61945f18a4310c4d7e32e16007238f1e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kyeolhan/.android/build-cache/08e70b3027a2707d2d30d263ac6c3f5390a7dcf0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5764897abc81b82924e3b8cc8128a053bd469771/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyeolhan/.android/build-cache/72eebb4e9b12a3eb4d4c471845a4c0a6be75dd38/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/pre-dexed/debug/classes_472a8683a8dafea6aa80fad4fd4eb9dc82481959.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyeolhan/.android/build-cache/2f8b2554190bd1644f05bf5aef7e2a8389d92883/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="54933c89f90a872aa342004e82b23e776fe12736">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/pre-dexed/debug/classes_9b53483cffb3611743e9447a12c7ee1bef6ffc5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyeolhan/.android/build-cache/08e70b3027a2707d2d30d263ac6c3f5390a7dcf0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/pre-dexed/debug/classes_5764897abc81b82924e3b8cc8128a053bd469771.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyeolhan/.android/build-cache/17ccd67f4ea5c8f90360561d90162110f0d5e6b2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8748e15968514ff1708deb3bb7f0c17623e50bbb">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/pre-dexed/debug/classes_8462409781d0bceb322dd7ee437bbaa0c90cc011.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyeolhan/.android/build-cache/40eba627f3d725a90fd21b35f94cbb965914d038/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b2b4d3ecd541814f08200f8171def113095d5f39">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/pre-dexed/debug/classes_38c1b1c12a309a788e11b42c963e12f45eaf8f96.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kyeolhan/.android/build-cache/a874a7c09527274c8023a73367de29b3254369c8/output/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_95163e8a6355098554cfcd834fd11298e5694706/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyeolhan/.android/build-cache/d52fdbcefd082a1517834b29ffcbceef26b5a58c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="29e4e634375ab2ed25f8db5387b564c78980422a">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/pre-dexed/debug/classes_63e99e0763f8318089704789135bd983fec2c2cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyeolhan/.android/build-cache/7ce6b7cc438b61a7d20c04ee1705a85df623bd6b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2188ba20a948ec6e7fa671b818c69d876d8bf32d">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/pre-dexed/debug/classes_fdefb5b52984425fcac78c5c8a83fb82923df410.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kyeolhan/.android/build-cache/40eba627f3d725a90fd21b35f94cbb965914d038/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b2b4d3ecd541814f08200f8171def113095d5f39">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_38c1b1c12a309a788e11b42c963e12f45eaf8f96/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kyeolhan/.android/build-cache/fa992e6679d6dd3bf4086de4b209a0f4b5a6aaca/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02e70fe04e0767ccfa16745b3398816d1171f0ad">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5c19eb6335a573324f5ecce5cef0e441b1048684/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kyeolhan/.android/build-cache/7ce6b7cc438b61a7d20c04ee1705a85df623bd6b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2188ba20a948ec6e7fa671b818c69d876d8bf32d">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fdefb5b52984425fcac78c5c8a83fb82923df410/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyeolhan/.android/build-cache/f72374dee9b6fc47922ca0c4154bb275c8263e0c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="32aa1b2a2f68f455403d10d41d8ded37c9812f11">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/pre-dexed/debug/classes_981386ef1c91c73df7ddade7d1d89dbcf2cd4ff4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kyeolhan/.android/build-cache/f72374dee9b6fc47922ca0c4154bb275c8263e0c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="32aa1b2a2f68f455403d10d41d8ded37c9812f11">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_981386ef1c91c73df7ddade7d1d89dbcf2cd4ff4/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/pre-dexed/debug/classes_83f4444f61945f18a4310c4d7e32e16007238f1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyeolhan/.android/build-cache/fa992e6679d6dd3bf4086de4b209a0f4b5a6aaca/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02e70fe04e0767ccfa16745b3398816d1171f0ad">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/pre-dexed/debug/classes_5c19eb6335a573324f5ecce5cef0e441b1048684.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kyeolhan/.android/build-cache/1fae2d85f518d56b49670b570b269c1df1198c9b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1b95f2bf44857a158b097e9f80d5d18d69f32584">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dac65d1de81115b41682da9b65d62027b31feecd/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyeolhan/.android/build-cache/1fae2d85f518d56b49670b570b269c1df1198c9b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1b95f2bf44857a158b097e9f80d5d18d69f32584">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/pre-dexed/debug/classes_dac65d1de81115b41682da9b65d62027b31feecd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyeolhan/.android/build-cache/30cd40b6ae581f54231b798ce9a28b8dfc6b9adc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a75030f7a3f5f96a15acdab44829bed93154d09f">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/pre-dexed/debug/classes_6e28d3d9f4326ed3f867863230ef2f686806862e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kyeolhan/.android/build-cache/30cd40b6ae581f54231b798ce9a28b8dfc6b9adc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a75030f7a3f5f96a15acdab44829bed93154d09f">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6e28d3d9f4326ed3f867863230ef2f686806862e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kyeolhan/.android/build-cache/d52fdbcefd082a1517834b29ffcbceef26b5a58c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="29e4e634375ab2ed25f8db5387b564c78980422a">
+        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_63e99e0763f8318089704789135bd983fec2c2cd/classes.dex" />
+    </item>
+
+</items>
