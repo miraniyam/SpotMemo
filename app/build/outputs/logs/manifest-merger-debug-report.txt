@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:2:1-44:12
+ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:2:1-46:12
 	package
 		ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:3:5-44
 		INJECTED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml
@@ -25,15 +25,35 @@ uses-permission#android.permission.READ_EXTERNAL_STORAGE
 ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:7:5-80
 	android:name
 		ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:7:22-77
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:8:5-78
+	android:name
+		ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:8:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:9:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.4] /Users/kyeolhan/.android/build-cache/4981eff2f1adfd07d4f54439e77d8bba6c601bc1/output/AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-analytics:10.2.4] /Users/kyeolhan/.android/build-cache/4f83399c739ab1aacfa0848f9389306e6a949d11/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.4] /Users/kyeolhan/.android/build-cache/aa6f73e58493cf5244b561f1339374776ad30327/output/AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:10.2.4] /Users/kyeolhan/.android/build-cache/30cd40b6ae581f54231b798ce9a28b8dfc6b9adc/output/AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:10.2.4] /Users/kyeolhan/.android/build-cache/5891f678a8a3d7b7d1848cb1d995a8da37ba6d74/output/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:10.2.4] /Users/kyeolhan/.android/build-cache/c395faa899c647e16fa9e932f7112dcd1d04c2cd/output/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.4] /Users/kyeolhan/.android/build-cache/fa992e6679d6dd3bf4086de4b209a0f4b5a6aaca/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.2.4] /Users/kyeolhan/.android/build-cache/3d6e54d8d97f1d524d1d0e3b8e8f549335704a39/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.4] /Users/kyeolhan/.android/build-cache/8e9ef1c63c9d192abf487376142cc1996d18e3c8/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.2.4] /Users/kyeolhan/.android/build-cache/2f8b2554190bd1644f05bf5aef7e2a8389d92883/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.4] /Users/kyeolhan/.android/build-cache/1176b3799df68a56127e09ddd3336bb7c652a990/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] /Users/kyeolhan/.android/build-cache/24a316e29f64b9abdf9a17a5c488730a4ffb024a/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:9:22-64
 uses-feature#0x00020000
-ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:9:5-10:43
+ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:11:5-12:43
 MERGED from [com.google.android.gms:play-services-maps:10.2.4] /Users/kyeolhan/.android/build-cache/24a316e29f64b9abdf9a17a5c488730a4ffb024a/output/AndroidManifest.xml:21:5-77
 	android:glEsVersion
-		ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:10:9-41
+		ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:12:9-41
 	android:required
-		ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:9:19-42
+		ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:11:19-42
 application
-ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:11:5-42:19
+ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:13:5-44:19
 MERGED from [com.google.android.gms:play-services:10.2.4] /Users/kyeolhan/.android/build-cache/6fa384038a10599285afe28b3c19ed875a2c62fb/output/AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-ads-lite:10.2.4] /Users/kyeolhan/.android/build-cache/4981eff2f1adfd07d4f54439e77d8bba6c601bc1/output/AndroidManifest.xml:23:5-27:19
 MERGED from [com.google.android.gms:play-services-analytics:10.2.4] /Users/kyeolhan/.android/build-cache/4f83399c739ab1aacfa0848f9389306e6a949d11/output/AndroidManifest.xml:26:5-19
@@ -81,66 +101,66 @@ MERGED from [com.google.android.gms:play-services-tasks:10.2.4] /Users/kyeolhan/
 MERGED from [com.google.android.gms:play-services-basement:10.2.4] /Users/kyeolhan/.android/build-cache/e7f959c66c559835ecb274cbb395aa5b0eb526d3/output/AndroidManifest.xml:19:5-21:19
 MERGED from [com.android.support:support-v4:24.0.0] /Users/kyeolhan/.android/build-cache/08e70b3027a2707d2d30d263ac6c3f5390a7dcf0/output/AndroidManifest.xml:25:5-20
 	android:label
-		ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:14:9-41
+		ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:16:9-41
 	android:supportsRtl
-		ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:15:9-35
+		ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:17:9-35
 	android:allowBackup
-		ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:12:9-35
+		ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:14:9-35
 	android:icon
-		ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:13:9-43
+		ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:15:9-43
 	android:theme
-		ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:16:9-40
+		ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:18:9-40
 activity#com.example.miranlee.spotmemo.MainActivity
-ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:17:9-23:20
+ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:19:9-25:20
 	android:name
-		ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:17:19-47
+		ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:19:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:18:13-22:29
+ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:20:13-24:29
 action#android.intent.action.MAIN
-ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:19:17-69
+ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:21:17-69
 	android:name
-		ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:19:25-66
+		ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:21:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:21:17-77
+ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:23:17-77
 	android:name
-		ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:21:27-74
+		ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:23:27-74
 meta-data#com.google.android.gms.version
-ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:24:9-26:68
+ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:26:9-28:68
 MERGED from [com.google.android.gms:play-services-basement:10.2.4] /Users/kyeolhan/.android/build-cache/e7f959c66c559835ecb274cbb395aa5b0eb526d3/output/AndroidManifest.xml:20:9-121
 	android:value
-		ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:26:13-66
+		ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:28:13-66
 	android:name
-		ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:25:13-58
+		ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:27:13-58
 meta-data#com.google.android.maps.v2.API_KEY
-ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:27:9-29:70
+ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:29:9-31:70
 	android:value
-		ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:29:13-68
+		ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:31:13-68
 	android:name
-		ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:28:13-62
+		ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:30:13-62
 activity#com.example.miranlee.spotmemo.MyMemoActivity
-ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:31:9-51
+ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:33:9-51
 	android:name
-		ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:31:19-49
+		ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:33:19-49
 activity#com.example.miranlee.spotmemo.AddMemoActivity
-ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:33:9-52
+ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:35:9-52
 	android:name
-		ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:33:19-50
+		ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:35:19-50
 activity#com.example.miranlee.spotmemo.OthersMemoActivity
-ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:35:9-55
+ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:37:9-55
 	android:name
-		ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:35:19-53
+		ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:37:19-53
 activity#com.example.miranlee.spotmemo.ShowCateMemoActivity
-ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:37:9-57
+ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:39:9-57
 	android:name
-		ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:37:19-55
+		ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:39:19-55
 activity#com.example.miranlee.spotmemo.AddVoiceActivity
-ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:39:9-53
+ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:41:9-53
 	android:name
-		ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:39:19-51
+		ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:41:19-51
 activity#com.example.miranlee.spotmemo.AddTextActivity
-ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:41:9-52
+ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:43:9-52
 	android:name
-		ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:41:19-50
+		ADDED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml:43:19-50
 uses-sdk
 INJECTED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.google.android.gms:play-services:10.2.4] /Users/kyeolhan/.android/build-cache/6fa384038a10599285afe28b3c19ed875a2c62fb/output/AndroidManifest.xml:4:5-43
@@ -206,21 +226,6 @@ MERGED from [com.android.support:support-v4:24.0.0] /Users/kyeolhan/.android/bui
 	android:minSdkVersion
 		INJECTED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/AndroidManifest.xml
-uses-permission#android.permission.INTERNET
-ADDED from [com.google.android.gms:play-services-ads-lite:10.2.4] /Users/kyeolhan/.android/build-cache/4981eff2f1adfd07d4f54439e77d8bba6c601bc1/output/AndroidManifest.xml:19:5-66
-MERGED from [com.google.android.gms:play-services-analytics:10.2.4] /Users/kyeolhan/.android/build-cache/4f83399c739ab1aacfa0848f9389306e6a949d11/output/AndroidManifest.xml:20:5-66
-MERGED from [com.google.android.gms:play-services-appinvite:10.2.4] /Users/kyeolhan/.android/build-cache/aa6f73e58493cf5244b561f1339374776ad30327/output/AndroidManifest.xml:18:5-66
-MERGED from [com.google.firebase:firebase-crash:10.2.4] /Users/kyeolhan/.android/build-cache/30cd40b6ae581f54231b798ce9a28b8dfc6b9adc/output/AndroidManifest.xml:18:5-66
-MERGED from [com.google.android.gms:play-services-gcm:10.2.4] /Users/kyeolhan/.android/build-cache/5891f678a8a3d7b7d1848cb1d995a8da37ba6d74/output/AndroidManifest.xml:21:5-66
-MERGED from [com.google.android.gms:play-services-iid:10.2.4] /Users/kyeolhan/.android/build-cache/c395faa899c647e16fa9e932f7112dcd1d04c2cd/output/AndroidManifest.xml:21:5-66
-MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.4] /Users/kyeolhan/.android/build-cache/fa992e6679d6dd3bf4086de4b209a0f4b5a6aaca/output/AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-analytics:10.2.4] /Users/kyeolhan/.android/build-cache/3d6e54d8d97f1d524d1d0e3b8e8f549335704a39/output/AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-analytics-impl:10.2.4] /Users/kyeolhan/.android/build-cache/8e9ef1c63c9d192abf487376142cc1996d18e3c8/output/AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-iid:10.2.4] /Users/kyeolhan/.android/build-cache/2f8b2554190bd1644f05bf5aef7e2a8389d92883/output/AndroidManifest.xml:20:5-66
-MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.4] /Users/kyeolhan/.android/build-cache/1176b3799df68a56127e09ddd3336bb7c652a990/output/AndroidManifest.xml:20:5-66
-MERGED from [com.google.android.gms:play-services-maps:10.2.4] /Users/kyeolhan/.android/build-cache/24a316e29f64b9abdf9a17a5c488730a4ffb024a/output/AndroidManifest.xml:20:5-66
-	android:name
-		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.4] /Users/kyeolhan/.android/build-cache/4981eff2f1adfd07d4f54439e77d8bba6c601bc1/output/AndroidManifest.xml:19:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [com.google.android.gms:play-services-ads-lite:10.2.4] /Users/kyeolhan/.android/build-cache/4981eff2f1adfd07d4f54439e77d8bba6c601bc1/output/AndroidManifest.xml:20:5-78
 MERGED from [com.google.android.gms:play-services-analytics:10.2.4] /Users/kyeolhan/.android/build-cache/4f83399c739ab1aacfa0848f9389306e6a949d11/output/AndroidManifest.xml:21:5-78
