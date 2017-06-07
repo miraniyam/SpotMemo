@@ -1,90 +1,90 @@
 [
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/5df2103b468d809d0fbe1f1a52b29edfc90dd298/output/res/color/common_google_signin_btn_text_dark.xml"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\color\\abc_tint_default.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/color/switch_thumb_material_dark.xml"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_tint.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/5df2103b468d809d0fbe1f1a52b29edfc90dd298/output/res/color/common_google_signin_btn_tint.xml"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_primary_text_holo_light.xml",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\105463c339184e5c0f23138ddf9e9cbfe0ce5028\\output\\res\\color\\wallet_primary_text_holo_light.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/color/abc_tint_edittext.xml"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\color\\abc_search_url_text.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/color/abc_secondary_text_material_dark.xml"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\color\\switch_thumb_material_light.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/color/wallet_secondary_text_holo_dark.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/0b6cd74281eb6e5af28d2751df34ad424d0c837c/output/res/color/wallet_secondary_text_holo_dark.xml"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\a0cd4610b01520f5519a95cafd2d750744788c33\\output\\res\\color\\common_google_signin_btn_text_dark.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/color/abc_btn_colored_borderless_text_material.xml"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\color\\abc_tint_edittext.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/color/abc_primary_text_disable_only_material_light.xml"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\color\\abc_primary_text_material_light.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/color/abc_tint_seek_thumb.xml"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\color\\abc_tint_seek_thumb.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/color/abc_primary_text_material_dark.xml"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\color\\abc_secondary_text_material_dark.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/color/abc_search_url_text.xml"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\color\\abc_tint_switch_track.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/color/abc_tint_spinner.xml"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\color\\abc_tint_switch_thumb.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/color/abc_tint_default.xml"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/color/wallet_primary_text_holo_light.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/0b6cd74281eb6e5af28d2751df34ad424d0c837c/output/res/color/wallet_primary_text_holo_light.xml"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\color\\abc_primary_text_material_dark.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/5df2103b468d809d0fbe1f1a52b29edfc90dd298/output/res/color/common_google_signin_btn_text_light.xml"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\a0cd4610b01520f5519a95cafd2d750744788c33\\output\\res\\color\\common_google_signin_btn_tint.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/color/abc_secondary_text_material_light.xml"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\a0cd4610b01520f5519a95cafd2d750744788c33\\output\\res\\color\\common_google_signin_btn_text_light.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\color\\abc_tint_btn_checkable.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/color/abc_primary_text_material_light.xml"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\color\\switch_thumb_material_dark.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/color/abc_tint_btn_checkable.xml"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/color/abc_tint_switch_thumb.xml"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\color\\abc_tint_spinner.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/color/abc_tint_switch_track.xml"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_secondary_text_holo_dark.xml",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\105463c339184e5c0f23138ddf9e9cbfe0ce5028\\output\\res\\color\\wallet_secondary_text_holo_dark.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/color/switch_thumb_material_light.xml"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\color\\abc_secondary_text_material_light.xml"
     }
 ]

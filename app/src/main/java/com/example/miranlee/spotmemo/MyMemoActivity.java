@@ -38,6 +38,12 @@ public class MyMemoActivity extends ActionBarActivity {
                     fName.add(file.getName());
                 }
             }
+            files = new File(Environment.getExternalStorageDirectory().getAbsolutePath()+"/Documents/SpotMemo/Text");
+            if (files.listFiles().length > 0){
+                for (File file:files.listFiles()){
+                    fName.add(file.getName());
+                }
+            }
             files = null;
             listView.setAdapter(filelist);
         }
