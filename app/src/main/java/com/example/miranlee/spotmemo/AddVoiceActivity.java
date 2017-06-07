@@ -114,7 +114,6 @@ public class AddVoiceActivity extends ActionBarActivity implements TextToSpeech.
 
     public void onLocationChanged(Location location){
         msg = ""+location.getLatitude() +" "+location.getLongitude();
-        Toast.makeText(getBaseContext(), msg, Toast.LENGTH_LONG).show();
     }
 
     @Override
