@@ -174,7 +174,7 @@ public class MainActivity extends AppCompatActivity implements com.google.androi
 
         LocationServices.FusedLocationApi.requestLocationUpdates(googleApiClient,locationRequest,this);
 
-
+//뭐 쓴척 하기
     }
 
     @Override
