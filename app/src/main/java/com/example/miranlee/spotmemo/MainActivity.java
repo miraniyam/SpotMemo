@@ -8,6 +8,7 @@ import android.content.pm.PackageManager;
 import android.location.Location;
 import android.location.LocationManager;
 import android.os.Bundle;
+import android.os.Environment;
 import android.speech.tts.TextToSpeech;
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
@@ -34,9 +35,11 @@ import com.google.android.gms.maps.model.BitmapDescriptorFactory;
 import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.MarkerOptions;
 
+import java.io.File;
+
 public class MainActivity extends AppCompatActivity implements com.google.android.gms.location.LocationListener, GoogleApiClient.ConnectionCallbacks, GoogleApiClient.OnConnectionFailedListener, PlaceSelectionListener, OnMapReadyCallback, TextToSpeech.OnInitListener{
 
-    Button btn_myMemo;
+    public static Button btn_myMemo;
     TextToSpeech tts;
 
 
@@ -44,6 +47,7 @@ public class MainActivity extends AppCompatActivity implements com.google.androi
     double latitude = 37.554752;
     double longitude = 126.970631;
 
+    int numoffile;
     GoogleApiClient googleApiClient = null;
 
     LocationManager locationManager;
@@ -64,7 +68,14 @@ public class MainActivity extends AppCompatActivity implements com.google.androi
         setContentView(R.layout.activity_main);
         setTitle("스팟메모");
 
+        String ext = Environment.getExternalStorageState();
+        if (ext.equals(Environment.MEDIA_MOUNTED)) {
+            File files = new File(Environment.getExternalStorageDirectory().getAbsolutePath() + "/Documents/SpotMemo/Voice");
+            String numfile[] = files.list();
+            numoffile = numfile.length;
+        }
         btn_myMemo = (Button)findViewById(R.id.btn_myMemo);
+        btn_myMemo.setText("내가 남긴 "+numoffile+"개 메모");
         // 메모가 몇개인지 알아내서 버튼 이름 바꿔야지~
         tts = new TextToSpeech(this, this);
         //tts.speak("주변에 내가 남긴 N개의 메모가 있습니다",TextToSpeech.QUEUE_FLUSH,null);
