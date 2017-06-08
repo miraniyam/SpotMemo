@@ -36,6 +36,7 @@ import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.MarkerOptions;
 
 import java.io.File;
+import java.util.StringTokenizer;
 
 public class MainActivity extends AppCompatActivity implements com.google.android.gms.location.LocationListener, GoogleApiClient.ConnectionCallbacks, GoogleApiClient.OnConnectionFailedListener, PlaceSelectionListener, OnMapReadyCallback, TextToSpeech.OnInitListener{
 
@@ -46,10 +47,19 @@ public class MainActivity extends AppCompatActivity implements com.google.androi
     GoogleMap map;
     double latitude = 37.554752;
     double longitude = 126.970631;
+    String slatitude;
+    String slongtitude;
+    double tlatitude;
+    double tlongitude;
+    File filesv;
+    File filest;
 
     int numvoice;
     int numtext;
     int numoffile;
+    int Fileidx;
+    String sFileName;
+    String FileName;
     GoogleApiClient googleApiClient = null;
 
     LocationManager locationManager;
@@ -72,10 +82,10 @@ public class MainActivity extends AppCompatActivity implements com.google.androi
 
         String ext = Environment.getExternalStorageState();
         if (ext.equals(Environment.MEDIA_MOUNTED)) {
-            File filesv = new File(Environment.getExternalStorageDirectory().getAbsolutePath() + "/Documents/SpotMemo/Voice");
+            filesv = new File(Environment.getExternalStorageDirectory().getAbsolutePath() + "/Documents/SpotMemo/Voice");
             String numfilev[] = filesv.list();
             numvoice = numfilev.length;
-            File filest = new File(Environment.getExternalStorageDirectory().getAbsolutePath() + "/Documents/SpotMemo/Text");
+            filest = new File(Environment.getExternalStorageDirectory().getAbsolutePath() + "/Documents/SpotMemo/Text");
             String numfilet[] = filest.list();
             numtext = numfilet.length;
         }
@@ -203,6 +213,25 @@ public class MainActivity extends AppCompatActivity implements com.google.androi
     public void onMapReady(GoogleMap googleMap) {
         map = googleMap;
         map.setMapType(GoogleMap.MAP_TYPE_NORMAL);
+        if (filesv.listFiles().length > 0){
+            for (File file:filesv.listFiles()){
+                // 음성 메모이면 0
+                sFileName = file.getName();
+                Fileidx = sFileName.lastIndexOf(".");
+                FileName = sFileName.substring(0,Fileidx);//확장자 제거
+                StringTokenizer st = new StringTokenizer(FileName);
+                slatitude = st.nextToken();
+                slongtitude = st.nextToken();
+                tlatitude = Double.parseDouble(slatitude);
+                tlongitude = Double.parseDouble(slongtitude);
+                MarkerOptions moptions = new MarkerOptions();
+                final LatLng Locc = new LatLng(tlatitude, tlongitude);
+                moptions.position(Locc);
+                moptions.icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_GREEN));
+                map.addMarker(moptions);
+            }
+        }
+
     }
 
     public void updateMap(Location location) {

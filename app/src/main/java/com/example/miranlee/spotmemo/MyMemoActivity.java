@@ -44,7 +44,6 @@ public class MyMemoActivity extends AppCompatActivity implements TextToSpeech.On
         String ext = Environment.getExternalStorageState();
         if (ext.equals(Environment.MEDIA_MOUNTED)) {
             File files = new File(Environment.getExternalStorageDirectory().getAbsolutePath()+"/Documents/SpotMemo/Voice");
-            String numfile[] = files.list();
 
             ArrayAdapter<String> filelist = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, fName);
             if (files.listFiles().length > 0){
