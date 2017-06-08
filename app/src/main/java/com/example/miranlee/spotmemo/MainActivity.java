@@ -47,6 +47,8 @@ public class MainActivity extends AppCompatActivity implements com.google.androi
     double latitude = 37.554752;
     double longitude = 126.970631;
 
+    int numvoice;
+    int numtext;
     int numoffile;
     GoogleApiClient googleApiClient = null;
 
@@ -70,10 +72,14 @@ public class MainActivity extends AppCompatActivity implements com.google.androi
 
         String ext = Environment.getExternalStorageState();
         if (ext.equals(Environment.MEDIA_MOUNTED)) {
-            File files = new File(Environment.getExternalStorageDirectory().getAbsolutePath() + "/Documents/SpotMemo/Voice");
-            String numfile[] = files.list();
-            numoffile = numfile.length;
+            File filesv = new File(Environment.getExternalStorageDirectory().getAbsolutePath() + "/Documents/SpotMemo/Voice");
+            String numfilev[] = filesv.list();
+            numvoice = numfilev.length;
+            File filest = new File(Environment.getExternalStorageDirectory().getAbsolutePath() + "/Documents/SpotMemo/Text");
+            String numfilet[] = filest.list();
+            numtext = numfilet.length;
         }
+        numoffile = numvoice + numtext;
         btn_myMemo = (Button)findViewById(R.id.btn_myMemo);
         btn_myMemo.setText("내가 남긴 "+numoffile+"개 메모");
         // 메모가 몇개인지 알아내서 버튼 이름 바꿔야지~
