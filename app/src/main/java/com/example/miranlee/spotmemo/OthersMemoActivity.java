@@ -2,14 +2,14 @@ package com.example.miranlee.spotmemo;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.support.v7.app.ActionBarActivity;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 
 /**
  * Created by miran lee on 2017-05-14.
  */
 
-public class OthersMemoActivity extends ActionBarActivity {
+public class OthersMemoActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

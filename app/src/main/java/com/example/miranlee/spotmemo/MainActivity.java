@@ -78,7 +78,8 @@ public class MainActivity extends AppCompatActivity implements com.google.androi
                     android.Manifest.permission.INTERNET,
                     android.Manifest.permission.ACCESS_NETWORK_STATE,
                     android.Manifest.permission.WRITE_EXTERNAL_STORAGE,
-                    Manifest.permission.RECORD_AUDIO
+                    android.Manifest.permission.READ_EXTERNAL_STORAGE,
+                    android.Manifest.permission.RECORD_AUDIO
             },0);
         }
         FragmentManager fragmentManager = getFragmentManager();
@@ -153,26 +154,6 @@ public class MainActivity extends AppCompatActivity implements com.google.androi
 
     @Override
     public void onConnectionSuspended(int i) {
-        if (ActivityCompat.checkSelfPermission(this, Manifest.permission.ACCESS_FINE_LOCATION) != PackageManager.PERMISSION_GRANTED && ActivityCompat.checkSelfPermission(this, Manifest.permission.ACCESS_COARSE_LOCATION) != PackageManager.PERMISSION_GRANTED) {
-            int Fine_Perm_Check = ContextCompat.checkSelfPermission(this, Manifest.permission.ACCESS_FINE_LOCATION);
-
-            if(Fine_Perm_Check == PackageManager.PERMISSION_DENIED){
-                ActivityCompat.requestPermissions(this,new String[]{
-                        Manifest.permission.ACCESS_FINE_LOCATION,
-                        Manifest.permission.ACCESS_COARSE_LOCATION,
-                        Manifest.permission.INTERNET,
-                        Manifest.permission.ACCESS_NETWORK_STATE,
-                        Manifest.permission.WRITE_EXTERNAL_STORAGE
-                },0);
-            }
-            return;
-        }
-
-        location = LocationServices.FusedLocationApi.getLastLocation(googleApiClient);
-        if(location != null)
-            updateMap(location);
-
-        LocationServices.FusedLocationApi.requestLocationUpdates(googleApiClient,locationRequest,this);
 
 //뭐 쓴척 하기
     }

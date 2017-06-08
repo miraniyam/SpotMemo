@@ -5,7 +5,7 @@ import android.media.MediaPlayer;
 import android.os.Bundle;
 import android.os.Environment;
 import android.speech.tts.TextToSpeech;
-import android.support.v7.app.ActionBarActivity;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
@@ -13,14 +13,13 @@ import android.widget.ListView;
 
 import java.io.File;
 import java.io.FileReader;
-import java.io.IOException;
 import java.util.ArrayList;
 
 /**
  * Created by miran lee on 2017-05-14.
  */
 
-public class MyMemoActivity extends ActionBarActivity implements TextToSpeech.OnInitListener{
+public class MyMemoActivity extends AppCompatActivity implements TextToSpeech.OnInitListener{
 
     ListView listView;
     ArrayAdapter adapter;

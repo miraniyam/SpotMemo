@@ -1,17 +1,16 @@
 package com.example.miranlee.spotmemo;
 
 import android.content.Intent;
-import android.media.MediaRecorder;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
-import android.support.v7.app.ActionBarActivity;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 
 /**
  * Created by miran lee on 2017-05-14.
  */
 
-public class AddMemoActivity extends ActionBarActivity {
+public class AddMemoActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
