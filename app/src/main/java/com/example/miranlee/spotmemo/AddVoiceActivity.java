@@ -153,6 +153,7 @@ public class AddVoiceActivity extends AppCompatActivity implements GoogleApiClie
             recorder.setAudioSource(MediaRecorder.AudioSource.MIC);
             recorder.setOutputFormat(MediaRecorder.OutputFormat.THREE_GPP);
             recorder.setAudioEncoder(MediaRecorder.AudioEncoder.AMR_NB);
+            msg = "한국시각장애인연합회";
             recorder.setOutputFile(nfile.getAbsolutePath()+"/"+msg+".3gp");
             recorder.prepare();
             while(tts.isSpeaking()) {
@@ -188,7 +189,9 @@ public class AddVoiceActivity extends AppCompatActivity implements GoogleApiClie
     }
 
     public void onLocationChanged(Location location){
-        msg = ""+location.getLatitude() +" "+location.getLongitude();
+        //msg = ""+location.getLatitude() +" "+location.getLongitude();
+        //if (msg.equals(ㅣㅐㅊㅁ))
+            msg = "한국 시각 장애인 연합회";
     }
 
     @Override

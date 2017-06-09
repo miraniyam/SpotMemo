@@ -90,7 +90,7 @@ public class AddTextActivity extends AppCompatActivity implements GoogleApiClien
                     .addApi(Places.GEO_DATA_API)
                     .addApi(Places.PLACE_DETECTION_API)
                     .addOnConnectionFailedListener(this)
-                    .addApi(LocationServices.API) //로케이션정보를 얻겠다
+                   .addApi(LocationServices.API) //로케이션정보를 얻겠다
                     .build();
         }
 

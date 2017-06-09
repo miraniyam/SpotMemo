@@ -1,4 +1,4 @@
-#Fri Jun 09 01:46:03 KST 2017
+#Fri Jun 09 14:45:11 KST 2017
 file.57=/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b8aa6c5eff1411d422f545f0152db7695efcb202/classes.dex
 file.56=/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_869a89f731cf79894399ca0e876793996cf2bfb5/classes.dex
 file.55=/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/transforms/dex/debug/folders/1000/1/debug_87453212f01b9b2184be1a68be59240bb5aee029/classes.dex

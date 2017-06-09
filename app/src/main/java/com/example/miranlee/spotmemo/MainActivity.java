@@ -219,16 +219,20 @@ public class MainActivity extends AppCompatActivity implements com.google.androi
                 sFileName = file.getName();
                 Fileidx = sFileName.lastIndexOf(".");
                 FileName = sFileName.substring(0,Fileidx);//확장자 제거
-                StringTokenizer st = new StringTokenizer(FileName);
-                slatitude = st.nextToken();
-                slongtitude = st.nextToken();
-                tlatitude = Double.parseDouble(slatitude);
-                tlongitude = Double.parseDouble(slongtitude);
-                MarkerOptions moptions = new MarkerOptions();
-                final LatLng Locc = new LatLng(tlatitude, tlongitude);
-                moptions.position(Locc);
-                moptions.icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_GREEN));
-                map.addMarker(moptions);
+                if(FileName.equals("한국시각장애인연합회"))
+                    continue;
+                else {
+                    //StringTokenizer st = new StringTokenizer(FileName);
+                    //slatitude = st.nextToken();
+                    //slongtitude = st.nextToken();
+                    //tlatitude = Double.parseDouble(slatitude);
+                    //tlongitude = Double.parseDouble(slongtitude);
+                    //MarkerOptions moptions = new MarkerOptions();
+                    //final LatLng Locc = new LatLng(tlatitude, tlongitude);
+                    //moptions.position(Locc);
+                    //moptions.icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_GREEN));
+                    //map.addMarker(moptions);
+                }
             }
         }
 
