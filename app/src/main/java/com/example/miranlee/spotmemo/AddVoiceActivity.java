@@ -16,7 +16,9 @@ import android.support.v4.app.ActivityCompat;
 import android.support.v4.content.ContextCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
+import android.widget.ArrayAdapter;
 import android.widget.Button;
+import android.widget.ListView;
 import android.widget.TextView;
 
 import com.google.android.gms.common.ConnectionResult;
@@ -30,6 +32,7 @@ import com.google.android.gms.location.places.PlaceLikelihoodBuffer;
 import com.google.android.gms.location.places.Places;
 
 import java.io.File;
+import java.util.ArrayList;
 import java.util.Locale;
 
 /**
@@ -57,6 +60,8 @@ public class AddVoiceActivity extends AppCompatActivity implements GoogleApiClie
     LocationRequest locationRequest;
     Location location;
 
+    ListView listView;
+
     @Override
     protected void onStart() {
         super.onStart();
@@ -73,6 +78,9 @@ public class AddVoiceActivity extends AppCompatActivity implements GoogleApiClie
         tts.setLanguage(Locale.KOREA);
 
         getPlace = (TextView) findViewById(R.id.getPlace);
+        listView = (ListView)findViewById(R.id.listview);
+
+       final ArrayList<CharSequence> place_name = new ArrayList<CharSequence>();
 
 //        locationManager = (LocationManager) getSystemService(Context.LOCATION_SERVICE);
 //        if (ActivityCompat.checkSelfPermission(this, android.Manifest.permission.ACCESS_FINE_LOCATION) != PackageManager.PERMISSION_GRANTED && ActivityCompat.checkSelfPermission(this, android.Manifest.permission.ACCESS_COARSE_LOCATION) != PackageManager.PERMISSION_GRANTED) {
@@ -129,6 +137,7 @@ public class AddVoiceActivity extends AppCompatActivity implements GoogleApiClie
             @Override
             public void onResult(PlaceLikelihoodBuffer likelyPlaces) {
                 for (PlaceLikelihood placeLikelihood : likelyPlaces) {
+                    place_name.add( placeLikelihood.getPlace().getName());
                     getPlace.setText(String.format("Place '%s' has likelihood: %g LatLng : %s ",
                             placeLikelihood.getPlace().getName(),
                             placeLikelihood.getLikelihood(),
@@ -139,6 +148,8 @@ public class AddVoiceActivity extends AppCompatActivity implements GoogleApiClie
             }
         });
 
+        ArrayAdapter<CharSequence> aa = new ArrayAdapter<CharSequence>(this, android.R.layout.simple_dropdown_item_1line,place_name);
+        listView.setAdapter(aa);
     }
 
     public void onClickStart(View view) {
