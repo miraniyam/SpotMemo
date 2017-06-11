@@ -194,7 +194,7 @@ public class AddVoiceActivity extends AppCompatActivity implements GoogleApiClie
     }
 
     public void onBack(View view) {
-        Intent i = new Intent(this, AddMemoActivity.class);
+        Intent i = new Intent(this, MainActivity.class);
         finish();
         startActivity(i);
     }
