@@ -3,21 +3,534 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\miran lee\Documents\GitHub\SpotMemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="C:\Users\Tazo\.android\build-cache\5b21451faaf8be6313208f905f79a879d179aea9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="88ae4c6ceaeab7beca5e396e0698c6958e26a2d2">
+        <dex dex="C:\Users\Tazo\SpotMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_813561c3056a6770d43266945f5411ea42485bbc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tazo\.android\build-cache\6cd5c896d02c23670b53fc32169b351d472af563\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\Users\Tazo\SpotMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a6b384ba9247b29acb3b0dfbe5ee219e841dd29f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tazo\.android\build-cache\4da94721aa375c5ddd386c6707ae0637cd45418a\output\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\Tazo\SpotMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_2534bd9c2c9efd8e4502fe3ba6e940738cf6a75e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tazo\.android\build-cache\3cf591524ecf74e95899f4321de919b9188727d6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
+        <dex dex="C:\Users\Tazo\SpotMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_450ceba6c87aa7d858bcf13f2e11d5bd895601ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tazo\.android\build-cache\b3fd857432d0f4f048a6f505dbb0c4791f16a114\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6c8a4af7cf76d958c76ed7682f39e4b386b69305">
+        <dex dex="C:\Users\Tazo\SpotMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0154266bb5749e7308d824ddbc37449b06aa9ec3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tazo\.android\build-cache\09f351bcc4795975dda0e1f5337a7c91efdab46b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98ac18f891a8279ae57c4771cbf4a2a65f95b04c">
+        <dex dex="C:\Users\Tazo\SpotMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bbf36f594ccc65799b95d0b4f7bb7f058dcd6173\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tazo\.android\build-cache\f0fc65e88d9cfed45ab647b7ea6060f4852a01d3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2ed7ba48801a0a361727833ade3b6cf096968cc0">
+        <dex dex="C:\Users\Tazo\SpotMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fa662f653c10bce3b0d075125f6c4b87404198ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tazo\.android\build-cache\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\Users\Tazo\SpotMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8a3895e6e498e1958a5e32d7e79cfff708a97fe0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tazo\.android\build-cache\d24c7b416e9f269194a25f2a3bf86ed63bb41259\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d66b8668122393a15c90471c5c974c25439d193a">
+        <dex dex="C:\Users\Tazo\SpotMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_36ad446ed0d813a61b022c1b0e225a31fd367c4c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tazo\.android\build-cache\02b8f2fe15b318cf36bf2f8989f06e162a174cd2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fe159787dd4c4bc9ed6a9d4f7430e9af1f3516c8">
+        <dex dex="C:\Users\Tazo\SpotMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_97d993af8e7ed8a2b81d70c27195c34374a7573c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tazo\.android\build-cache\4acdfd5a05f60176d4c8415ddb228c01cddd0d7f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa6a6e385297077a344e0bb95ab6c22f22119261">
+        <dex dex="C:\Users\Tazo\SpotMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5d97be3102b0af00a12a0a02c3d8fd67a18a90ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tazo\.android\build-cache\1e0012b98c7b14afc5a2d0d7b4472bb75fb05b63\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
+        <dex dex="C:\Users\Tazo\SpotMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_610d39d61c46ed5c2a89ed11c0989a5f1dee0f5f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tazo\.android\build-cache\b9c4c200069c83a6e2271a5c78c43e36b8a2b6e3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4eeba61bbc47e49a5fbdfd9aa21af5d10bf4df7c">
+        <dex dex="C:\Users\Tazo\SpotMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ea03eb98c18e2ac514ef65603fd0582246bdda50\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tazo\.android\build-cache\1162f7975be898202b5b3aea9112e1cde943919a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="183e4fb7cf95f4fa54963cfcdaf0f4d7e2397bad">
+        <dex dex="C:\Users\Tazo\SpotMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cb62f20f89ea2d9b55edba9117fc83b8fb244a63\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tazo\.android\build-cache\f605e3a8bbfcdc9e3bca5ce78ab005fdbb2a07e9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6b8ad09b76c4ffaedf443ca54bc2418760870689">
+        <dex dex="C:\Users\Tazo\SpotMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fbea6455660284a88834f1509a12f6fd4de6adbd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tazo\.android\build-cache\aa5f75cba7b27fd999e9a676656b088043a3d7e1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
+        <dex dex="C:\Users\Tazo\SpotMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_02840b209f77cfe792611be7b49bf9c7515f1ef7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tazo\.android\build-cache\f5b1edfd9da7f4787fd39cd92973e4e945f5b5a4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="54933c89f90a872aa342004e82b23e776fe12736">
+        <dex dex="C:\Users\Tazo\SpotMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_76994e35d09b8d0e0550bbcb8fd1c1cac589d4db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tazo\.android\build-cache\acf0761587ff681025643a2cc35cf2ecb09d5210\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cba8868595f6aaff54cf7d1798591108cf5611c">
+        <dex dex="C:\Users\Tazo\SpotMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_901f4cb802299ff3040e16d98dc774bafe2ac7d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tazo\.android\build-cache\878c8db6db8c2f4fe1fdba7d29c3ec6b224aa854\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="acc7a846f0bc56ecccda535fc919fd338b2b3e2c">
+        <dex dex="C:\Users\Tazo\SpotMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1fffa52e71b16d23c5156aae95ecebb2d7f24bb7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tazo\.android\build-cache\249fa0492dc4274db38ac918330a23cc572a9b96\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="701c58abf53f488bc5bb0162f1305a38a32fb5f1">
+        <dex dex="C:\Users\Tazo\SpotMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_404375528c1586f42178bac23d1bf75ea2fdf9bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tazo\.android\build-cache\cebc2985f6885c2bc31b1754338681ca54819be3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1b95f2bf44857a158b097e9f80d5d18d69f32584">
+        <dex dex="C:\Users\Tazo\SpotMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8128b38dd46d9120a6fcbcbd034bd637fbc18246\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tazo\.android\build-cache\5a81978db58c862bafd11929a6b02e488f25bbe2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="80ecaefc1035fde747999e4c20e18d207363efa2">
+        <dex dex="C:\Users\Tazo\SpotMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fe858795317bdcfa8bdaef6c77c763b72617fe03\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tazo\.android\build-cache\1ea13d5ee405a5f3939dc23a5c59b5b02c8f797c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="90236fba9ac4dfb1f4196e231aab964522143ef6">
+        <dex dex="C:\Users\Tazo\SpotMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f05249a08b61d4c9945948885814200ac74fd864\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tazo\.android\build-cache\c46911d7d8bc8434efc4cfa089132d26ad759ce1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\Tazo\SpotMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4d14d44f81dd5a2cf77c807068cd74dd30b877a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tazo\.android\build-cache\f827d333722a4e16f4ce64c7cab1a65f69698c08\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="610ae6a6872d9718fc05e2c726758206bd367595">
+        <dex dex="C:\Users\Tazo\SpotMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ec9e979a85e82d76abd0490efd3c45180ef552b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tazo\SpotMemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b24808f2712fd33488c5d71eb4c0a77c6e907ce5">
+        <dex dex="C:\Users\Tazo\SpotMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_6e2347890382f6c95e6cbfac6cd4f42d50a2570a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tazo\.android\build-cache\3809e32d96616f265cb0659bf0143637927a9704\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="597d0d34e15e713c486e8f4ccf739f0c7d05bde4">
+        <dex dex="C:\Users\Tazo\SpotMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5e62bf646b0f7b43212ef4e2e4ca59fb051d6f06\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tazo\.android\build-cache\79148fe154cc1e5b40c48e09652e4dada6ba9854\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="143e5647b772c08c9f0d807b24bbc0b05ff6c7d2">
+        <dex dex="C:\Users\Tazo\SpotMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_af73d4c4e4c946f50eaaf6e681c37117171026ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tazo\.android\build-cache\8dc23910fa2055056fc9b4103d0da1d61eaa1881\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="657abe17c5ba58f5d24803ba303c6005b180897a">
+        <dex dex="C:\Users\Tazo\SpotMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6d14c69161c054d20a47bc51e47f6be00e9f4900\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tazo\SpotMemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
-        <dex dex="C:\Users\miran lee\Documents\GitHub\SpotMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_0c73fce7a09ccd854c4d0e9e3e1108d15c3e75a7\classes.dex" />
+        <dex dex="C:\Users\Tazo\SpotMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d8d7640b6797fd01ec3ae130e73e3c3ae9603390\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\miran lee\Documents\GitHub\SpotMemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
+        jar="C:\Users\Tazo\.android\build-cache\391e1b1fa00c5b96721e4f9cf2c041a2caa3b80b\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="3b6e954ae2761345e7d0bca1d68f7fd88b2ba471">
-        <dex dex="C:\Users\miran lee\Documents\GitHub\SpotMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_8e242239780465b716cf5988ba0abb14efeaa17a\classes.dex" />
+        sha1="dde643ce80b967f869e9b111255815ba4d391653">
+        <dex dex="C:\Users\Tazo\SpotMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bbf15fddca08f8d03c52dce2cee3c87fb68d5f7d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tazo\.android\build-cache\cd3c48e575f671b50ce16cdbfc7f0bb9833b8338\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c01990d0a9bbc67f4c2b9610c1170046c2e37b3e">
+        <dex dex="C:\Users\Tazo\SpotMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4ebf146d367acb5cb394ae56f39fcc02c582f66a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tazo\.android\build-cache\312b3bd8c4d9e27117fddcb99d211ab9bdf9a2b0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="29e4e634375ab2ed25f8db5387b564c78980422a">
+        <dex dex="C:\Users\Tazo\SpotMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_67d13e824517ca190a28cfba3299e1b83e39530a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tazo\.android\build-cache\7a271f8bc952b4cd0c4aee151f47f7d0aed9bc2a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e0f082141b7aa90aab5d3a47ab09b0edc958f6b">
+        <dex dex="C:\Users\Tazo\SpotMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a28da9471503d24c758c8da545a3aab6fd99f047\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tazo\.android\build-cache\021880ec37d3da5d7348a12756805dd94c8ec273\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6d0d5e86f5b7203834df01ed78ebfdd5cbf74d48">
+        <dex dex="C:\Users\Tazo\SpotMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0de837726f829a0c4c81e17f0b6b668026412074\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tazo\.android\build-cache\506774274a0a7357350eeed918cb935a2fa93a2e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d2d27edb6fbc12fdf28008cdff920e66f08cf159">
+        <dex dex="C:\Users\Tazo\SpotMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_460f7c15224d09d12677b6fd62e109e47c7fc23d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tazo\.android\build-cache\4da94721aa375c5ddd386c6707ae0637cd45418a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\Tazo\SpotMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c6084c2b6518473b0f4671feaece411cdfc467c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tazo\.android\build-cache\c345ea5e683618967350148391ad8e1de89edc3e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43df709c95f6b0501b3adbc7da992b6a69a03214">
+        <dex dex="C:\Users\Tazo\SpotMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c62ced6de100e33a694b745c0667b774bd6428a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tazo\.android\build-cache\c46911d7d8bc8434efc4cfa089132d26ad759ce1\output\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\Tazo\SpotMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_0f405dadbfb7240ee2344e5c30ab6992f7a6cc7e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tazo\.android\build-cache\860382ffeb2f9b11dfb566cca4984e3dc7d160de\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b2b4d3ecd541814f08200f8171def113095d5f39">
+        <dex dex="C:\Users\Tazo\SpotMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2f44c4085bfa191319e9f167ddd2031de195393a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tazo\.android\build-cache\08f9c60d886cf3c5c08589564486b9c274936b7a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a75030f7a3f5f96a15acdab44829bed93154d09f">
+        <dex dex="C:\Users\Tazo\SpotMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c394da8d2f212ac9486ecd790fda2604cbf52149\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tazo\.android\build-cache\79572c10481f513869e2998600252de7f4fcb863\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="32aa1b2a2f68f455403d10d41d8ded37c9812f11">
+        <dex dex="C:\Users\Tazo\SpotMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d65ee9aab7cf5210ddc91944c2dcd5d77ffe4b10\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tazo\.android\build-cache\b3fdb81a9e72738aaa31b9fcabf30942c1a8568e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d72eb1ceff1b0bac4916088eb44bb93f86b1265c">
+        <dex dex="C:\Users\Tazo\SpotMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f4d303908f64fb14625f6eb58f1f37f90d5eafb3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tazo\.android\build-cache\103c3f0afe8f0093a7a54416f6674d16e684f161\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="29d9916bd9ad8406a53edbafbbce5e18943aa882">
+        <dex dex="C:\Users\Tazo\SpotMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a68e1089341a66230001a3586bcecc046ce794d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tazo\.android\build-cache\dc4b165dd2e75cdeea25d5c992d816ad0b1dfd28\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="287051610dd01cc6eeaed7fc689712c31ad1ff70">
+        <dex dex="C:\Users\Tazo\SpotMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_48c213c7509fff5ae9287a0c886e7d22a15529ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tazo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\Tazo\SpotMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_8ea0927b191bb911777bc7d40ecc16a31d59fd60\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tazo\.android\build-cache\54d8baabf26938ec9574eafd15d8242e51dd66fc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fdf15d202000492aefe43092b21af5332df0178">
+        <dex dex="C:\Users\Tazo\SpotMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_10d5cb283899c42e42719c1e86d2792bb9aa9ef0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tazo\.android\build-cache\7cbcb9a7c246c326841ec8bb7f2356c068521fdb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93094dbb2af50e23339620bebd7b4b6161410edb">
+        <dex dex="C:\Users\Tazo\SpotMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d67212a45248309ac0e1a984f53a8ae2a8a341ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tazo\.android\build-cache\56bfc096ba8af34f1617ae3ce58051015d4e014b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a9c8affe1f564ec0d063be68469d26e972455217">
+        <dex dex="C:\Users\Tazo\SpotMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4b830cd4407cff7a30427cacbfeffa5622985d66\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tazo\.android\build-cache\2a0207bab118dd46882942adbdf99274c3bcf3a0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8748e15968514ff1708deb3bb7f0c17623e50bbb">
+        <dex dex="C:\Users\Tazo\SpotMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ce6691bf93498b61d710df9a2e759e93237c2dc8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tazo\.android\build-cache\56ffd65c3fc0a4966cc7bce13e450bd3ee4c5861\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2188ba20a948ec6e7fa671b818c69d876d8bf32d">
+        <dex dex="C:\Users\Tazo\SpotMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_45060198ee7b2e8fe6939cbdd6cdd30690f85a6d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tazo\.android\build-cache\5625aa456057aa437f6b42c8d8fce5a30c576f28\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b50fe5288bba9d1635ba619bd3c308319205543e">
+        <dex dex="C:\Users\Tazo\SpotMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e07372b64745f0e9594dc2cb8ba660a3f6ed3fa6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tazo\.android\build-cache\c8cb9dd34d7e7b3e73b97d96def40b5a42632c59\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\Tazo\SpotMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a45c9ffc75044903b899a344b2737bb0c8d73b57\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tazo\.android\build-cache\4f374db247d4daa3da20649d3e311e8d7a0ac6bf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="688809418e4c2b5014a028c02708d6aeaba466ff">
+        <dex dex="C:\Users\Tazo\SpotMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1d9a73eddfde0cb70b1db55bf94b6372e454df83\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tazo\.android\build-cache\e0469a1e23681c1fa01c01ffaf9cf9f2b880058a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0e23941db151e67886844de6586e180bb2b860ad">
+        <dex dex="C:\Users\Tazo\SpotMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7728a023aeb16fde765fae6f11719a84895455ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tazo\.android\build-cache\89d1c224d460bd471f04cbe6e661813662d6715b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c76804333008c855433cad5cfd1256e86045e97b">
+        <dex dex="C:\Users\Tazo\SpotMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4581f274bfd2e46e20b2252ccb9b61ffe103a74a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tazo\.android\build-cache\adb7688e6625f7db790aae278b22b43c15fb5d12\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\Users\Tazo\SpotMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d9f6af1a5b475e60789a2d8ca7cc4f6fb92a856a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tazo\.android\build-cache\9b009c93f5f99deec782b5c6102ea488af131e4b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02e70fe04e0767ccfa16745b3398816d1171f0ad">
+        <dex dex="C:\Users\Tazo\SpotMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ae73c5e3fe0484617181513ee225d196ea69fd69\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Tazo\.android\build-cache\fbde715474305cc0aa94169a346b752b16d29e91\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6b8d1a53648f7ecfe9e7bf0baf9ca657c5a1ff91">
+        <dex dex="C:\Users\Tazo\SpotMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a7bfd49e475dec98b3a95a53be66fc52c3fbc119\classes.dex" />
     </item>
 
 </items>

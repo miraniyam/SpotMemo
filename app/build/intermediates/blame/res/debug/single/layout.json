@@ -1,490 +1,734 @@
 [
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\select_dialog_multichoice_material.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/layout/select_dialog_item_material.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_addtext.xml",
-        "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\src\\main\\res\\layout\\activity_addtext.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_addtext.xml",
+        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\src\\main\\res\\layout\\activity_addtext.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_intro_overlay.xml",
+        "source": "C:\\Users\\Tazo\\.android\\build-cache\\b3fdb81a9e72738aaa31b9fcabf30942c1a8568e\\output\\res\\layout\\cast_intro_overlay.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
-        "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/res/layout/activity_main.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
-        "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_volume_control.xml",
+        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\layout\\mr_volume_control.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/layout/cast_intro_overlay.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/73c978b62e39dad6c6b3acb445b0d023ba05f6b0/output/res/layout/cast_intro_overlay.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
-        "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/layout/notification_template_part_chronometer.xml"
+        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
-        "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\layout\\abc_action_bar_up_container.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/layout/notification_template_part_time.xml"
+        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/layout/cast_help_text.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/73c978b62e39dad6c6b3acb445b0d023ba05f6b0/output/res/layout/cast_help_text.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
-        "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\select_dialog_item_material.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/layout/abc_expanded_menu_layout.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/layout/select_dialog_singlechoice_material.xml"
+        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\layout\\notification_template_big_media.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/layout/cast_expanded_controller_activity.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/73c978b62e39dad6c6b3acb445b0d023ba05f6b0/output/res/layout/cast_expanded_controller_activity.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/layout/abc_action_menu_item_layout.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/layout/mr_chooser_dialog.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/a874a7c09527274c8023a73367de29b3254369c8/output/res/layout/mr_chooser_dialog.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_layout.xml",
+        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\73c978b62e39dad6c6b3acb445b0d023ba05f6b0\\output\\res\\layout\\cast_tracks_chooser_dialog_layout.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_expanded_controller_activity.xml",
-        "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\layout\\cast_expanded_controller_activity.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\73d26c5edd6a3dd67398311c2455ad0342bd9519\\output\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/layout/abc_action_mode_close_item_material.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\abc_screen_simple.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
-        "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\.android\\build-cache\\0142f3ff289c742feb1ddf6a7234c0cd360a5114\\output\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_addvoice.xml",
+        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\src\\main\\res\\layout\\activity_addvoice.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/layout/abc_list_menu_item_radio.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row.xml",
+        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\src\\main\\res\\layout\\row.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_help_text.xml",
-        "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\layout\\cast_help_text.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
-        "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\abc_search_view.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_intro_overlay.xml",
-        "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\layout\\cast_intro_overlay.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\layout\\notification_template_lines.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
-        "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\73d26c5edd6a3dd67398311c2455ad0342bd9519\\output\\res\\layout\\place_autocomplete_progress.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/layout/support_simple_spinner_dropdown_item.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
-        "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\abc_action_bar_title_item.xml"
+        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\layout\\abc_action_menu_item_layout.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
-        "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\.android\\build-cache\\0142f3ff289c742feb1ddf6a7234c0cd360a5114\\output\\res\\layout\\place_autocomplete_progress.xml"
+        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
-        "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
-        "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_mini_controller.xml",
+        "source": "C:\\Users\\Tazo\\.android\\build-cache\\b3fdb81a9e72738aaa31b9fcabf30942c1a8568e\\output\\res\\layout\\cast_mini_controller.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/layout/activity_showmymemo.xml",
-        "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/res/layout/activity_showmymemo.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\layout\\notification_template_media.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
-        "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
-        "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\.android\\build-cache\\0142f3ff289c742feb1ddf6a7234c0cd360a5114\\output\\res\\layout\\place_autocomplete_item_prediction.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\layout\\notification_template_part_time.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/layout/activity_addmemo.xml",
-        "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/res/layout/activity_addmemo.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/layout/abc_action_bar_up_container.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_expanded_controller_activity.xml",
+        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\layout\\cast_expanded_controller_activity.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/layout/abc_list_menu_item_layout.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_mini_controller.xml",
+        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\layout\\cast_mini_controller.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/layout/abc_dialog_title_material.xml"
+        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "C:\\Users\\Tazo\\.android\\build-cache\\b3fd857432d0f4f048a6f505dbb0c4791f16a114\\output\\res\\layout\\place_autocomplete_item_prediction.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
-        "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Tazo\\SpotMemo\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
-        "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\notification_media_action.xml"
+        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_controller_material_dialog_b.xml",
+        "source": "C:\\Users\\Tazo\\.android\\build-cache\\c46911d7d8bc8434efc4cfa089132d26ad759ce1\\output\\res\\layout\\mr_controller_material_dialog_b.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_addtext.xml",
+        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\src\\main\\res\\layout\\activity_addtext.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
-        "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\abc_select_dialog_material.xml"
+        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row.xml",
+        "source": "C:\\Users\\Tazo\\SpotMemo\\app\\src\\main\\res\\layout\\row.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/layout/cast_mini_controller.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/73c978b62e39dad6c6b3acb445b0d023ba05f6b0/output/res/layout/cast_mini_controller.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\notification_template_part_time.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/layout/mr_controller_volume_item.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/a874a7c09527274c8023a73367de29b3254369c8/output/res/layout/mr_controller_volume_item.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\notification_template_media.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/layout/abc_screen_simple.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_intro_overlay.xml",
+        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\73c978b62e39dad6c6b3acb445b0d023ba05f6b0\\output\\res\\layout\\cast_intro_overlay.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/layout/abc_action_menu_layout.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\notification_template_big_media.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_playback_control.xml",
-        "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\layout\\mr_playback_control.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_layout.xml",
+        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\layout\\cast_tracks_chooser_dialog_layout.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/layout/abc_list_menu_item_checkbox.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_addvoice.xml",
+        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\src\\main\\res\\layout\\activity_addvoice.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/layout/activity_addvoice.xml",
-        "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/res/layout/activity_addvoice.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/layout/notification_template_lines.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/layout/abc_action_bar_title_item.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_expanded_controller_activity.xml",
+        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\73c978b62e39dad6c6b3acb445b0d023ba05f6b0\\output\\res\\layout\\cast_expanded_controller_activity.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
-        "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\abc_screen_content_include.xml"
+        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/layout/mr_volume_control.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/a874a7c09527274c8023a73367de29b3254369c8/output/res/layout/mr_volume_control.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_showmymemo.xml",
+        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\src\\main\\res\\layout\\activity_showmymemo.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
-        "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\layout\\select_dialog_item_material.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
-        "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\notification_template_part_chronometer.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_showmymemo.xml",
+        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\src\\main\\res\\layout\\activity_showmymemo.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
-        "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\notification_template_big_media.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
-        "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\notification_template_part_time.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_chooser_list_item.xml",
+        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\layout\\mr_chooser_list_item.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/layout/row.xml",
-        "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/res/layout/row.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\select_dialog_item_material.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/layout/abc_alert_dialog_material.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_addmemo.xml",
-        "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\src\\main\\res\\layout\\activity_addmemo.xml"
+        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\layout\\abc_screen_simple.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/layout/place_autocomplete_progress.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/73d26c5edd6a3dd67398311c2455ad0342bd9519/output/res/layout/place_autocomplete_progress.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_controller_material_dialog_b.xml",
+        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\a874a7c09527274c8023a73367de29b3254369c8\\output\\res\\layout\\mr_controller_material_dialog_b.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/layout/activity_addtext.xml",
-        "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/res/layout/activity_addtext.xml"
+        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
-        "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\abc_action_mode_bar.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/layout/activity_othersmemo.xml",
-        "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/res/layout/activity_othersmemo.xml"
+        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_othersmemo.xml",
+        "source": "C:\\Users\\Tazo\\SpotMemo\\app\\src\\main\\res\\layout\\activity_othersmemo.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
-        "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\abc_action_bar_up_container.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\layout\\notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_layout.xml",
-        "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\layout\\cast_tracks_chooser_dialog_layout.xml"
+        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\layout\\abc_action_bar_up_container.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mymemo.xml",
-        "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\src\\main\\res\\layout\\activity_mymemo.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_addmemo.xml",
+        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\src\\main\\res\\layout\\activity_addmemo.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/layout/mr_controller_material_dialog_b.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/a874a7c09527274c8023a73367de29b3254369c8/output/res/layout/mr_controller_material_dialog_b.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_othersmemo.xml",
+        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\src\\main\\res\\layout\\activity_othersmemo.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
-        "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\notification_template_lines.xml"
+        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_row_layout.xml",
+        "source": "C:\\Users\\Tazo\\.android\\build-cache\\b3fdb81a9e72738aaa31b9fcabf30942c1a8568e\\output\\res\\layout\\cast_tracks_chooser_dialog_row_layout.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_chooser_list_item.xml",
-        "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\layout\\mr_chooser_list_item.xml"
+        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_chooser_dialog.xml",
-        "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\layout\\mr_chooser_dialog.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row.xml",
-        "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\src\\main\\res\\layout\\row.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\layout\\notification_media_action.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/layout/cast_tracks_chooser_dialog_row_layout.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/73c978b62e39dad6c6b3acb445b0d023ba05f6b0/output/res/layout/cast_tracks_chooser_dialog_row_layout.xml"
+        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_volume_control.xml",
+        "source": "C:\\Users\\Tazo\\.android\\build-cache\\c46911d7d8bc8434efc4cfa089132d26ad759ce1\\output\\res\\layout\\mr_volume_control.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/layout/notification_template_big_media.xml"
+        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_volume_control.xml",
-        "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\layout\\mr_volume_control.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/layout/mr_chooser_list_item.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/a874a7c09527274c8023a73367de29b3254369c8/output/res/layout/mr_chooser_list_item.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\layout\\abc_action_menu_item_layout.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
-        "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\notification_template_media.xml"
+        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\layout\\notification_template_lines.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
-        "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\abc_screen_simple.xml"
+        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "C:\\Users\\Tazo\\.android\\build-cache\\b3fd857432d0f4f048a6f505dbb0c4791f16a114\\output\\res\\layout\\place_autocomplete_progress.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
-        "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\abc_action_menu_layout.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_othersmemo.xml",
+        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\src\\main\\res\\layout\\activity_othersmemo.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_powered_by_google.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/73d26c5edd6a3dd67398311c2455ad0342bd9519/output/res/layout/place_autocomplete_item_powered_by_google.xml"
+        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/layout/notification_media_cancel_action.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
-        "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_addmemo.xml",
+        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\src\\main\\res\\layout\\activity_addmemo.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
-        "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/layout/notification_template_big_media_narrow.xml"
+        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/layout/abc_screen_toolbar.xml"
+        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\layout\\abc_search_view.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/layout/abc_select_dialog_material.xml"
+        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\layout\\notification_template_part_time.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
-        "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_row_layout.xml",
+        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\layout\\cast_tracks_chooser_dialog_row_layout.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/layout/abc_screen_content_include.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\abc_search_view.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
-        "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\abc_alert_dialog_material.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/layout/abc_list_menu_item_icon.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
-        "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\abc_dialog_title_material.xml"
+        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
-        "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\layout\\notification_template_media.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
-        "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\layout\\select_dialog_multichoice_material.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_controller_volume_item.xml",
-        "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\layout\\mr_controller_volume_item.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_row_layout.xml",
+        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\73c978b62e39dad6c6b3acb445b0d023ba05f6b0\\output\\res\\layout\\cast_tracks_chooser_dialog_row_layout.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/layout/notification_media_action.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\layout\\abc_screen_content_include.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
-        "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\abc_activity_chooser_view.xml"
+        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
-        "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_intro_overlay.xml",
+        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\layout\\cast_intro_overlay.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
-        "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\notification_media_cancel_action.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\0142f3ff289c742feb1ddf6a7234c0cd360a5114\\output\\res\\layout\\place_autocomplete_progress.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
-        "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_addtext.xml",
+        "source": "C:\\Users\\Tazo\\SpotMemo\\app\\src\\main\\res\\layout\\activity_addtext.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/layout/mr_playback_control.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/a874a7c09527274c8023a73367de29b3254369c8/output/res/layout/mr_playback_control.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_chooser_list_item.xml",
+        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\a874a7c09527274c8023a73367de29b3254369c8\\output\\res\\layout\\mr_chooser_list_item.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_othersmemo.xml",
-        "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\src\\main\\res\\layout\\activity_othersmemo.xml"
+        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_addvoice.xml",
+        "source": "C:\\Users\\Tazo\\SpotMemo\\app\\src\\main\\res\\layout\\activity_addvoice.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/layout/abc_search_view.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\0142f3ff289c742feb1ddf6a7234c0cd360a5114\\output\\res\\layout\\place_autocomplete_item_prediction.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/layout/select_dialog_multichoice_material.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\layout\\abc_list_menu_item_layout.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_chooser_list_item.xml",
+        "source": "C:\\Users\\Tazo\\.android\\build-cache\\c46911d7d8bc8434efc4cfa089132d26ad759ce1\\output\\res\\layout\\mr_chooser_list_item.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_mini_controller.xml",
-        "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\layout\\cast_mini_controller.xml"
+        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\layout\\abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_prediction.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/73d26c5edd6a3dd67398311c2455ad0342bd9519/output/res/layout/place_autocomplete_item_prediction.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
-        "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_row_layout.xml",
-        "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\layout\\cast_tracks_chooser_dialog_row_layout.xml"
+        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_chooser_dialog.xml",
+        "source": "C:\\Users\\Tazo\\.android\\build-cache\\c46911d7d8bc8434efc4cfa089132d26ad759ce1\\output\\res\\layout\\mr_chooser_dialog.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/layout/abc_activity_chooser_view_list_item.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\layout\\notification_template_big_media.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
-        "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\abc_screen_toolbar.xml"
+        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_playback_control.xml",
+        "source": "C:\\Users\\Tazo\\.android\\build-cache\\c46911d7d8bc8434efc4cfa089132d26ad759ce1\\output\\res\\layout\\mr_playback_control.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/layout/abc_activity_chooser_view.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\73d26c5edd6a3dd67398311c2455ad0342bd9519\\output\\res\\layout\\place_autocomplete_item_prediction.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_controller_material_dialog_b.xml",
-        "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\layout\\mr_controller_material_dialog_b.xml"
+        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_showmymemo.xml",
+        "source": "C:\\Users\\Tazo\\SpotMemo\\app\\src\\main\\res\\layout\\activity_showmymemo.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
-        "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/layout/activity_mymemo.xml",
-        "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/res/layout/activity_mymemo.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\layout\\abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/layout/abc_popup_menu_header_item_layout.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mymemo.xml",
+        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\src\\main\\res\\layout\\activity_mymemo.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/layout/abc_action_mode_bar.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/layout/abc_popup_menu_item_layout.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_addvoice.xml",
-        "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\src\\main\\res\\layout\\activity_addvoice.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/layout/cast_tracks_chooser_dialog_layout.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/73c978b62e39dad6c6b3acb445b0d023ba05f6b0/output/res/layout/cast_tracks_chooser_dialog_layout.xml"
+        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\layout\\notification_media_cancel_action.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_showmymemo.xml",
-        "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\src\\main\\res\\layout\\activity_showmymemo.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/layout/notification_template_media.xml"
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_volume_control.xml",
+        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\a874a7c09527274c8023a73367de29b3254369c8\\output\\res\\layout\\mr_volume_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mymemo.xml",
+        "source": "C:\\Users\\Tazo\\SpotMemo\\app\\src\\main\\res\\layout\\activity_mymemo.xml"
+    },
+    {
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_help_text.xml",
+        "source": "C:\\Users\\Tazo\\.android\\build-cache\\b3fdb81a9e72738aaa31b9fcabf30942c1a8568e\\output\\res\\layout\\cast_help_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_expanded_controller_activity.xml",
+        "source": "C:\\Users\\Tazo\\.android\\build-cache\\b3fdb81a9e72738aaa31b9fcabf30942c1a8568e\\output\\res\\layout\\cast_expanded_controller_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_controller_material_dialog_b.xml",
+        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\layout\\mr_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_controller_volume_item.xml",
+        "source": "C:\\Users\\Tazo\\.android\\build-cache\\c46911d7d8bc8434efc4cfa089132d26ad759ce1\\output\\res\\layout\\mr_controller_volume_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mymemo.xml",
+        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\src\\main\\res\\layout\\activity_mymemo.xml"
+    },
+    {
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_playback_control.xml",
+        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\layout\\mr_playback_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row.xml",
+        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\src\\main\\res\\layout\\row.xml"
+    },
+    {
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_controller_volume_item.xml",
+        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\layout\\mr_controller_volume_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_playback_control.xml",
+        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\a874a7c09527274c8023a73367de29b3254369c8\\output\\res\\layout\\mr_playback_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_help_text.xml",
+        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\layout\\cast_help_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "C:\\Users\\Tazo\\.android\\build-cache\\b3fd857432d0f4f048a6f505dbb0c4791f16a114\\output\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_help_text.xml",
+        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\73c978b62e39dad6c6b3acb445b0d023ba05f6b0\\output\\res\\layout\\cast_help_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_layout.xml",
+        "source": "C:\\Users\\Tazo\\.android\\build-cache\\b3fdb81a9e72738aaa31b9fcabf30942c1a8568e\\output\\res\\layout\\cast_tracks_chooser_dialog_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_mini_controller.xml",
+        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\73c978b62e39dad6c6b3acb445b0d023ba05f6b0\\output\\res\\layout\\cast_mini_controller.xml"
+    },
+    {
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\0142f3ff289c742feb1ddf6a7234c0cd360a5114\\output\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_controller_volume_item.xml",
+        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\a874a7c09527274c8023a73367de29b3254369c8\\output\\res\\layout\\mr_controller_volume_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_addmemo.xml",
+        "source": "C:\\Users\\Tazo\\SpotMemo\\app\\src\\main\\res\\layout\\activity_addmemo.xml"
+    },
+    {
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_chooser_dialog.xml",
+        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\a874a7c09527274c8023a73367de29b3254369c8\\output\\res\\layout\\mr_chooser_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_chooser_dialog.xml",
+        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\layout\\mr_chooser_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\layout\\select_dialog_item_material.xml"
     }
 ]

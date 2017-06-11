@@ -54,9 +54,9 @@ public class MainActivity extends AppCompatActivity implements com.google.androi
     File filesv;
     File filest;
 
-    int numvoice;
-    int numtext;
-    int numoffile;
+    int numvoice=0;
+    int numtext=0;
+    int numoffile = 0;
     int Fileidx;
     String sFileName;
     String FileName;
@@ -91,7 +91,9 @@ public class MainActivity extends AppCompatActivity implements com.google.androi
         }
         numoffile = numvoice + numtext;
         btn_myMemo = (Button)findViewById(R.id.btn_myMemo);
-        btn_myMemo.setText("내가 남긴 "+numoffile+"개 메모");
+        String hey = "내가 남긴 "+String.valueOf(numoffile)+"개 메모";
+
+        btn_myMemo.setText(hey);
         // 메모가 몇개인지 알아내서 버튼 이름 바꿔야지~
         tts = new TextToSpeech(this, this);
         //tts.speak("주변에 내가 남긴 N개의 메모가 있습니다",TextToSpeech.QUEUE_FLUSH,null);
