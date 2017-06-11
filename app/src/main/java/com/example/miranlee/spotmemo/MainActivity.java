@@ -36,11 +36,10 @@ import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.MarkerOptions;
 
 import java.io.File;
-import java.util.StringTokenizer;
 
 public class MainActivity extends AppCompatActivity implements com.google.android.gms.location.LocationListener, GoogleApiClient.ConnectionCallbacks, GoogleApiClient.OnConnectionFailedListener, PlaceSelectionListener, OnMapReadyCallback, TextToSpeech.OnInitListener{
 
-    public static Button btn_myMemo;
+    Button btn_myMemo;
     TextToSpeech tts;
 
 
@@ -136,19 +135,27 @@ public class MainActivity extends AppCompatActivity implements com.google.androi
 
     }
 
-    public void onClickMyMemo(View view) {
-        Intent intent = new Intent(this,MyMemoActivity.class);
-        startActivity(intent);
-    }
+    public void changeActivity(View view){
+        Intent intent;
+        switch (view.getId()) {
+            case R.id.btn_myMemo :
+                intent = new Intent(this,MyMemoActivity.class);
+                startActivity(intent);
+                break;
+            case R.id.btn_addMemo :
+                intent = new Intent(this,AddMemoActivity.class);
+                startActivity(intent);
+                break;
+            case R.id.btn_othersMemo :
+                intent = new Intent(this,OthersMemoActivity.class);
+                startActivity(intent);
+                break;
+            case R.id.btn_search:
+                intent = new Intent(this,OthersMemoActivity.class);
+                startActivity(intent);
+                break;
+        }
 
-    public void onClickAddMemo(View view) {
-        Intent intent = new Intent(this,AddMemoActivity.class);
-        startActivity(intent);
-    }
-
-    public void onClickOthersMemo(View view) {
-        Intent intent = new Intent(this,OthersMemoActivity.class);
-        startActivity(intent);
     }
 
     @Override
