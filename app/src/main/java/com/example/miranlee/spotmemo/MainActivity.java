@@ -40,6 +40,8 @@ import java.io.File;
 public class MainActivity extends AppCompatActivity implements com.google.android.gms.location.LocationListener, GoogleApiClient.ConnectionCallbacks, GoogleApiClient.OnConnectionFailedListener, PlaceSelectionListener, OnMapReadyCallback, TextToSpeech.OnInitListener{
 
     Button btn_myMemo;
+    Button btn_addMemo;
+    Button btn_othersMemo;
     TextToSpeech tts;
 
 
@@ -151,7 +153,7 @@ public class MainActivity extends AppCompatActivity implements com.google.androi
                 startActivity(intent);
                 break;
             case R.id.btn_search:
-                intent = new Intent(this,OthersMemoActivity.class);
+                intent = new Intent(this,Search.class);
                 startActivity(intent);
                 break;
         }
