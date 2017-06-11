@@ -1,1574 +1,526 @@
 [
     {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_clear_white_24.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\b3fdb81a9e72738aaa31b9fcabf30942c1a8568e\\output\\res\\drawable-hdpi-v4\\quantum_ic_clear_white_24.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_volume_up_grey600_36.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\b3fdb81a9e72738aaa31b9fcabf30942c1a8568e\\output\\res\\drawable-hdpi-v4\\quantum_ic_volume_up_grey600_36.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_tv_light.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\a874a7c09527274c8023a73367de29b3254369c8\\output\\res\\drawable-hdpi-v4\\ic_tv_light.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_cast_light.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\drawable-hdpi-v4\\ic_cast_light.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_art_track_grey600_48.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_art_track_grey600_48.png"
     },
     {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_media_play.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\c46911d7d8bc8434efc4cfa089132d26ad759ce1\\output\\res\\drawable-hdpi-v4\\ic_media_play.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_play_light.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\drawable-hdpi-v4\\ic_play_light.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_play_arrow_grey600_36.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_play_arrow_grey600_36.png"
     },
     {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\3cf591524ecf74e95899f4321de919b9188727d6\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_close_light.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\drawable-hdpi-v4\\ic_close_light.png"
     },
     {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_volume_off_white_36.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\b3fdb81a9e72738aaa31b9fcabf30942c1a8568e\\output\\res\\drawable-hdpi-v4\\quantum_ic_volume_off_white_36.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_ic_notification_1.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\964c2408c19069fc93998ab79c8eb17effa1f9d5\\output\\res\\drawable-hdpi-v4\\cast_ic_notification_1.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_volume_off_white_36.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_volume_off_white_36.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_replay_white_24.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_replay_white_24.png"
     },
     {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_skip_previous_white_24.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\b3fdb81a9e72738aaa31b9fcabf30942c1a8568e\\output\\res\\drawable-hdpi-v4\\quantum_ic_skip_previous_white_24.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\cast_abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_ic_notification_0.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\964c2408c19069fc93998ab79c8eb17effa1f9d5\\output\\res\\drawable-hdpi-v4\\cast_ic_notification_0.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_pause_circle_filled_white_36.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_pause_circle_filled_white_36.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_pause_circle_filled_white_36.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_pause_circle_filled_white_36.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_ic_notification_2.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\964c2408c19069fc93998ab79c8eb17effa1f9d5\\output\\res\\drawable-hdpi-v4\\cast_ic_notification_2.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_cast_white.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\drawable-hdpi-v4\\ic_cast_white.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_keyboard_arrow_down_white_36.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_keyboard_arrow_down_white_36.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_volume_up_white_36.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_volume_up_white_36.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_abc_scrubber_control_to_pressed_mtrl_000.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\73c978b62e39dad6c6b3acb445b0d023ba05f6b0\\output\\res\\drawable-hdpi-v4\\cast_abc_scrubber_control_to_pressed_mtrl_000.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_audiotrack.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\drawable-hdpi-v4\\ic_audiotrack.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_media_play.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\drawable-hdpi-v4\\ic_media_play.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\cast_abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_ic_notification_0.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\3a297628db3476967d95e5f0363002d8d2732d7e\\output\\res\\drawable-hdpi-v4\\cast_ic_notification_0.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_skip_previous_grey600_36.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_skip_previous_grey600_36.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_refresh_white_24.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_refresh_white_24.png"
     },
     {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_pause_grey600_48.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\b3fdb81a9e72738aaa31b9fcabf30942c1a8568e\\output\\res\\drawable-hdpi-v4\\quantum_ic_pause_grey600_48.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_plusone_tall_off_client.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\ee01b3440fa1ed9e769babf7a7888569302d9d4e\\output\\res\\drawable-hdpi-v4\\ic_plusone_tall_off_client.png"
     },
     {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_forward_10_white_24.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_forward_10_white_24.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_play_circle_filled_white_36.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_play_circle_filled_white_36.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png"
     },
     {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_cast_dark.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\drawable-hdpi-v4\\ic_cast_dark.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\powered_by_google_light.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\0142f3ff289c742feb1ddf6a7234c0cd360a5114\\output\\res\\drawable-hdpi-v4\\powered_by_google_light.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_skip_next_white_36.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\73c978b62e39dad6c6b3acb445b0d023ba05f6b0\\output\\res\\drawable-hdpi-v4\\quantum_ic_skip_next_white_36.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_full_open_on_phone.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\a0cd4610b01520f5519a95cafd2d750744788c33\\output\\res\\drawable-hdpi-v4\\common_full_open_on_phone.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_volume_up_white_36.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_volume_up_white_36.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_ic_notification_0.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\964c2408c19069fc93998ab79c8eb17effa1f9d5\\output\\res\\drawable-hdpi-v4\\cast_ic_notification_0.png"
     },
     {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_skip_previous_grey600_36.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_skip_previous_grey600_36.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_play_circle_filled_grey600_36.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\73c978b62e39dad6c6b3acb445b0d023ba05f6b0\\output\\res\\drawable-hdpi-v4\\quantum_ic_play_circle_filled_grey600_36.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\powered_by_google_dark.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\0142f3ff289c742feb1ddf6a7234c0cd360a5114\\output\\res\\drawable-hdpi-v4\\powered_by_google_dark.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_stop_white_24.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_stop_white_24.png"
     },
     {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_play_arrow_white_24.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\b3fdb81a9e72738aaa31b9fcabf30942c1a8568e\\output\\res\\drawable-hdpi-v4\\quantum_ic_play_arrow_white_24.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_skip_previous_white_24.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_skip_previous_white_24.png"
     },
     {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_cast_white_36.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\b3fdb81a9e72738aaa31b9fcabf30942c1a8568e\\output\\res\\drawable-hdpi-v4\\quantum_ic_cast_white_36.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_speaker_group_light.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\drawable-hdpi-v4\\ic_speaker_group_light.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_tv_light.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\drawable-hdpi-v4\\ic_tv_light.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_plusone_small_off_client.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\ee01b3440fa1ed9e769babf7a7888569302d9d4e\\output\\res\\drawable-hdpi-v4\\ic_plusone_small_off_client.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_stop_grey600_36.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_stop_grey600_36.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_ic_notification_on.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\964c2408c19069fc93998ab79c8eb17effa1f9d5\\output\\res\\drawable-hdpi-v4\\cast_ic_notification_on.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_volume_off_grey600_36.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_volume_off_grey600_36.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_speaker_dark.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\drawable-hdpi-v4\\ic_speaker_dark.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_play_dark.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\drawable-hdpi-v4\\ic_play_dark.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_play_arrow_grey600_36.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\73c978b62e39dad6c6b3acb445b0d023ba05f6b0\\output\\res\\drawable-hdpi-v4\\quantum_ic_play_arrow_grey600_36.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_forward_30_grey600_36.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_forward_30_grey600_36.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_cast_off_light.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\drawable-hdpi-v4\\ic_cast_off_light.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_bigtop_updates_white_24.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_bigtop_updates_white_24.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_audiotrack_light.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\drawable-hdpi-v4\\ic_audiotrack_light.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_tv_dark.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\a874a7c09527274c8023a73367de29b3254369c8\\output\\res\\drawable-hdpi-v4\\ic_tv_dark.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_play_arrow_grey600_48.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_play_arrow_grey600_48.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\5df2103b468d809d0fbe1f1a52b29edfc90dd298\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_clear_white_24.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_clear_white_24.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_forward_30_grey600_36.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\73c978b62e39dad6c6b3acb445b0d023ba05f6b0\\output\\res\\drawable-hdpi-v4\\quantum_ic_forward_30_grey600_36.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
     {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
     },
     {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_tv_dark.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\c46911d7d8bc8434efc4cfa089132d26ad759ce1\\output\\res\\drawable-hdpi-v4\\ic_tv_dark.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_cast_grey.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\c46911d7d8bc8434efc4cfa089132d26ad759ce1\\output\\res\\drawable-hdpi-v4\\ic_cast_grey.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\3cf591524ecf74e95899f4321de919b9188727d6\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_ic_stop_circle_filled_grey600.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\b3fdb81a9e72738aaa31b9fcabf30942c1a8568e\\output\\res\\drawable-hdpi-v4\\cast_ic_stop_circle_filled_grey600.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_closed_caption_grey600_36.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_closed_caption_grey600_36.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_audiotrack_light.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\drawable-hdpi-v4\\ic_audiotrack_light.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_bigtop_updates_white_24.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\b3fdb81a9e72738aaa31b9fcabf30942c1a8568e\\output\\res\\drawable-hdpi-v4\\quantum_ic_bigtop_updates_white_24.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_pause_white_24.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_pause_white_24.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_speaker_light.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\drawable-hdpi-v4\\ic_speaker_light.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_cast_connected_white_24.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_cast_connected_white_24.png"
     },
     {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_cast_light.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\drawable-hdpi-v4\\ic_cast_light.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\powered_by_google_light.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\73d26c5edd6a3dd67398311c2455ad0342bd9519\\output\\res\\drawable-hdpi-v4\\powered_by_google_light.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\googleg_disabled_color_18.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\a0cd4610b01520f5519a95cafd2d750744788c33\\output\\res\\drawable-hdpi-v4\\googleg_disabled_color_18.png"
     },
     {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_plusone_standard_off_client.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\ee01b3440fa1ed9e769babf7a7888569302d9d4e\\output\\res\\drawable-hdpi-v4\\ic_plusone_standard_off_client.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_cast_white_36.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_cast_white_36.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_replay_10_white_24.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\73c978b62e39dad6c6b3acb445b0d023ba05f6b0\\output\\res\\drawable-hdpi-v4\\quantum_ic_replay_10_white_24.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_skip_previous_white_36.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_skip_previous_white_36.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\googleg_standard_color_18.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\5df2103b468d809d0fbe1f1a52b29edfc90dd298\\output\\res\\drawable-hdpi-v4\\googleg_standard_color_18.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_cast_disabled_light.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\drawable-hdpi-v4\\ic_cast_disabled_light.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_speaker_dark.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\a874a7c09527274c8023a73367de29b3254369c8\\output\\res\\drawable-hdpi-v4\\ic_speaker_dark.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_forward_30_white_36.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_forward_30_white_36.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_play_light.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\a874a7c09527274c8023a73367de29b3254369c8\\output\\res\\drawable-hdpi-v4\\ic_play_light.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\places_ic_search.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\b3fd857432d0f4f048a6f505dbb0c4791f16a114\\output\\res\\drawable-hdpi-v4\\places_ic_search.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
     },
     {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_ic_notification_0.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\dc4b165dd2e75cdeea25d5c992d816ad0b1dfd28\\output\\res\\drawable-hdpi-v4\\cast_ic_notification_0.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_play_circle_filled_white_36.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_play_circle_filled_white_36.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_abc_scrubber_primary_mtrl_alpha.9.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\73c978b62e39dad6c6b3acb445b0d023ba05f6b0\\output\\res\\drawable-hdpi-v4\\cast_abc_scrubber_primary_mtrl_alpha.9.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_skip_next_grey600_36.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_skip_next_grey600_36.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_art_track_grey600_48.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_art_track_grey600_48.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_volume_up_grey600_36.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_volume_up_grey600_36.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_forward_10_white_24.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\73c978b62e39dad6c6b3acb445b0d023ba05f6b0\\output\\res\\drawable-hdpi-v4\\quantum_ic_forward_10_white_24.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_forward_30_white_24.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_forward_30_white_24.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_close_light.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\a874a7c09527274c8023a73367de29b3254369c8\\output\\res\\drawable-hdpi-v4\\ic_close_light.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_pause_dark.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\drawable-hdpi-v4\\ic_pause_dark.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_play_arrow_white_24.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_play_arrow_white_24.png"
     },
     {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_abc_scrubber_control_to_pressed_mtrl_000.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\b3fdb81a9e72738aaa31b9fcabf30942c1a8568e\\output\\res\\drawable-hdpi-v4\\cast_abc_scrubber_control_to_pressed_mtrl_000.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\cast_abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_replay_30_white_36.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_replay_30_white_36.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_speaker_light.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\drawable-hdpi-v4\\ic_speaker_light.png"
     },
     {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_ic_notification_on.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\dc4b165dd2e75cdeea25d5c992d816ad0b1dfd28\\output\\res\\drawable-hdpi-v4\\cast_ic_notification_on.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\places_ic_clear.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\0142f3ff289c742feb1ddf6a7234c0cd360a5114\\output\\res\\drawable-hdpi-v4\\places_ic_clear.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_play_light.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\drawable-hdpi-v4\\ic_play_light.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_ic_stop_circle_filled_grey600.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\cast_ic_stop_circle_filled_grey600.png"
     },
     {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_tv_light.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\drawable-hdpi-v4\\ic_tv_light.png"
     },
     {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_keyboard_arrow_down_white_36.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\b3fdb81a9e72738aaa31b9fcabf30942c1a8568e\\output\\res\\drawable-hdpi-v4\\quantum_ic_keyboard_arrow_down_white_36.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_play_circle_filled_grey600_36.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_play_circle_filled_grey600_36.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_cast_dark.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\drawable-hdpi-v4\\ic_cast_dark.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\cast_abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_abc_scrubber_control_off_mtrl_alpha.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\73c978b62e39dad6c6b3acb445b0d023ba05f6b0\\output\\res\\drawable-hdpi-v4\\cast_abc_scrubber_control_off_mtrl_alpha.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_replay_white_24.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_replay_white_24.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_cast_grey.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\drawable-hdpi-v4\\ic_cast_grey.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_close_dark.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\drawable-hdpi-v4\\ic_close_dark.png"
     },
     {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_closed_caption_white_36.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_closed_caption_white_36.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_clear_white_24.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_clear_white_24.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\a0cd4610b01520f5519a95cafd2d750744788c33\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_art_track_grey600_48.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\73c978b62e39dad6c6b3acb445b0d023ba05f6b0\\output\\res\\drawable-hdpi-v4\\quantum_ic_art_track_grey600_48.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_plusone_small_off_client.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\ee01b3440fa1ed9e769babf7a7888569302d9d4e\\output\\res\\drawable-hdpi-v4\\ic_plusone_small_off_client.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_media_route_off_mono_dark.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\drawable-hdpi-v4\\ic_media_route_off_mono_dark.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_volume_off_white_36.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_volume_off_white_36.png"
     },
     {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_media_route_off_mono_dark.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\c46911d7d8bc8434efc4cfa089132d26ad759ce1\\output\\res\\drawable-hdpi-v4\\ic_media_route_off_mono_dark.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_pause_grey600_48.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_pause_grey600_48.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_play_arrow_grey600_48.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_play_arrow_grey600_48.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_tv_dark.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\drawable-hdpi-v4\\ic_tv_dark.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\googleg_disabled_color_18.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\5df2103b468d809d0fbe1f1a52b29edfc90dd298\\output\\res\\drawable-hdpi-v4\\googleg_disabled_color_18.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_media_play.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\drawable-hdpi-v4\\ic_media_play.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_pause_circle_filled_white_36.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\73c978b62e39dad6c6b3acb445b0d023ba05f6b0\\output\\res\\drawable-hdpi-v4\\quantum_ic_pause_circle_filled_white_36.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\places_ic_search.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\0142f3ff289c742feb1ddf6a7234c0cd360a5114\\output\\res\\drawable-hdpi-v4\\places_ic_search.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\5df2103b468d809d0fbe1f1a52b29edfc90dd298\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_cast_off_light.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\drawable-hdpi-v4\\ic_cast_off_light.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_stop_grey600_48.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_stop_grey600_48.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_cast_grey.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\drawable-hdpi-v4\\ic_cast_grey.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_replay_30_grey600_36.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_replay_30_grey600_36.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\powered_by_google_light.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\0142f3ff289c742feb1ddf6a7234c0cd360a5114\\output\\res\\drawable-hdpi-v4\\powered_by_google_light.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_media_pause.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\drawable-hdpi-v4\\ic_media_pause.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_skip_next_white_24.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_skip_next_white_24.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_cast_light.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\c46911d7d8bc8434efc4cfa089132d26ad759ce1\\output\\res\\drawable-hdpi-v4\\ic_cast_light.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_play_dark.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\drawable-hdpi-v4\\ic_play_dark.png"
     },
     {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_pause_grey600_36.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\b3fdb81a9e72738aaa31b9fcabf30942c1a8568e\\output\\res\\drawable-hdpi-v4\\quantum_ic_pause_grey600_36.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_replay_10_white_24.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_replay_10_white_24.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_ic_notification_1.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\3a297628db3476967d95e5f0363002d8d2732d7e\\output\\res\\drawable-hdpi-v4\\cast_ic_notification_1.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\a0cd4610b01520f5519a95cafd2d750744788c33\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_skip_previous_white_36.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_skip_previous_white_36.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_media_pause.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\drawable-hdpi-v4\\ic_media_pause.png"
     },
     {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_play_circle_filled_white_36.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\b3fdb81a9e72738aaa31b9fcabf30942c1a8568e\\output\\res\\drawable-hdpi-v4\\quantum_ic_play_circle_filled_white_36.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\a0cd4610b01520f5519a95cafd2d750744788c33\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_pause_dark.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\a874a7c09527274c8023a73367de29b3254369c8\\output\\res\\drawable-hdpi-v4\\ic_pause_dark.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_ic_notification_1.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\964c2408c19069fc93998ab79c8eb17effa1f9d5\\output\\res\\drawable-hdpi-v4\\cast_ic_notification_1.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\a0cd4610b01520f5519a95cafd2d750744788c33\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_volume_off_white_36.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\73c978b62e39dad6c6b3acb445b0d023ba05f6b0\\output\\res\\drawable-hdpi-v4\\quantum_ic_volume_off_white_36.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_plusone_medium_off_client.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\ee01b3440fa1ed9e769babf7a7888569302d9d4e\\output\\res\\drawable-hdpi-v4\\ic_plusone_medium_off_client.png"
     },
     {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_skip_next_white_36.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\b3fdb81a9e72738aaa31b9fcabf30942c1a8568e\\output\\res\\drawable-hdpi-v4\\quantum_ic_skip_next_white_36.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_pause_circle_filled_grey600_36.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_pause_circle_filled_grey600_36.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_clear_white_24.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\73c978b62e39dad6c6b3acb445b0d023ba05f6b0\\output\\res\\drawable-hdpi-v4\\quantum_ic_clear_white_24.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_ic_stop_circle_filled_white.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\cast_ic_stop_circle_filled_white.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_pause_grey600_36.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\73c978b62e39dad6c6b3acb445b0d023ba05f6b0\\output\\res\\drawable-hdpi-v4\\quantum_ic_pause_grey600_36.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_full_open_on_phone.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\5df2103b468d809d0fbe1f1a52b29edfc90dd298\\output\\res\\drawable-hdpi-v4\\common_full_open_on_phone.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\googleg_standard_color_18.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\a0cd4610b01520f5519a95cafd2d750744788c33\\output\\res\\drawable-hdpi-v4\\googleg_standard_color_18.png"
     },
     {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_media_pause.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\c46911d7d8bc8434efc4cfa089132d26ad759ce1\\output\\res\\drawable-hdpi-v4\\ic_media_pause.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_play_circle_filled_white_36.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\73c978b62e39dad6c6b3acb445b0d023ba05f6b0\\output\\res\\drawable-hdpi-v4\\quantum_ic_play_circle_filled_white_36.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_replay_30_white_24.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_replay_30_white_24.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_replay_30_white_24.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\73c978b62e39dad6c6b3acb445b0d023ba05f6b0\\output\\res\\drawable-hdpi-v4\\quantum_ic_replay_30_white_24.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_pause_grey600_36.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_pause_grey600_36.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_plusone_small_off_client.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\b89ced291a9d9e6869bde3636a5e53d276f06e68\\output\\res\\drawable-hdpi-v4\\ic_plusone_small_off_client.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_media_route_disabled_mono_dark.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\drawable-hdpi-v4\\ic_media_route_disabled_mono_dark.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_plusone_tall_off_client.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\ee01b3440fa1ed9e769babf7a7888569302d9d4e\\output\\res\\drawable-hdpi-v4\\ic_plusone_tall_off_client.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\a0cd4610b01520f5519a95cafd2d750744788c33\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\places_ic_search.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\73d26c5edd6a3dd67398311c2455ad0342bd9519\\output\\res\\drawable-hdpi-v4\\places_ic_search.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_abc_scrubber_control_to_pressed_mtrl_005.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\cast_abc_scrubber_control_to_pressed_mtrl_005.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_stop_grey600_36.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_stop_grey600_36.png"
     },
     {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_replay_10_white_24.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\b3fdb81a9e72738aaa31b9fcabf30942c1a8568e\\output\\res\\drawable-hdpi-v4\\quantum_ic_replay_10_white_24.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_pause_light.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\drawable-hdpi-v4\\ic_pause_light.png"
     },
     {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_skip_next_white_24.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\b3fdb81a9e72738aaa31b9fcabf30942c1a8568e\\output\\res\\drawable-hdpi-v4\\quantum_ic_skip_next_white_24.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_skip_next_white_36.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_skip_next_white_36.png"
     },
     {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_cast_white.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\c46911d7d8bc8434efc4cfa089132d26ad759ce1\\output\\res\\drawable-hdpi-v4\\ic_cast_white.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_cast_white_36.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_cast_white_36.png"
     },
     {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_closed_caption_white_36.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\73c978b62e39dad6c6b3acb445b0d023ba05f6b0\\output\\res\\drawable-hdpi-v4\\quantum_ic_closed_caption_white_36.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_ic_notification_on.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\964c2408c19069fc93998ab79c8eb17effa1f9d5\\output\\res\\drawable-hdpi-v4\\cast_ic_notification_on.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_plusone_small_off_client.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\249fa0492dc4274db38ac918330a23cc572a9b96\\output\\res\\drawable-hdpi-v4\\ic_plusone_small_off_client.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\powered_by_google_dark.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\73d26c5edd6a3dd67398311c2455ad0342bd9519\\output\\res\\drawable-hdpi-v4\\powered_by_google_dark.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_keyboard_arrow_down_white_36.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_keyboard_arrow_down_white_36.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_replay_30_white_36.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\73c978b62e39dad6c6b3acb445b0d023ba05f6b0\\output\\res\\drawable-hdpi-v4\\quantum_ic_replay_30_white_36.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_abc_scrubber_control_off_mtrl_alpha.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\b3fdb81a9e72738aaa31b9fcabf30942c1a8568e\\output\\res\\drawable-hdpi-v4\\cast_abc_scrubber_control_off_mtrl_alpha.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_volume_up_grey600_36.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\73c978b62e39dad6c6b3acb445b0d023ba05f6b0\\output\\res\\drawable-hdpi-v4\\quantum_ic_volume_up_grey600_36.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_media_route_disabled_mono_dark.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\drawable-hdpi-v4\\ic_media_route_disabled_mono_dark.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_cast_white_36.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\73c978b62e39dad6c6b3acb445b0d023ba05f6b0\\output\\res\\drawable-hdpi-v4\\quantum_ic_cast_white_36.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_ic_notification_on.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\3a297628db3476967d95e5f0363002d8d2732d7e\\output\\res\\drawable-hdpi-v4\\cast_ic_notification_on.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_ic_notification_1.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\dc4b165dd2e75cdeea25d5c992d816ad0b1dfd28\\output\\res\\drawable-hdpi-v4\\cast_ic_notification_1.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_volume_up_white_36.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\b3fdb81a9e72738aaa31b9fcabf30942c1a8568e\\output\\res\\drawable-hdpi-v4\\quantum_ic_volume_up_white_36.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_play_arrow_grey600_48.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\73c978b62e39dad6c6b3acb445b0d023ba05f6b0\\output\\res\\drawable-hdpi-v4\\quantum_ic_play_arrow_grey600_48.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_stop_white_24.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\b3fdb81a9e72738aaa31b9fcabf30942c1a8568e\\output\\res\\drawable-hdpi-v4\\quantum_ic_stop_white_24.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_stop_white_24.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_stop_white_24.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_play_arrow_white_24.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_play_arrow_white_24.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_media_play.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\a874a7c09527274c8023a73367de29b3254369c8\\output\\res\\drawable-hdpi-v4\\ic_media_play.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_tv_dark.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\drawable-hdpi-v4\\ic_tv_dark.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_pause_grey600_48.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\73c978b62e39dad6c6b3acb445b0d023ba05f6b0\\output\\res\\drawable-hdpi-v4\\quantum_ic_pause_grey600_48.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_plusone_medium_off_client.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\ee01b3440fa1ed9e769babf7a7888569302d9d4e\\output\\res\\drawable-hdpi-v4\\ic_plusone_medium_off_client.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_speaker_group_dark.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\a874a7c09527274c8023a73367de29b3254369c8\\output\\res\\drawable-hdpi-v4\\ic_speaker_group_dark.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_abc_scrubber_control_to_pressed_mtrl_000.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\cast_abc_scrubber_control_to_pressed_mtrl_000.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_forward_30_grey600_36.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\b3fdb81a9e72738aaa31b9fcabf30942c1a8568e\\output\\res\\drawable-hdpi-v4\\quantum_ic_forward_30_grey600_36.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_plusone_standard_off_client.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\ee01b3440fa1ed9e769babf7a7888569302d9d4e\\output\\res\\drawable-hdpi-v4\\ic_plusone_standard_off_client.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_bigtop_updates_white_24.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\73c978b62e39dad6c6b3acb445b0d023ba05f6b0\\output\\res\\drawable-hdpi-v4\\quantum_ic_bigtop_updates_white_24.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_play_arrow_grey600_36.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_play_arrow_grey600_36.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_skip_next_white_24.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\73c978b62e39dad6c6b3acb445b0d023ba05f6b0\\output\\res\\drawable-hdpi-v4\\quantum_ic_skip_next_white_24.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\5df2103b468d809d0fbe1f1a52b29edfc90dd298\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_forward_30_white_24.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_forward_30_white_24.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_audiotrack_light.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\c46911d7d8bc8434efc4cfa089132d26ad759ce1\\output\\res\\drawable-hdpi-v4\\ic_audiotrack_light.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_play_circle_filled_grey600_36.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_play_circle_filled_grey600_36.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_closed_caption_white_36.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\b3fdb81a9e72738aaa31b9fcabf30942c1a8568e\\output\\res\\drawable-hdpi-v4\\quantum_ic_closed_caption_white_36.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_replay_30_white_36.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\b3fdb81a9e72738aaa31b9fcabf30942c1a8568e\\output\\res\\drawable-hdpi-v4\\quantum_ic_replay_30_white_36.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_full_open_on_phone.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\3cf591524ecf74e95899f4321de919b9188727d6\\output\\res\\drawable-hdpi-v4\\common_full_open_on_phone.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_pause_grey600_36.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_pause_grey600_36.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_replay_30_grey600_36.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\73c978b62e39dad6c6b3acb445b0d023ba05f6b0\\output\\res\\drawable-hdpi-v4\\quantum_ic_replay_30_grey600_36.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_skip_next_grey600_36.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_skip_next_grey600_36.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_ic_stop_circle_filled_white.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\cast_ic_stop_circle_filled_white.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_play_dark.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\a874a7c09527274c8023a73367de29b3254369c8\\output\\res\\drawable-hdpi-v4\\ic_play_dark.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_tv_light.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\c46911d7d8bc8434efc4cfa089132d26ad759ce1\\output\\res\\drawable-hdpi-v4\\ic_tv_light.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_close_dark.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\c46911d7d8bc8434efc4cfa089132d26ad759ce1\\output\\res\\drawable-hdpi-v4\\ic_close_dark.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_skip_previous_grey600_36.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\b3fdb81a9e72738aaa31b9fcabf30942c1a8568e\\output\\res\\drawable-hdpi-v4\\quantum_ic_skip_previous_grey600_36.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_speaker_light.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\a874a7c09527274c8023a73367de29b3254369c8\\output\\res\\drawable-hdpi-v4\\ic_speaker_light.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_speaker_group_dark.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\drawable-hdpi-v4\\ic_speaker_group_dark.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_volume_off_grey600_36.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\b3fdb81a9e72738aaa31b9fcabf30942c1a8568e\\output\\res\\drawable-hdpi-v4\\quantum_ic_volume_off_grey600_36.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_ic_stop_circle_filled_grey600.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\cast_ic_stop_circle_filled_grey600.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_stop_grey600_36.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\73c978b62e39dad6c6b3acb445b0d023ba05f6b0\\output\\res\\drawable-hdpi-v4\\quantum_ic_stop_grey600_36.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_speaker_group_light.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\c46911d7d8bc8434efc4cfa089132d26ad759ce1\\output\\res\\drawable-hdpi-v4\\ic_speaker_group_light.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_ic_stop_circle_filled_white.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\73c978b62e39dad6c6b3acb445b0d023ba05f6b0\\output\\res\\drawable-hdpi-v4\\cast_ic_stop_circle_filled_white.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_pause_dark.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\drawable-hdpi-v4\\ic_pause_dark.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_replay_30_white_24.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\b3fdb81a9e72738aaa31b9fcabf30942c1a8568e\\output\\res\\drawable-hdpi-v4\\quantum_ic_replay_30_white_24.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_stop_grey600_48.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\b3fdb81a9e72738aaa31b9fcabf30942c1a8568e\\output\\res\\drawable-hdpi-v4\\quantum_ic_stop_grey600_48.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_closed_caption_grey600_36.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\b3fdb81a9e72738aaa31b9fcabf30942c1a8568e\\output\\res\\drawable-hdpi-v4\\quantum_ic_closed_caption_grey600_36.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_closed_caption_white_36.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_closed_caption_white_36.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\googleg_disabled_color_18.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\3cf591524ecf74e95899f4321de919b9188727d6\\output\\res\\drawable-hdpi-v4\\googleg_disabled_color_18.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_refresh_white_24.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\73c978b62e39dad6c6b3acb445b0d023ba05f6b0\\output\\res\\drawable-hdpi-v4\\quantum_ic_refresh_white_24.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_pause_white_24.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\b3fdb81a9e72738aaa31b9fcabf30942c1a8568e\\output\\res\\drawable-hdpi-v4\\quantum_ic_pause_white_24.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_pause_dark.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\c46911d7d8bc8434efc4cfa089132d26ad759ce1\\output\\res\\drawable-hdpi-v4\\ic_pause_dark.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_cast_off_light.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\a874a7c09527274c8023a73367de29b3254369c8\\output\\res\\drawable-hdpi-v4\\ic_cast_off_light.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\a0cd4610b01520f5519a95cafd2d750744788c33\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_replay_10_white_24.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_replay_10_white_24.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_stop_grey600_48.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\73c978b62e39dad6c6b3acb445b0d023ba05f6b0\\output\\res\\drawable-hdpi-v4\\quantum_ic_stop_grey600_48.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_replay_white_24.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\b3fdb81a9e72738aaa31b9fcabf30942c1a8568e\\output\\res\\drawable-hdpi-v4\\quantum_ic_replay_white_24.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_speaker_group_light.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\a874a7c09527274c8023a73367de29b3254369c8\\output\\res\\drawable-hdpi-v4\\ic_speaker_group_light.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_close_light.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\drawable-hdpi-v4\\ic_close_light.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_replay_white_24.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\73c978b62e39dad6c6b3acb445b0d023ba05f6b0\\output\\res\\drawable-hdpi-v4\\quantum_ic_replay_white_24.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_keyboard_arrow_down_white_36.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\73c978b62e39dad6c6b3acb445b0d023ba05f6b0\\output\\res\\drawable-hdpi-v4\\quantum_ic_keyboard_arrow_down_white_36.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_ic_notification_2.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\3a297628db3476967d95e5f0363002d8d2732d7e\\output\\res\\drawable-hdpi-v4\\cast_ic_notification_2.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_media_route_off_mono_dark.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\a874a7c09527274c8023a73367de29b3254369c8\\output\\res\\drawable-hdpi-v4\\ic_media_route_off_mono_dark.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_pause_grey600_48.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_pause_grey600_48.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_ic_notification_2.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\964c2408c19069fc93998ab79c8eb17effa1f9d5\\output\\res\\drawable-hdpi-v4\\cast_ic_notification_2.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_stop_grey600_36.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\b3fdb81a9e72738aaa31b9fcabf30942c1a8568e\\output\\res\\drawable-hdpi-v4\\quantum_ic_stop_grey600_36.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_closed_caption_grey600_36.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\73c978b62e39dad6c6b3acb445b0d023ba05f6b0\\output\\res\\drawable-hdpi-v4\\quantum_ic_closed_caption_grey600_36.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\5df2103b468d809d0fbe1f1a52b29edfc90dd298\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\googleg_standard_color_18.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\a0cd4610b01520f5519a95cafd2d750744788c33\\output\\res\\drawable-hdpi-v4\\googleg_standard_color_18.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_pause_white_24.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_pause_white_24.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_abc_scrubber_primary_mtrl_alpha.9.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\cast_abc_scrubber_primary_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_volume_off_grey600_36.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\73c978b62e39dad6c6b3acb445b0d023ba05f6b0\\output\\res\\drawable-hdpi-v4\\quantum_ic_volume_off_grey600_36.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_abc_scrubber_control_to_pressed_mtrl_005.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\73c978b62e39dad6c6b3acb445b0d023ba05f6b0\\output\\res\\drawable-hdpi-v4\\cast_abc_scrubber_control_to_pressed_mtrl_005.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_bigtop_updates_white_24.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_bigtop_updates_white_24.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_skip_next_white_36.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_skip_next_white_36.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\powered_by_google_dark.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\b3fd857432d0f4f048a6f505dbb0c4791f16a114\\output\\res\\drawable-hdpi-v4\\powered_by_google_dark.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_forward_30_white_36.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\b3fdb81a9e72738aaa31b9fcabf30942c1a8568e\\output\\res\\drawable-hdpi-v4\\quantum_ic_forward_30_white_36.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_audiotrack.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\a874a7c09527274c8023a73367de29b3254369c8\\output\\res\\drawable-hdpi-v4\\ic_audiotrack.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_forward_30_white_36.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_forward_30_white_36.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_cast_white.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\drawable-hdpi-v4\\ic_cast_white.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_pause_circle_filled_white_36.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\b3fdb81a9e72738aaa31b9fcabf30942c1a8568e\\output\\res\\drawable-hdpi-v4\\quantum_ic_pause_circle_filled_white_36.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_media_route_disabled_mono_dark.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\a874a7c09527274c8023a73367de29b3254369c8\\output\\res\\drawable-hdpi-v4\\ic_media_route_disabled_mono_dark.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_speaker_group_light.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\drawable-hdpi-v4\\ic_speaker_group_light.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_forward_10_white_24.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_forward_10_white_24.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\3cf591524ecf74e95899f4321de919b9188727d6\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_speaker_group_dark.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\c46911d7d8bc8434efc4cfa089132d26ad759ce1\\output\\res\\drawable-hdpi-v4\\ic_speaker_group_dark.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_media_pause.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\a874a7c09527274c8023a73367de29b3254369c8\\output\\res\\drawable-hdpi-v4\\ic_media_pause.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_closed_caption_grey600_36.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_closed_caption_grey600_36.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_skip_next_grey600_36.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\73c978b62e39dad6c6b3acb445b0d023ba05f6b0\\output\\res\\drawable-hdpi-v4\\quantum_ic_skip_next_grey600_36.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_cast_off_light.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\c46911d7d8bc8434efc4cfa089132d26ad759ce1\\output\\res\\drawable-hdpi-v4\\ic_cast_off_light.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_replay_30_grey600_36.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_replay_30_grey600_36.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_speaker_light.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\c46911d7d8bc8434efc4cfa089132d26ad759ce1\\output\\res\\drawable-hdpi-v4\\ic_speaker_light.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_refresh_white_24.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_refresh_white_24.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_forward_30_white_36.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\73c978b62e39dad6c6b3acb445b0d023ba05f6b0\\output\\res\\drawable-hdpi-v4\\quantum_ic_forward_30_white_36.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_volume_up_white_36.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\73c978b62e39dad6c6b3acb445b0d023ba05f6b0\\output\\res\\drawable-hdpi-v4\\quantum_ic_volume_up_white_36.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\places_ic_search.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\0142f3ff289c742feb1ddf6a7234c0cd360a5114\\output\\res\\drawable-hdpi-v4\\places_ic_search.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_forward_10_white_24.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\b3fdb81a9e72738aaa31b9fcabf30942c1a8568e\\output\\res\\drawable-hdpi-v4\\quantum_ic_forward_10_white_24.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_cast_connected_white_24.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\73c978b62e39dad6c6b3acb445b0d023ba05f6b0\\output\\res\\drawable-hdpi-v4\\quantum_ic_cast_connected_white_24.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_cast_grey.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\a874a7c09527274c8023a73367de29b3254369c8\\output\\res\\drawable-hdpi-v4\\ic_cast_grey.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_close_dark.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\drawable-hdpi-v4\\ic_close_dark.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_replay_30_white_36.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_replay_30_white_36.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\places_ic_clear.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\b3fd857432d0f4f048a6f505dbb0c4791f16a114\\output\\res\\drawable-hdpi-v4\\places_ic_clear.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_skip_previous_white_24.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\73c978b62e39dad6c6b3acb445b0d023ba05f6b0\\output\\res\\drawable-hdpi-v4\\quantum_ic_skip_previous_white_24.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_cast_disabled_light.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\a874a7c09527274c8023a73367de29b3254369c8\\output\\res\\drawable-hdpi-v4\\ic_cast_disabled_light.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_skip_next_grey600_36.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\b3fdb81a9e72738aaa31b9fcabf30942c1a8568e\\output\\res\\drawable-hdpi-v4\\quantum_ic_skip_next_grey600_36.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_plusone_medium_off_client.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\b89ced291a9d9e6869bde3636a5e53d276f06e68\\output\\res\\drawable-hdpi-v4\\ic_plusone_medium_off_client.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_ic_stop_circle_filled_grey600.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\73c978b62e39dad6c6b3acb445b0d023ba05f6b0\\output\\res\\drawable-hdpi-v4\\cast_ic_stop_circle_filled_grey600.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_cast_disabled_light.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\drawable-hdpi-v4\\ic_cast_disabled_light.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_pause_circle_filled_grey600_36.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\73c978b62e39dad6c6b3acb445b0d023ba05f6b0\\output\\res\\drawable-hdpi-v4\\quantum_ic_pause_circle_filled_grey600_36.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_media_route_off_mono_dark.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\drawable-hdpi-v4\\ic_media_route_off_mono_dark.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_close_light.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\c46911d7d8bc8434efc4cfa089132d26ad759ce1\\output\\res\\drawable-hdpi-v4\\ic_close_light.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_skip_previous_white_24.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_skip_previous_white_24.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_skip_previous_white_36.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\73c978b62e39dad6c6b3acb445b0d023ba05f6b0\\output\\res\\drawable-hdpi-v4\\quantum_ic_skip_previous_white_36.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\a0cd4610b01520f5519a95cafd2d750744788c33\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_stop_white_24.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\73c978b62e39dad6c6b3acb445b0d023ba05f6b0\\output\\res\\drawable-hdpi-v4\\quantum_ic_stop_white_24.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_close_dark.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\a874a7c09527274c8023a73367de29b3254369c8\\output\\res\\drawable-hdpi-v4\\ic_close_dark.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_skip_next_white_24.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_skip_next_white_24.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_pause_light.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\c46911d7d8bc8434efc4cfa089132d26ad759ce1\\output\\res\\drawable-hdpi-v4\\ic_pause_light.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_cast_connected_white_24.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\b3fdb81a9e72738aaa31b9fcabf30942c1a8568e\\output\\res\\drawable-hdpi-v4\\quantum_ic_cast_connected_white_24.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_speaker_dark.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\drawable-hdpi-v4\\ic_speaker_dark.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\powered_by_google_dark.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\0142f3ff289c742feb1ddf6a7234c0cd360a5114\\output\\res\\drawable-hdpi-v4\\powered_by_google_dark.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_plusone_standard_off_client.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\249fa0492dc4274db38ac918330a23cc572a9b96\\output\\res\\drawable-hdpi-v4\\ic_plusone_standard_off_client.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_skip_previous_grey600_36.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\73c978b62e39dad6c6b3acb445b0d023ba05f6b0\\output\\res\\drawable-hdpi-v4\\quantum_ic_skip_previous_grey600_36.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_play_arrow_grey600_48.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\b3fdb81a9e72738aaa31b9fcabf30942c1a8568e\\output\\res\\drawable-hdpi-v4\\quantum_ic_play_arrow_grey600_48.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_volume_up_grey600_36.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_volume_up_grey600_36.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_audiotrack.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\c46911d7d8bc8434efc4cfa089132d26ad759ce1\\output\\res\\drawable-hdpi-v4\\ic_audiotrack.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_media_route_disabled_mono_dark.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\c46911d7d8bc8434efc4cfa089132d26ad759ce1\\output\\res\\drawable-hdpi-v4\\ic_media_route_disabled_mono_dark.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_plusone_tall_off_client.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\b89ced291a9d9e6869bde3636a5e53d276f06e68\\output\\res\\drawable-hdpi-v4\\ic_plusone_tall_off_client.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_abc_scrubber_control_to_pressed_mtrl_005.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\b3fdb81a9e72738aaa31b9fcabf30942c1a8568e\\output\\res\\drawable-hdpi-v4\\cast_abc_scrubber_control_to_pressed_mtrl_005.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_play_circle_filled_grey600_36.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\b3fdb81a9e72738aaa31b9fcabf30942c1a8568e\\output\\res\\drawable-hdpi-v4\\quantum_ic_play_circle_filled_grey600_36.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\googleg_standard_color_18.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\3cf591524ecf74e95899f4321de919b9188727d6\\output\\res\\drawable-hdpi-v4\\googleg_standard_color_18.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_cast_light.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\a874a7c09527274c8023a73367de29b3254369c8\\output\\res\\drawable-hdpi-v4\\ic_cast_light.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_art_track_grey600_48.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\b3fdb81a9e72738aaa31b9fcabf30942c1a8568e\\output\\res\\drawable-hdpi-v4\\quantum_ic_art_track_grey600_48.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_plusone_tall_off_client.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\249fa0492dc4274db38ac918330a23cc572a9b96\\output\\res\\drawable-hdpi-v4\\ic_plusone_tall_off_client.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_audiotrack.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\drawable-hdpi-v4\\ic_audiotrack.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_refresh_white_24.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\b3fdb81a9e72738aaa31b9fcabf30942c1a8568e\\output\\res\\drawable-hdpi-v4\\quantum_ic_refresh_white_24.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_play_dark.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\c46911d7d8bc8434efc4cfa089132d26ad759ce1\\output\\res\\drawable-hdpi-v4\\ic_play_dark.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_pause_light.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\a874a7c09527274c8023a73367de29b3254369c8\\output\\res\\drawable-hdpi-v4\\ic_pause_light.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_cast_white.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\a874a7c09527274c8023a73367de29b3254369c8\\output\\res\\drawable-hdpi-v4\\ic_cast_white.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\places_ic_clear.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\0142f3ff289c742feb1ddf6a7234c0cd360a5114\\output\\res\\drawable-hdpi-v4\\places_ic_clear.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_audiotrack_light.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\a874a7c09527274c8023a73367de29b3254369c8\\output\\res\\drawable-hdpi-v4\\ic_audiotrack_light.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\3cf591524ecf74e95899f4321de919b9188727d6\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_volume_off_grey600_36.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_volume_off_grey600_36.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_pause_light.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\drawable-hdpi-v4\\ic_pause_light.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_cast_dark.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\c46911d7d8bc8434efc4cfa089132d26ad759ce1\\output\\res\\drawable-hdpi-v4\\ic_cast_dark.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\powered_by_google_light.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\b3fd857432d0f4f048a6f505dbb0c4791f16a114\\output\\res\\drawable-hdpi-v4\\powered_by_google_light.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_replay_30_white_24.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_replay_30_white_24.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_play_arrow_grey600_36.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\b3fdb81a9e72738aaa31b9fcabf30942c1a8568e\\output\\res\\drawable-hdpi-v4\\quantum_ic_play_arrow_grey600_36.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_ic_stop_circle_filled_white.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\b3fdb81a9e72738aaa31b9fcabf30942c1a8568e\\output\\res\\drawable-hdpi-v4\\cast_ic_stop_circle_filled_white.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_stop_grey600_48.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_stop_grey600_48.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_pause_circle_filled_grey600_36.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\b3fdb81a9e72738aaa31b9fcabf30942c1a8568e\\output\\res\\drawable-hdpi-v4\\quantum_ic_pause_circle_filled_grey600_36.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_speaker_dark.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\c46911d7d8bc8434efc4cfa089132d26ad759ce1\\output\\res\\drawable-hdpi-v4\\ic_speaker_dark.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_pause_white_24.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\73c978b62e39dad6c6b3acb445b0d023ba05f6b0\\output\\res\\drawable-hdpi-v4\\quantum_ic_pause_white_24.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_forward_30_grey600_36.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_forward_30_grey600_36.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_full_open_on_phone.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\a0cd4610b01520f5519a95cafd2d750744788c33\\output\\res\\drawable-hdpi-v4\\common_full_open_on_phone.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\a0cd4610b01520f5519a95cafd2d750744788c33\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_forward_30_white_24.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\b3fdb81a9e72738aaa31b9fcabf30942c1a8568e\\output\\res\\drawable-hdpi-v4\\quantum_ic_forward_30_white_24.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_play_arrow_white_24.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\73c978b62e39dad6c6b3acb445b0d023ba05f6b0\\output\\res\\drawable-hdpi-v4\\quantum_ic_play_arrow_white_24.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\places_ic_clear.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\73d26c5edd6a3dd67398311c2455ad0342bd9519\\output\\res\\drawable-hdpi-v4\\places_ic_clear.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_play_light.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\c46911d7d8bc8434efc4cfa089132d26ad759ce1\\output\\res\\drawable-hdpi-v4\\ic_play_light.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_plusone_standard_off_client.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\b89ced291a9d9e6869bde3636a5e53d276f06e68\\output\\res\\drawable-hdpi-v4\\ic_plusone_standard_off_client.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_pause_circle_filled_grey600_36.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_pause_circle_filled_grey600_36.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_cast_dark.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\a874a7c09527274c8023a73367de29b3254369c8\\output\\res\\drawable-hdpi-v4\\ic_cast_dark.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_plusone_medium_off_client.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\249fa0492dc4274db38ac918330a23cc572a9b96\\output\\res\\drawable-hdpi-v4\\ic_plusone_medium_off_client.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_abc_scrubber_primary_mtrl_alpha.9.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\b3fdb81a9e72738aaa31b9fcabf30942c1a8568e\\output\\res\\drawable-hdpi-v4\\cast_abc_scrubber_primary_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_forward_30_white_24.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\73c978b62e39dad6c6b3acb445b0d023ba05f6b0\\output\\res\\drawable-hdpi-v4\\quantum_ic_forward_30_white_24.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_cast_disabled_light.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\c46911d7d8bc8434efc4cfa089132d26ad759ce1\\output\\res\\drawable-hdpi-v4\\ic_cast_disabled_light.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\googleg_disabled_color_18.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\a0cd4610b01520f5519a95cafd2d750744788c33\\output\\res\\drawable-hdpi-v4\\googleg_disabled_color_18.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_skip_previous_white_36.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\b3fdb81a9e72738aaa31b9fcabf30942c1a8568e\\output\\res\\drawable-hdpi-v4\\quantum_ic_skip_previous_white_36.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_replay_30_grey600_36.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\b3fdb81a9e72738aaa31b9fcabf30942c1a8568e\\output\\res\\drawable-hdpi-v4\\quantum_ic_replay_30_grey600_36.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
-    },
-    {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_ic_notification_2.png",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\dc4b165dd2e75cdeea25d5c992d816ad0b1dfd28\\output\\res\\drawable-hdpi-v4\\cast_ic_notification_2.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_cast_connected_white_24.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\quantum_ic_cast_connected_white_24.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_abc_scrubber_control_off_mtrl_alpha.png",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-hdpi-v4\\cast_abc_scrubber_control_off_mtrl_alpha.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_speaker_group_dark.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\drawable-hdpi-v4\\ic_speaker_group_dark.png"
     }
 ]

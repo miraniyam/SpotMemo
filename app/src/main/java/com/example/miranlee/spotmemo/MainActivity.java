@@ -84,9 +84,11 @@ public class MainActivity extends AppCompatActivity implements com.google.androi
         String ext = Environment.getExternalStorageState();
         if (ext.equals(Environment.MEDIA_MOUNTED)) {
             filesv = new File(Environment.getExternalStorageDirectory().getAbsolutePath() + "/Documents/SpotMemo/Voice");
+            filesv.mkdirs(); // 있으면 안만들거고, 없으면 만들어주게~
             String numfilev[] = filesv.list();
             numvoice = numfilev.length;
             filest = new File(Environment.getExternalStorageDirectory().getAbsolutePath() + "/Documents/SpotMemo/Text");
+            filest.mkdirs();
             String numfilet[] = filest.list();
             numtext = numfilet.length;
         }

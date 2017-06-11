@@ -1,464 +1,464 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Tazo\SpotMemo\app\src\main\AndroidManifest.xml:2:1-47:12
+ADDED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml:2:1-47:12
 	package
-		ADDED from C:\Users\Tazo\SpotMemo\app\src\main\AndroidManifest.xml:3:5-44
-		INJECTED from C:\Users\Tazo\SpotMemo\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Tazo\SpotMemo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\Tazo\SpotMemo\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Tazo\SpotMemo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Tazo\SpotMemo\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from C:\Users\Tazo\SpotMemo\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Tazo\SpotMemo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.RECORD_AUDIO
-ADDED from C:\Users\Tazo\SpotMemo\app\src\main\AndroidManifest.xml:5:5-71
+ADDED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml:5:5-71
 	android:name
-		ADDED from C:\Users\Tazo\SpotMemo\app\src\main\AndroidManifest.xml:5:22-68
+		ADDED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml:5:22-68
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\Users\Tazo\SpotMemo\app\src\main\AndroidManifest.xml:6:5-80
+ADDED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml:6:5-80
 	android:name
-		ADDED from C:\Users\Tazo\SpotMemo\app\src\main\AndroidManifest.xml:6:22-78
+		ADDED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml:6:22-78
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from C:\Users\Tazo\SpotMemo\app\src\main\AndroidManifest.xml:7:5-80
+ADDED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml:7:5-80
 	android:name
-		ADDED from C:\Users\Tazo\SpotMemo\app\src\main\AndroidManifest.xml:7:22-77
+		ADDED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml:7:22-77
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from C:\Users\Tazo\SpotMemo\app\src\main\AndroidManifest.xml:8:5-78
+ADDED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml:8:5-78
 	android:name
-		ADDED from C:\Users\Tazo\SpotMemo\app\src\main\AndroidManifest.xml:8:22-76
+		ADDED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml:8:22-76
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from C:\Users\Tazo\SpotMemo\app\src\main\AndroidManifest.xml:9:5-80
+ADDED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml:9:5-80
 	android:name
-		ADDED from C:\Users\Tazo\SpotMemo\app\src\main\AndroidManifest.xml:9:22-78
+		ADDED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml:9:22-78
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\Tazo\SpotMemo\app\src\main\AndroidManifest.xml:10:5-66
-MERGED from [com.google.android.gms:play-services-ads-lite:10.2.4] C:\Users\Tazo\.android\build-cache\02b8f2fe15b318cf36bf2f8989f06e162a174cd2\output\AndroidManifest.xml:19:5-66
-MERGED from [com.google.android.gms:play-services-analytics:10.2.4] C:\Users\Tazo\.android\build-cache\1162f7975be898202b5b3aea9112e1cde943919a\output\AndroidManifest.xml:20:5-66
-MERGED from [com.google.android.gms:play-services-appinvite:10.2.4] C:\Users\Tazo\.android\build-cache\506774274a0a7357350eeed918cb935a2fa93a2e\output\AndroidManifest.xml:18:5-66
-MERGED from [com.google.firebase:firebase-crash:10.2.4] C:\Users\Tazo\.android\build-cache\08f9c60d886cf3c5c08589564486b9c274936b7a\output\AndroidManifest.xml:18:5-66
-MERGED from [com.google.android.gms:play-services-gcm:10.2.4] C:\Users\Tazo\.android\build-cache\acf0761587ff681025643a2cc35cf2ecb09d5210\output\AndroidManifest.xml:21:5-66
-MERGED from [com.google.android.gms:play-services-iid:10.2.4] C:\Users\Tazo\.android\build-cache\103c3f0afe8f0093a7a54416f6674d16e684f161\output\AndroidManifest.xml:21:5-66
-MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.4] C:\Users\Tazo\.android\build-cache\9b009c93f5f99deec782b5c6102ea488af131e4b\output\AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-analytics:10.2.4] C:\Users\Tazo\.android\build-cache\79148fe154cc1e5b40c48e09652e4dada6ba9854\output\AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-analytics-impl:10.2.4] C:\Users\Tazo\.android\build-cache\c345ea5e683618967350148391ad8e1de89edc3e\output\AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-iid:10.2.4] C:\Users\Tazo\.android\build-cache\f5b1edfd9da7f4787fd39cd92973e4e945f5b5a4\output\AndroidManifest.xml:20:5-66
-MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.4] C:\Users\Tazo\.android\build-cache\f0fc65e88d9cfed45ab647b7ea6060f4852a01d3\output\AndroidManifest.xml:20:5-66
-MERGED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\Tazo\.android\build-cache\021880ec37d3da5d7348a12756805dd94c8ec273\output\AndroidManifest.xml:20:5-66
+ADDED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml:10:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.4] C:\Users\miran lee\.android\build-cache\f75fd17d06b561083e8b1b7672ff4399025d1ed2\output\AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-analytics:10.2.4] C:\Users\miran lee\.android\build-cache\5e55dac4eb69dfae2b1cc8db0eebb83b884b8a41\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.4] C:\Users\miran lee\.android\build-cache\930998a79bb575c497a26f0c4f00477c83091db7\output\AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:10.2.4] C:\Users\miran lee\.android\build-cache\62a8af06ec01ba18140508ad315db576bd2bf238\output\AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:10.2.4] C:\Users\miran lee\.android\build-cache\bba008a1ecc9e58ab32153c1241b9ab5dbf1e23a\output\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:10.2.4] C:\Users\miran lee\.android\build-cache\e9e4a723a7bb92be09e4700230f6ec001476e5f8\output\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.4] C:\Users\miran lee\.android\build-cache\8696edf1c4934cfd1745fdc665cc03319d94ac8e\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.2.4] C:\Users\miran lee\.android\build-cache\1ec2b8203be8765add95aa81809fd9537efcad9f\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.4] C:\Users\miran lee\.android\build-cache\bedff818e1b962e27fd77d2b15fa6416b2dda12d\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.2.4] C:\Users\miran lee\.android\build-cache\3216fc06b7e55643d910bef7589559c10cc8f280\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.4] C:\Users\miran lee\.android\build-cache\18d6aa909d19409db6ff3f64ebdbb62c0c009a42\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\miran lee\.android\build-cache\fd6072b17e6bab143afe8c60489f5bf945e1ef11\output\AndroidManifest.xml:20:5-66
 	android:name
-		ADDED from C:\Users\Tazo\SpotMemo\app\src\main\AndroidManifest.xml:10:22-64
+		ADDED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml:10:22-64
 uses-permission#com.google.android.providers.gfs.permission.READ_GSERVICES
-ADDED from C:\Users\Tazo\SpotMemo\app\src\main\AndroidManifest.xml:11:5-97
+ADDED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml:11:5-97
 	android:name
-		ADDED from C:\Users\Tazo\SpotMemo\app\src\main\AndroidManifest.xml:11:22-95
+		ADDED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml:11:22-95
 uses-feature#0x00020000
-ADDED from C:\Users\Tazo\SpotMemo\app\src\main\AndroidManifest.xml:12:5-13:43
-MERGED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\Tazo\.android\build-cache\021880ec37d3da5d7348a12756805dd94c8ec273\output\AndroidManifest.xml:21:5-77
+ADDED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml:12:5-13:43
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\miran lee\.android\build-cache\fd6072b17e6bab143afe8c60489f5bf945e1ef11\output\AndroidManifest.xml:21:5-77
 	android:glEsVersion
-		ADDED from C:\Users\Tazo\SpotMemo\app\src\main\AndroidManifest.xml:13:9-41
+		ADDED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml:13:9-41
 	android:required
-		ADDED from C:\Users\Tazo\SpotMemo\app\src\main\AndroidManifest.xml:12:19-42
+		ADDED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml:12:19-42
 application
-ADDED from C:\Users\Tazo\SpotMemo\app\src\main\AndroidManifest.xml:14:5-45:19
-MERGED from [com.google.android.gms:play-services:10.2.4] C:\Users\Tazo\.android\build-cache\eae8346e20e2bc85159b1efb23db7e70f374af6c\output\AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-ads-lite:10.2.4] C:\Users\Tazo\.android\build-cache\02b8f2fe15b318cf36bf2f8989f06e162a174cd2\output\AndroidManifest.xml:23:5-27:19
-MERGED from [com.google.android.gms:play-services-analytics:10.2.4] C:\Users\Tazo\.android\build-cache\1162f7975be898202b5b3aea9112e1cde943919a\output\AndroidManifest.xml:26:5-19
-MERGED from [com.google.android.gms:play-services-appinvite:10.2.4] C:\Users\Tazo\.android\build-cache\506774274a0a7357350eeed918cb935a2fa93a2e\output\AndroidManifest.xml:19:5-26:19
-MERGED from [com.google.android.gms:play-services-auth:10.2.4] C:\Users\Tazo\.android\build-cache\4acdfd5a05f60176d4c8415ddb228c01cddd0d7f\output\AndroidManifest.xml:19:5-25:19
-MERGED from [com.google.android.gms:play-services-cast-framework:10.2.4] C:\Users\Tazo\.android\build-cache\b3fdb81a9e72738aaa31b9fcabf30942c1a8568e\output\AndroidManifest.xml:4:5-8:19
-MERGED from [com.google.android.gms:play-services-cast:10.2.4] C:\Users\Tazo\.android\build-cache\dc4b165dd2e75cdeea25d5c992d816ad0b1dfd28\output\AndroidManifest.xml:18:5-19
-MERGED from [com.android.support:mediarouter-v7:24.0.0] C:\Users\Tazo\.android\build-cache\c46911d7d8bc8434efc4cfa089132d26ad759ce1\output\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:palette-v7:24.0.0] C:\Users\Tazo\.android\build-cache\c8cb9dd34d7e7b3e73b97d96def40b5a42632c59\output\AndroidManifest.xml:22:5-23:19
-MERGED from [com.android.support:appcompat-v7:24.0.0] C:\Users\Tazo\.android\build-cache\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:24.0.0] C:\Users\Tazo\.android\build-cache\6cd5c896d02c23670b53fc32169b351d472af563\output\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:24.0.0] C:\Users\Tazo\.android\build-cache\adb7688e6625f7db790aae278b22b43c15fb5d12\output\AndroidManifest.xml:23:5-20
-MERGED from [com.google.android.gms:play-services-clearcut:10.2.4] C:\Users\Tazo\.android\build-cache\e0469a1e23681c1fa01c01ffaf9cf9f2b880058a\output\AndroidManifest.xml:18:5-19
-MERGED from [com.google.firebase:firebase-config:10.2.4] C:\Users\Tazo\.android\build-cache\cd3c48e575f671b50ce16cdbfc7f0bb9833b8338\output\AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-awareness:10.2.4] C:\Users\Tazo\.android\build-cache\79572c10481f513869e2998600252de7f4fcb863\output\AndroidManifest.xml:18:5-19
-MERGED from [com.google.firebase:firebase-crash:10.2.4] C:\Users\Tazo\.android\build-cache\08f9c60d886cf3c5c08589564486b9c274936b7a\output\AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.firebase:firebase-auth:10.2.4] C:\Users\Tazo\.android\build-cache\09f351bcc4795975dda0e1f5337a7c91efdab46b\output\AndroidManifest.xml:19:5-20:19
-MERGED from [com.google.firebase:firebase-messaging:10.2.4] C:\Users\Tazo\.android\build-cache\5a81978db58c862bafd11929a6b02e488f25bbe2\output\AndroidManifest.xml:19:5-29:19
-MERGED from [com.google.android.gms:play-services-fitness:10.2.4] C:\Users\Tazo\.android\build-cache\56bfc096ba8af34f1617ae3ce58051015d4e014b\output\AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-games:10.2.4] C:\Users\Tazo\.android\build-cache\7cbcb9a7c246c326841ec8bb7f2356c068521fdb\output\AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-drive:10.2.4] C:\Users\Tazo\.android\build-cache\d24c7b416e9f269194a25f2a3bf86ed63bb41259\output\AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-gass:10.2.4] C:\Users\Tazo\.android\build-cache\8dc23910fa2055056fc9b4103d0da1d61eaa1881\output\AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-gcm:10.2.4] C:\Users\Tazo\.android\build-cache\acf0761587ff681025643a2cc35cf2ecb09d5210\output\AndroidManifest.xml:23:5-19
-MERGED from [com.google.firebase:firebase-appindexing:10.2.4] C:\Users\Tazo\.android\build-cache\fbde715474305cc0aa94169a346b752b16d29e91\output\AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-iid:10.2.4] C:\Users\Tazo\.android\build-cache\103c3f0afe8f0093a7a54416f6674d16e684f161\output\AndroidManifest.xml:23:5-19
-MERGED from [com.google.android.gms:play-services-location:10.2.4] C:\Users\Tazo\.android\build-cache\7a271f8bc952b4cd0c4aee151f47f7d0aed9bc2a\output\AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-nearby:10.2.4] C:\Users\Tazo\.android\build-cache\391e1b1fa00c5b96721e4f9cf2c041a2caa3b80b\output\AndroidManifest.xml:5:5-19
-MERGED from [com.google.android.gms:play-services-panorama:10.2.4] C:\Users\Tazo\.android\build-cache\f827d333722a4e16f4ce64c7cab1a65f69698c08\output\AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-places:10.2.4] C:\Users\Tazo\.android\build-cache\b3fd857432d0f4f048a6f505dbb0c4791f16a114\output\AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-plus:10.2.4] C:\Users\Tazo\.android\build-cache\249fa0492dc4274db38ac918330a23cc572a9b96\output\AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-safetynet:10.2.4] C:\Users\Tazo\.android\build-cache\1ea13d5ee405a5f3939dc23a5c59b5b02c8f797c\output\AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.4] C:\Users\Tazo\.android\build-cache\9b009c93f5f99deec782b5c6102ea488af131e4b\output\AndroidManifest.xml:23:5-33:19
-MERGED from [com.google.firebase:firebase-analytics:10.2.4] C:\Users\Tazo\.android\build-cache\79148fe154cc1e5b40c48e09652e4dada6ba9854\output\AndroidManifest.xml:24:5-33:19
-MERGED from [com.google.firebase:firebase-analytics-impl:10.2.4] C:\Users\Tazo\.android\build-cache\c345ea5e683618967350148391ad8e1de89edc3e\output\AndroidManifest.xml:24:5-28:19
-MERGED from [com.google.firebase:firebase-iid:10.2.4] C:\Users\Tazo\.android\build-cache\f5b1edfd9da7f4787fd39cd92973e4e945f5b5a4\output\AndroidManifest.xml:28:5-49:19
-MERGED from [com.google.firebase:firebase-common:10.2.4] C:\Users\Tazo\.android\build-cache\312b3bd8c4d9e27117fddcb99d211ab9bdf9a2b0\output\AndroidManifest.xml:4:5-7:19
-MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.4] C:\Users\Tazo\.android\build-cache\89d1c224d460bd471f04cbe6e661813662d6715b\output\AndroidManifest.xml:19:5-19
-MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.4] C:\Users\Tazo\.android\build-cache\f0fc65e88d9cfed45ab647b7ea6060f4852a01d3\output\AndroidManifest.xml:26:5-19
-MERGED from [com.google.android.gms:play-services-vision:10.2.4] C:\Users\Tazo\.android\build-cache\56ffd65c3fc0a4966cc7bce13e450bd3ee4c5861\output\AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-identity:10.2.4] C:\Users\Tazo\.android\build-cache\5b21451faaf8be6313208f905f79a879d179aea9\output\AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\Tazo\.android\build-cache\021880ec37d3da5d7348a12756805dd94c8ec273\output\AndroidManifest.xml:24:5-19
-MERGED from [com.google.android.gms:play-services-wearable:10.2.4] C:\Users\Tazo\.android\build-cache\cebc2985f6885c2bc31b1754338681ca54819be3\output\AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\Tazo\.android\build-cache\3cf591524ecf74e95899f4321de919b9188727d6\output\AndroidManifest.xml:18:5-20:19
-MERGED from [com.google.android.gms:play-services-tasks:10.2.4] C:\Users\Tazo\.android\build-cache\1e0012b98c7b14afc5a2d0d7b4472bb75fb05b63\output\AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-basement:10.2.4] C:\Users\Tazo\.android\build-cache\aa5f75cba7b27fd999e9a676656b088043a3d7e1\output\AndroidManifest.xml:19:5-21:19
-MERGED from [com.android.support:support-v4:24.0.0] C:\Users\Tazo\.android\build-cache\4da94721aa375c5ddd386c6707ae0637cd45418a\output\AndroidManifest.xml:25:5-20
+ADDED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml:14:5-45:19
+MERGED from [com.google.android.gms:play-services:10.2.4] C:\Users\miran lee\.android\build-cache\a4c93d1d6d4996718ebdeddc29b51698b4830f6b\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.4] C:\Users\miran lee\.android\build-cache\f75fd17d06b561083e8b1b7672ff4399025d1ed2\output\AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-analytics:10.2.4] C:\Users\miran lee\.android\build-cache\5e55dac4eb69dfae2b1cc8db0eebb83b884b8a41\output\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.4] C:\Users\miran lee\.android\build-cache\930998a79bb575c497a26f0c4f00477c83091db7\output\AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:10.2.4] C:\Users\miran lee\.android\build-cache\eab7c062cf95bf29d45d30b0152197690f6313e0\output\AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-cast-framework:10.2.4] C:\Users\miran lee\.android\build-cache\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\output\AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:10.2.4] C:\Users\miran lee\.android\build-cache\964c2408c19069fc93998ab79c8eb17effa1f9d5\output\AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:24.0.0] C:\Users\miran lee\.android\build-cache\d46480b8c1de43ba818af4588625b4eee5ed00db\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:palette-v7:24.0.0] C:\Users\miran lee\.android\build-cache\382ba30baab409fd8171b43776d4de5e9e159907\output\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:appcompat-v7:24.0.0] C:\Users\miran lee\.android\build-cache\729f6aaf7d7aa204160cef242403f5d6b316b9f8\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] C:\Users\miran lee\.android\build-cache\e94ace02df2da56e67cdd7ee5d9660994ef1a4c2\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.0.0] C:\Users\miran lee\.android\build-cache\189eec3e33a55aa459beef33dba87322e81bfb7e\output\AndroidManifest.xml:23:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.4] C:\Users\miran lee\.android\build-cache\6104b3ca00bab7dd7df53099f4051bbcd51a4bba\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:10.2.4] C:\Users\miran lee\.android\build-cache\443a2dc4c164c87e539f3dbb62f33c668cd1c889\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:10.2.4] C:\Users\miran lee\.android\build-cache\82a681fc62b9ecbd2ab9471c1e6bff371005fb07\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-crash:10.2.4] C:\Users\miran lee\.android\build-cache\62a8af06ec01ba18140508ad315db576bd2bf238\output\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-auth:10.2.4] C:\Users\miran lee\.android\build-cache\9ee576fec10b39143434dd5b264358377368d80b\output\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-messaging:10.2.4] C:\Users\miran lee\.android\build-cache\ce45edea2620d0ebce3c7750734f363157dea85a\output\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-fitness:10.2.4] C:\Users\miran lee\.android\build-cache\746b16eae45d3794259c762554c08ea50c8a387c\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:10.2.4] C:\Users\miran lee\.android\build-cache\686d307ea58f3cbb81f708a9cb042e145ce9cd30\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:10.2.4] C:\Users\miran lee\.android\build-cache\4089f0d108424d2d0ff7d8bbeb77b816ded64a40\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:10.2.4] C:\Users\miran lee\.android\build-cache\b58f324c65d787e7c4d31e5ef1742f64b2a3308c\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gcm:10.2.4] C:\Users\miran lee\.android\build-cache\bba008a1ecc9e58ab32153c1241b9ab5dbf1e23a\output\AndroidManifest.xml:23:5-19
+MERGED from [com.google.firebase:firebase-appindexing:10.2.4] C:\Users\miran lee\.android\build-cache\f93e78b1ad9d48a57820650023ef697e71426be5\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-iid:10.2.4] C:\Users\miran lee\.android\build-cache\e9e4a723a7bb92be09e4700230f6ec001476e5f8\output\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-location:10.2.4] C:\Users\miran lee\.android\build-cache\16af9c68cf535d1c4a46a4c98a4c0778122b0c26\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-nearby:10.2.4] C:\Users\miran lee\.android\build-cache\d5fea1da4c7e8771336d708e31afb2365a554593\output\AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:10.2.4] C:\Users\miran lee\.android\build-cache\ac76b9c64a329e70cf19b00ce8ab5ba4c9e0714e\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:10.2.4] C:\Users\miran lee\.android\build-cache\0142f3ff289c742feb1ddf6a7234c0cd360a5114\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:10.2.4] C:\Users\miran lee\.android\build-cache\ee01b3440fa1ed9e769babf7a7888569302d9d4e\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:10.2.4] C:\Users\miran lee\.android\build-cache\ce1c8c1c1657a39fb295c9d22d86c203543d9940\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.4] C:\Users\miran lee\.android\build-cache\8696edf1c4934cfd1745fdc665cc03319d94ac8e\output\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:10.2.4] C:\Users\miran lee\.android\build-cache\1ec2b8203be8765add95aa81809fd9537efcad9f\output\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.4] C:\Users\miran lee\.android\build-cache\bedff818e1b962e27fd77d2b15fa6416b2dda12d\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.2.4] C:\Users\miran lee\.android\build-cache\3216fc06b7e55643d910bef7589559c10cc8f280\output\AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:10.2.4] C:\Users\miran lee\.android\build-cache\8036462d524107404738e24efbf2b8a1b7dae312\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.4] C:\Users\miran lee\.android\build-cache\be611cb766f3b7f1a13bf84571fe612da3cc13cd\output\AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.4] C:\Users\miran lee\.android\build-cache\18d6aa909d19409db6ff3f64ebdbb62c0c009a42\output\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-vision:10.2.4] C:\Users\miran lee\.android\build-cache\9374731c33bafaaa433ec342dd6641e0992e35b1\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-identity:10.2.4] C:\Users\miran lee\.android\build-cache\4ceacfa51682425cd8301cf458437836d8a60ecc\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\miran lee\.android\build-cache\fd6072b17e6bab143afe8c60489f5bf945e1ef11\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-wearable:10.2.4] C:\Users\miran lee\.android\build-cache\a921ff614b16327c0055e292e58e1256be0f1ad6\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\miran lee\.android\build-cache\a0cd4610b01520f5519a95cafd2d750744788c33\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.4] C:\Users\miran lee\.android\build-cache\1296084af57d446fb80e85dbe763dc9be27c0b51\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] C:\Users\miran lee\.android\build-cache\5343bc27fd90813885c40d156fb2769b549f2c9f\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\miran lee\.android\build-cache\2d5c0a8db6c3b47e98cf7bc99ce9af42a1212f24\output\AndroidManifest.xml:25:5-20
 	android:label
-		ADDED from C:\Users\Tazo\SpotMemo\app\src\main\AndroidManifest.xml:17:9-41
+		ADDED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml:17:9-41
 	android:supportsRtl
-		ADDED from C:\Users\Tazo\SpotMemo\app\src\main\AndroidManifest.xml:18:9-35
+		ADDED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml:18:9-35
 	android:allowBackup
-		ADDED from C:\Users\Tazo\SpotMemo\app\src\main\AndroidManifest.xml:15:9-35
+		ADDED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml:15:9-35
 	android:icon
-		ADDED from C:\Users\Tazo\SpotMemo\app\src\main\AndroidManifest.xml:16:9-43
+		ADDED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml:16:9-43
 	android:theme
-		ADDED from C:\Users\Tazo\SpotMemo\app\src\main\AndroidManifest.xml:19:9-40
+		ADDED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml:19:9-40
 activity#com.example.miranlee.spotmemo.MainActivity
-ADDED from C:\Users\Tazo\SpotMemo\app\src\main\AndroidManifest.xml:20:9-26:20
+ADDED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml:20:9-26:20
 	android:name
-		ADDED from C:\Users\Tazo\SpotMemo\app\src\main\AndroidManifest.xml:20:19-47
+		ADDED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml:20:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\Tazo\SpotMemo\app\src\main\AndroidManifest.xml:21:13-25:29
+ADDED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml:21:13-25:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Tazo\SpotMemo\app\src\main\AndroidManifest.xml:22:17-69
+ADDED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml:22:17-69
 	android:name
-		ADDED from C:\Users\Tazo\SpotMemo\app\src\main\AndroidManifest.xml:22:25-66
+		ADDED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml:22:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Tazo\SpotMemo\app\src\main\AndroidManifest.xml:24:17-77
+ADDED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml:24:17-77
 	android:name
-		ADDED from C:\Users\Tazo\SpotMemo\app\src\main\AndroidManifest.xml:24:27-74
+		ADDED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml:24:27-74
 meta-data#com.google.android.gms.version
-ADDED from C:\Users\Tazo\SpotMemo\app\src\main\AndroidManifest.xml:27:9-29:68
-MERGED from [com.google.android.gms:play-services-basement:10.2.4] C:\Users\Tazo\.android\build-cache\aa5f75cba7b27fd999e9a676656b088043a3d7e1\output\AndroidManifest.xml:20:9-121
+ADDED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml:27:9-29:68
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] C:\Users\miran lee\.android\build-cache\5343bc27fd90813885c40d156fb2769b549f2c9f\output\AndroidManifest.xml:20:9-121
 	android:value
-		ADDED from C:\Users\Tazo\SpotMemo\app\src\main\AndroidManifest.xml:29:13-66
+		ADDED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml:29:13-66
 	android:name
-		ADDED from C:\Users\Tazo\SpotMemo\app\src\main\AndroidManifest.xml:28:13-58
+		ADDED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml:28:13-58
 meta-data#com.google.android.geo.API_KEY
-ADDED from C:\Users\Tazo\SpotMemo\app\src\main\AndroidManifest.xml:30:9-32:70
+ADDED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml:30:9-32:70
 	android:value
-		ADDED from C:\Users\Tazo\SpotMemo\app\src\main\AndroidManifest.xml:32:13-68
+		ADDED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml:32:13-68
 	android:name
-		ADDED from C:\Users\Tazo\SpotMemo\app\src\main\AndroidManifest.xml:31:13-58
+		ADDED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml:31:13-58
 activity#com.example.miranlee.spotmemo.MyMemoActivity
-ADDED from C:\Users\Tazo\SpotMemo\app\src\main\AndroidManifest.xml:34:9-51
+ADDED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml:34:9-51
 	android:name
-		ADDED from C:\Users\Tazo\SpotMemo\app\src\main\AndroidManifest.xml:34:19-49
+		ADDED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml:34:19-49
 activity#com.example.miranlee.spotmemo.AddMemoActivity
-ADDED from C:\Users\Tazo\SpotMemo\app\src\main\AndroidManifest.xml:36:9-52
+ADDED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml:36:9-52
 	android:name
-		ADDED from C:\Users\Tazo\SpotMemo\app\src\main\AndroidManifest.xml:36:19-50
+		ADDED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml:36:19-50
 activity#com.example.miranlee.spotmemo.OthersMemoActivity
-ADDED from C:\Users\Tazo\SpotMemo\app\src\main\AndroidManifest.xml:38:9-55
+ADDED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml:38:9-55
 	android:name
-		ADDED from C:\Users\Tazo\SpotMemo\app\src\main\AndroidManifest.xml:38:19-53
+		ADDED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml:38:19-53
 activity#com.example.miranlee.spotmemo.ShowCateMemoActivity
-ADDED from C:\Users\Tazo\SpotMemo\app\src\main\AndroidManifest.xml:40:9-57
+ADDED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml:40:9-57
 	android:name
-		ADDED from C:\Users\Tazo\SpotMemo\app\src\main\AndroidManifest.xml:40:19-55
+		ADDED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml:40:19-55
 activity#com.example.miranlee.spotmemo.AddVoiceActivity
-ADDED from C:\Users\Tazo\SpotMemo\app\src\main\AndroidManifest.xml:42:9-53
+ADDED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml:42:9-53
 	android:name
-		ADDED from C:\Users\Tazo\SpotMemo\app\src\main\AndroidManifest.xml:42:19-51
+		ADDED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml:42:19-51
 activity#com.example.miranlee.spotmemo.AddTextActivity
-ADDED from C:\Users\Tazo\SpotMemo\app\src\main\AndroidManifest.xml:44:9-52
+ADDED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml:44:9-52
 	android:name
-		ADDED from C:\Users\Tazo\SpotMemo\app\src\main\AndroidManifest.xml:44:19-50
+		ADDED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml:44:19-50
 uses-sdk
-INJECTED from C:\Users\Tazo\SpotMemo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.google.android.gms:play-services:10.2.4] C:\Users\Tazo\.android\build-cache\eae8346e20e2bc85159b1efb23db7e70f374af6c\output\AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-ads:10.2.4] C:\Users\Tazo\.android\build-cache\3809e32d96616f265cb0659bf0143637927a9704\output\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-ads-lite:10.2.4] C:\Users\Tazo\.android\build-cache\02b8f2fe15b318cf36bf2f8989f06e162a174cd2\output\AndroidManifest.xml:22:5-43
-MERGED from [com.google.android.gms:play-services-analytics:10.2.4] C:\Users\Tazo\.android\build-cache\1162f7975be898202b5b3aea9112e1cde943919a\output\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-appinvite:10.2.4] C:\Users\Tazo\.android\build-cache\506774274a0a7357350eeed918cb935a2fa93a2e\output\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-auth:10.2.4] C:\Users\Tazo\.android\build-cache\4acdfd5a05f60176d4c8415ddb228c01cddd0d7f\output\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-auth-base:10.2.4] C:\Users\Tazo\.android\build-cache\4f374db247d4daa3da20649d3e311e8d7a0ac6bf\output\AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-cast-framework:10.2.4] C:\Users\Tazo\.android\build-cache\b3fdb81a9e72738aaa31b9fcabf30942c1a8568e\output\AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-cast:10.2.4] C:\Users\Tazo\.android\build-cache\dc4b165dd2e75cdeea25d5c992d816ad0b1dfd28\output\AndroidManifest.xml:17:5-43
-MERGED from [com.android.support:mediarouter-v7:24.0.0] C:\Users\Tazo\.android\build-cache\c46911d7d8bc8434efc4cfa089132d26ad759ce1\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:palette-v7:24.0.0] C:\Users\Tazo\.android\build-cache\c8cb9dd34d7e7b3e73b97d96def40b5a42632c59\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:24.0.0] C:\Users\Tazo\.android\build-cache\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:24.0.0] C:\Users\Tazo\.android\build-cache\6cd5c896d02c23670b53fc32169b351d472af563\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:24.0.0] C:\Users\Tazo\.android\build-cache\adb7688e6625f7db790aae278b22b43c15fb5d12\output\AndroidManifest.xml:21:5-43
-MERGED from [com.google.android.gms:play-services-clearcut:10.2.4] C:\Users\Tazo\.android\build-cache\e0469a1e23681c1fa01c01ffaf9cf9f2b880058a\output\AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-config:10.2.4] C:\Users\Tazo\.android\build-cache\cd3c48e575f671b50ce16cdbfc7f0bb9833b8338\output\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-awareness:10.2.4] C:\Users\Tazo\.android\build-cache\79572c10481f513869e2998600252de7f4fcb863\output\AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-crash:10.2.4] C:\Users\Tazo\.android\build-cache\08f9c60d886cf3c5c08589564486b9c274936b7a\output\AndroidManifest.xml:20:5-43
-MERGED from [com.google.firebase:firebase-auth:10.2.4] C:\Users\Tazo\.android\build-cache\09f351bcc4795975dda0e1f5337a7c91efdab46b\output\AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-database:10.2.4] C:\Users\Tazo\.android\build-cache\b9c4c200069c83a6e2271a5c78c43e36b8a2b6e3\output\AndroidManifest.xml:3:5-43
-MERGED from [com.google.firebase:firebase-database-connection:10.2.4] C:\Users\Tazo\.android\build-cache\5625aa456057aa437f6b42c8d8fce5a30c576f28\output\AndroidManifest.xml:3:5-43
-MERGED from [com.google.firebase:firebase-messaging:10.2.4] C:\Users\Tazo\.android\build-cache\5a81978db58c862bafd11929a6b02e488f25bbe2\output\AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-storage:10.2.4] C:\Users\Tazo\.android\build-cache\2a0207bab118dd46882942adbdf99274c3bcf3a0\output\AndroidManifest.xml:3:5-43
-MERGED from [com.google.firebase:firebase-storage-common:10.2.4] C:\Users\Tazo\.android\build-cache\f605e3a8bbfcdc9e3bca5ce78ab005fdbb2a07e9\output\AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-fitness:10.2.4] C:\Users\Tazo\.android\build-cache\56bfc096ba8af34f1617ae3ce58051015d4e014b\output\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-games:10.2.4] C:\Users\Tazo\.android\build-cache\7cbcb9a7c246c326841ec8bb7f2356c068521fdb\output\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-drive:10.2.4] C:\Users\Tazo\.android\build-cache\d24c7b416e9f269194a25f2a3bf86ed63bb41259\output\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-gass:10.2.4] C:\Users\Tazo\.android\build-cache\8dc23910fa2055056fc9b4103d0da1d61eaa1881\output\AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-gcm:10.2.4] C:\Users\Tazo\.android\build-cache\acf0761587ff681025643a2cc35cf2ecb09d5210\output\AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-appindexing:10.2.4] C:\Users\Tazo\.android\build-cache\fbde715474305cc0aa94169a346b752b16d29e91\output\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-iid:10.2.4] C:\Users\Tazo\.android\build-cache\103c3f0afe8f0093a7a54416f6674d16e684f161\output\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-instantapps:10.2.4] C:\Users\Tazo\.android\build-cache\54d8baabf26938ec9574eafd15d8242e51dd66fc\output\AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-location:10.2.4] C:\Users\Tazo\.android\build-cache\7a271f8bc952b4cd0c4aee151f47f7d0aed9bc2a\output\AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-nearby:10.2.4] C:\Users\Tazo\.android\build-cache\391e1b1fa00c5b96721e4f9cf2c041a2caa3b80b\output\AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-panorama:10.2.4] C:\Users\Tazo\.android\build-cache\f827d333722a4e16f4ce64c7cab1a65f69698c08\output\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-places:10.2.4] C:\Users\Tazo\.android\build-cache\b3fd857432d0f4f048a6f505dbb0c4791f16a114\output\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-plus:10.2.4] C:\Users\Tazo\.android\build-cache\249fa0492dc4274db38ac918330a23cc572a9b96\output\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-safetynet:10.2.4] C:\Users\Tazo\.android\build-cache\1ea13d5ee405a5f3939dc23a5c59b5b02c8f797c\output\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-tagmanager:10.2.4] C:\Users\Tazo\.android\build-cache\860382ffeb2f9b11dfb566cca4984e3dc7d160de\output\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.4] C:\Users\Tazo\.android\build-cache\9b009c93f5f99deec782b5c6102ea488af131e4b\output\AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-analytics:10.2.4] C:\Users\Tazo\.android\build-cache\79148fe154cc1e5b40c48e09652e4dada6ba9854\output\AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-analytics-impl:10.2.4] C:\Users\Tazo\.android\build-cache\c345ea5e683618967350148391ad8e1de89edc3e\output\AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-iid:10.2.4] C:\Users\Tazo\.android\build-cache\f5b1edfd9da7f4787fd39cd92973e4e945f5b5a4\output\AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-common:10.2.4] C:\Users\Tazo\.android\build-cache\312b3bd8c4d9e27117fddcb99d211ab9bdf9a2b0\output\AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.4] C:\Users\Tazo\.android\build-cache\89d1c224d460bd471f04cbe6e661813662d6715b\output\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.4] C:\Users\Tazo\.android\build-cache\f0fc65e88d9cfed45ab647b7ea6060f4852a01d3\output\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-vision:10.2.4] C:\Users\Tazo\.android\build-cache\56ffd65c3fc0a4966cc7bce13e450bd3ee4c5861\output\AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-wallet:10.2.4] C:\Users\Tazo\.android\build-cache\878c8db6db8c2f4fe1fdba7d29c3ec6b224aa854\output\AndroidManifest.xml:18:5-43
-MERGED from [com.google.android.gms:play-services-identity:10.2.4] C:\Users\Tazo\.android\build-cache\5b21451faaf8be6313208f905f79a879d179aea9\output\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\Tazo\.android\build-cache\021880ec37d3da5d7348a12756805dd94c8ec273\output\AndroidManifest.xml:23:5-43
-MERGED from [com.google.android.gms:play-services-wearable:10.2.4] C:\Users\Tazo\.android\build-cache\cebc2985f6885c2bc31b1754338681ca54819be3\output\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\Tazo\.android\build-cache\3cf591524ecf74e95899f4321de919b9188727d6\output\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-tasks:10.2.4] C:\Users\Tazo\.android\build-cache\1e0012b98c7b14afc5a2d0d7b4472bb75fb05b63\output\AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-basement:10.2.4] C:\Users\Tazo\.android\build-cache\aa5f75cba7b27fd999e9a676656b088043a3d7e1\output\AndroidManifest.xml:17:5-43
-MERGED from [com.android.support:support-v4:24.0.0] C:\Users\Tazo\.android\build-cache\4da94721aa375c5ddd386c6707ae0637cd45418a\output\AndroidManifest.xml:21:5-23:54
+INJECTED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.android.gms:play-services:10.2.4] C:\Users\miran lee\.android\build-cache\a4c93d1d6d4996718ebdeddc29b51698b4830f6b\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads:10.2.4] C:\Users\miran lee\.android\build-cache\25c0700c7f5650296c8fdcfb4c104951e4162f10\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.4] C:\Users\miran lee\.android\build-cache\f75fd17d06b561083e8b1b7672ff4399025d1ed2\output\AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-analytics:10.2.4] C:\Users\miran lee\.android\build-cache\5e55dac4eb69dfae2b1cc8db0eebb83b884b8a41\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.4] C:\Users\miran lee\.android\build-cache\930998a79bb575c497a26f0c4f00477c83091db7\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth:10.2.4] C:\Users\miran lee\.android\build-cache\eab7c062cf95bf29d45d30b0152197690f6313e0\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:10.2.4] C:\Users\miran lee\.android\build-cache\1ca607142d40f8d370d440cc5ea6128c97e3f54d\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:10.2.4] C:\Users\miran lee\.android\build-cache\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-cast:10.2.4] C:\Users\miran lee\.android\build-cache\964c2408c19069fc93998ab79c8eb17effa1f9d5\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:mediarouter-v7:24.0.0] C:\Users\miran lee\.android\build-cache\d46480b8c1de43ba818af4588625b4eee5ed00db\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:24.0.0] C:\Users\miran lee\.android\build-cache\382ba30baab409fd8171b43776d4de5e9e159907\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.0.0] C:\Users\miran lee\.android\build-cache\729f6aaf7d7aa204160cef242403f5d6b316b9f8\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] C:\Users\miran lee\.android\build-cache\e94ace02df2da56e67cdd7ee5d9660994ef1a4c2\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.0.0] C:\Users\miran lee\.android\build-cache\189eec3e33a55aa459beef33dba87322e81bfb7e\output\AndroidManifest.xml:21:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.4] C:\Users\miran lee\.android\build-cache\6104b3ca00bab7dd7df53099f4051bbcd51a4bba\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-config:10.2.4] C:\Users\miran lee\.android\build-cache\443a2dc4c164c87e539f3dbb62f33c668cd1c889\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-awareness:10.2.4] C:\Users\miran lee\.android\build-cache\82a681fc62b9ecbd2ab9471c1e6bff371005fb07\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-crash:10.2.4] C:\Users\miran lee\.android\build-cache\62a8af06ec01ba18140508ad315db576bd2bf238\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-auth:10.2.4] C:\Users\miran lee\.android\build-cache\9ee576fec10b39143434dd5b264358377368d80b\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database:10.2.4] C:\Users\miran lee\.android\build-cache\00a0156e233549f50b8de3180dacd3ce48a93fcd\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:10.2.4] C:\Users\miran lee\.android\build-cache\ed7bbc635a977e0af01cad81fe70dd3e00f5e63e\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-messaging:10.2.4] C:\Users\miran lee\.android\build-cache\ce45edea2620d0ebce3c7750734f363157dea85a\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-storage:10.2.4] C:\Users\miran lee\.android\build-cache\32cff8007062912d72b42730101fb8e9ef3a76be\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:10.2.4] C:\Users\miran lee\.android\build-cache\318c63d2beb14ae2697dae2fd70cac47382057a9\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-fitness:10.2.4] C:\Users\miran lee\.android\build-cache\746b16eae45d3794259c762554c08ea50c8a387c\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-games:10.2.4] C:\Users\miran lee\.android\build-cache\686d307ea58f3cbb81f708a9cb042e145ce9cd30\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-drive:10.2.4] C:\Users\miran lee\.android\build-cache\4089f0d108424d2d0ff7d8bbeb77b816ded64a40\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gass:10.2.4] C:\Users\miran lee\.android\build-cache\b58f324c65d787e7c4d31e5ef1742f64b2a3308c\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gcm:10.2.4] C:\Users\miran lee\.android\build-cache\bba008a1ecc9e58ab32153c1241b9ab5dbf1e23a\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-appindexing:10.2.4] C:\Users\miran lee\.android\build-cache\f93e78b1ad9d48a57820650023ef697e71426be5\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:10.2.4] C:\Users\miran lee\.android\build-cache\e9e4a723a7bb92be09e4700230f6ec001476e5f8\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-instantapps:10.2.4] C:\Users\miran lee\.android\build-cache\369132d132cfee3f634c7b44b0123736bba53f74\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:10.2.4] C:\Users\miran lee\.android\build-cache\16af9c68cf535d1c4a46a4c98a4c0778122b0c26\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-nearby:10.2.4] C:\Users\miran lee\.android\build-cache\d5fea1da4c7e8771336d708e31afb2365a554593\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-panorama:10.2.4] C:\Users\miran lee\.android\build-cache\ac76b9c64a329e70cf19b00ce8ab5ba4c9e0714e\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-places:10.2.4] C:\Users\miran lee\.android\build-cache\0142f3ff289c742feb1ddf6a7234c0cd360a5114\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-plus:10.2.4] C:\Users\miran lee\.android\build-cache\ee01b3440fa1ed9e769babf7a7888569302d9d4e\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:10.2.4] C:\Users\miran lee\.android\build-cache\ce1c8c1c1657a39fb295c9d22d86c203543d9940\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager:10.2.4] C:\Users\miran lee\.android\build-cache\8cb6e4991823b8502c3d7d2ec0384a7fe2ca49b7\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.4] C:\Users\miran lee\.android\build-cache\8696edf1c4934cfd1745fdc665cc03319d94ac8e\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:10.2.4] C:\Users\miran lee\.android\build-cache\1ec2b8203be8765add95aa81809fd9537efcad9f\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.4] C:\Users\miran lee\.android\build-cache\bedff818e1b962e27fd77d2b15fa6416b2dda12d\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:10.2.4] C:\Users\miran lee\.android\build-cache\3216fc06b7e55643d910bef7589559c10cc8f280\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:10.2.4] C:\Users\miran lee\.android\build-cache\8036462d524107404738e24efbf2b8a1b7dae312\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.4] C:\Users\miran lee\.android\build-cache\be611cb766f3b7f1a13bf84571fe612da3cc13cd\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.4] C:\Users\miran lee\.android\build-cache\18d6aa909d19409db6ff3f64ebdbb62c0c009a42\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-vision:10.2.4] C:\Users\miran lee\.android\build-cache\9374731c33bafaaa433ec342dd6641e0992e35b1\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-wallet:10.2.4] C:\Users\miran lee\.android\build-cache\105463c339184e5c0f23138ddf9e9cbfe0ce5028\output\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-identity:10.2.4] C:\Users\miran lee\.android\build-cache\4ceacfa51682425cd8301cf458437836d8a60ecc\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\miran lee\.android\build-cache\fd6072b17e6bab143afe8c60489f5bf945e1ef11\output\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-wearable:10.2.4] C:\Users\miran lee\.android\build-cache\a921ff614b16327c0055e292e58e1256be0f1ad6\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\miran lee\.android\build-cache\a0cd4610b01520f5519a95cafd2d750744788c33\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.4] C:\Users\miran lee\.android\build-cache\1296084af57d446fb80e85dbe763dc9be27c0b51\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] C:\Users\miran lee\.android\build-cache\5343bc27fd90813885c40d156fb2769b549f2c9f\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\miran lee\.android\build-cache\2d5c0a8db6c3b47e98cf7bc99ce9af42a1212f24\output\AndroidManifest.xml:21:5-23:54
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:24.0.0] C:\Users\Tazo\.android\build-cache\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\output\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:24.0.0] C:\Users\miran lee\.android\build-cache\729f6aaf7d7aa204160cef242403f5d6b316b9f8\output\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from C:\Users\Tazo\SpotMemo\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Tazo\SpotMemo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\Tazo\SpotMemo\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Tazo\SpotMemo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.google.android.gms:play-services-ads-lite:10.2.4] C:\Users\Tazo\.android\build-cache\02b8f2fe15b318cf36bf2f8989f06e162a174cd2\output\AndroidManifest.xml:20:5-78
-MERGED from [com.google.android.gms:play-services-analytics:10.2.4] C:\Users\Tazo\.android\build-cache\1162f7975be898202b5b3aea9112e1cde943919a\output\AndroidManifest.xml:21:5-78
-MERGED from [com.google.android.gms:play-services-nearby:10.2.4] C:\Users\Tazo\.android\build-cache\391e1b1fa00c5b96721e4f9cf2c041a2caa3b80b\output\AndroidManifest.xml:4:5-78
-MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.4] C:\Users\Tazo\.android\build-cache\9b009c93f5f99deec782b5c6102ea488af131e4b\output\AndroidManifest.xml:21:5-78
-MERGED from [com.google.firebase:firebase-analytics:10.2.4] C:\Users\Tazo\.android\build-cache\79148fe154cc1e5b40c48e09652e4dada6ba9854\output\AndroidManifest.xml:21:5-78
-MERGED from [com.google.firebase:firebase-analytics-impl:10.2.4] C:\Users\Tazo\.android\build-cache\c345ea5e683618967350148391ad8e1de89edc3e\output\AndroidManifest.xml:21:5-78
-MERGED from [com.google.firebase:firebase-iid:10.2.4] C:\Users\Tazo\.android\build-cache\f5b1edfd9da7f4787fd39cd92973e4e945f5b5a4\output\AndroidManifest.xml:19:5-78
-MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.4] C:\Users\Tazo\.android\build-cache\f0fc65e88d9cfed45ab647b7ea6060f4852a01d3\output\AndroidManifest.xml:21:5-78
-MERGED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\Tazo\.android\build-cache\021880ec37d3da5d7348a12756805dd94c8ec273\output\AndroidManifest.xml:19:5-78
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.4] C:\Users\miran lee\.android\build-cache\f75fd17d06b561083e8b1b7672ff4399025d1ed2\output\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-analytics:10.2.4] C:\Users\miran lee\.android\build-cache\5e55dac4eb69dfae2b1cc8db0eebb83b884b8a41\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-nearby:10.2.4] C:\Users\miran lee\.android\build-cache\d5fea1da4c7e8771336d708e31afb2365a554593\output\AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.4] C:\Users\miran lee\.android\build-cache\8696edf1c4934cfd1745fdc665cc03319d94ac8e\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.2.4] C:\Users\miran lee\.android\build-cache\1ec2b8203be8765add95aa81809fd9537efcad9f\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.4] C:\Users\miran lee\.android\build-cache\bedff818e1b962e27fd77d2b15fa6416b2dda12d\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.2.4] C:\Users\miran lee\.android\build-cache\3216fc06b7e55643d910bef7589559c10cc8f280\output\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.4] C:\Users\miran lee\.android\build-cache\18d6aa909d19409db6ff3f64ebdbb62c0c009a42\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\miran lee\.android\build-cache\fd6072b17e6bab143afe8c60489f5bf945e1ef11\output\AndroidManifest.xml:19:5-78
 	android:name
-		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.4] C:\Users\Tazo\.android\build-cache\02b8f2fe15b318cf36bf2f8989f06e162a174cd2\output\AndroidManifest.xml:20:22-76
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.4] C:\Users\miran lee\.android\build-cache\f75fd17d06b561083e8b1b7672ff4399025d1ed2\output\AndroidManifest.xml:20:22-76
 activity#com.google.android.gms.ads.AdActivity
-ADDED from [com.google.android.gms:play-services-ads-lite:10.2.4] C:\Users\Tazo\.android\build-cache\02b8f2fe15b318cf36bf2f8989f06e162a174cd2\output\AndroidManifest.xml:25:9-232
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.4] C:\Users\miran lee\.android\build-cache\f75fd17d06b561083e8b1b7672ff4399025d1ed2\output\AndroidManifest.xml:25:9-232
 	android:configChanges
-		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.4] C:\Users\Tazo\.android\build-cache\02b8f2fe15b318cf36bf2f8989f06e162a174cd2\output\AndroidManifest.xml:25:72-181
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.4] C:\Users\miran lee\.android\build-cache\f75fd17d06b561083e8b1b7672ff4399025d1ed2\output\AndroidManifest.xml:25:72-181
 	android:theme
-		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.4] C:\Users\Tazo\.android\build-cache\02b8f2fe15b318cf36bf2f8989f06e162a174cd2\output\AndroidManifest.xml:25:182-230
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.4] C:\Users\miran lee\.android\build-cache\f75fd17d06b561083e8b1b7672ff4399025d1ed2\output\AndroidManifest.xml:25:182-230
 	android:name
-		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.4] C:\Users\Tazo\.android\build-cache\02b8f2fe15b318cf36bf2f8989f06e162a174cd2\output\AndroidManifest.xml:25:19-71
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.4] C:\Users\miran lee\.android\build-cache\f75fd17d06b561083e8b1b7672ff4399025d1ed2\output\AndroidManifest.xml:25:19-71
 activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
-ADDED from [com.google.android.gms:play-services-ads-lite:10.2.4] C:\Users\Tazo\.android\build-cache\02b8f2fe15b318cf36bf2f8989f06e162a174cd2\output\AndroidManifest.xml:26:9-131
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.4] C:\Users\miran lee\.android\build-cache\f75fd17d06b561083e8b1b7672ff4399025d1ed2\output\AndroidManifest.xml:26:9-131
 	android:theme
-		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.4] C:\Users\Tazo\.android\build-cache\02b8f2fe15b318cf36bf2f8989f06e162a174cd2\output\AndroidManifest.xml:26:92-129
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.4] C:\Users\miran lee\.android\build-cache\f75fd17d06b561083e8b1b7672ff4399025d1ed2\output\AndroidManifest.xml:26:92-129
 	android:name
-		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.4] C:\Users\Tazo\.android\build-cache\02b8f2fe15b318cf36bf2f8989f06e162a174cd2\output\AndroidManifest.xml:26:19-91
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.4] C:\Users\miran lee\.android\build-cache\f75fd17d06b561083e8b1b7672ff4399025d1ed2\output\AndroidManifest.xml:26:19-91
 uses-permission#android.permission.WAKE_LOCK
-ADDED from [com.google.android.gms:play-services-analytics:10.2.4] C:\Users\Tazo\.android\build-cache\1162f7975be898202b5b3aea9112e1cde943919a\output\AndroidManifest.xml:24:5-67
-MERGED from [com.google.firebase:firebase-analytics:10.2.4] C:\Users\Tazo\.android\build-cache\79148fe154cc1e5b40c48e09652e4dada6ba9854\output\AndroidManifest.xml:22:5-67
-MERGED from [com.google.firebase:firebase-analytics-impl:10.2.4] C:\Users\Tazo\.android\build-cache\c345ea5e683618967350148391ad8e1de89edc3e\output\AndroidManifest.xml:22:5-67
-MERGED from [com.google.firebase:firebase-iid:10.2.4] C:\Users\Tazo\.android\build-cache\f5b1edfd9da7f4787fd39cd92973e4e945f5b5a4\output\AndroidManifest.xml:21:5-67
-MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.4] C:\Users\Tazo\.android\build-cache\f0fc65e88d9cfed45ab647b7ea6060f4852a01d3\output\AndroidManifest.xml:24:5-67
+ADDED from [com.google.android.gms:play-services-analytics:10.2.4] C:\Users\miran lee\.android\build-cache\5e55dac4eb69dfae2b1cc8db0eebb83b884b8a41\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:10.2.4] C:\Users\miran lee\.android\build-cache\1ec2b8203be8765add95aa81809fd9537efcad9f\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.4] C:\Users\miran lee\.android\build-cache\bedff818e1b962e27fd77d2b15fa6416b2dda12d\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.2.4] C:\Users\miran lee\.android\build-cache\3216fc06b7e55643d910bef7589559c10cc8f280\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.4] C:\Users\miran lee\.android\build-cache\18d6aa909d19409db6ff3f64ebdbb62c0c009a42\output\AndroidManifest.xml:24:5-67
 	android:name
-		ADDED from [com.google.android.gms:play-services-analytics:10.2.4] C:\Users\Tazo\.android\build-cache\1162f7975be898202b5b3aea9112e1cde943919a\output\AndroidManifest.xml:24:22-65
+		ADDED from [com.google.android.gms:play-services-analytics:10.2.4] C:\Users\miran lee\.android\build-cache\5e55dac4eb69dfae2b1cc8db0eebb83b884b8a41\output\AndroidManifest.xml:24:22-65
 activity#com.google.android.gms.appinvite.PreviewActivity
-ADDED from [com.google.android.gms:play-services-appinvite:10.2.4] C:\Users\Tazo\.android\build-cache\506774274a0a7357350eeed918cb935a2fa93a2e\output\AndroidManifest.xml:20:9-25:20
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.4] C:\Users\miran lee\.android\build-cache\930998a79bb575c497a26f0c4f00477c83091db7\output\AndroidManifest.xml:20:9-25:20
 	android:exported
-		ADDED from [com.google.android.gms:play-services-appinvite:10.2.4] C:\Users\Tazo\.android\build-cache\506774274a0a7357350eeed918cb935a2fa93a2e\output\AndroidManifest.xml:20:51-74
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.4] C:\Users\miran lee\.android\build-cache\930998a79bb575c497a26f0c4f00477c83091db7\output\AndroidManifest.xml:20:51-74
 	android:theme
-		ADDED from [com.google.android.gms:play-services-appinvite:10.2.4] C:\Users\Tazo\.android\build-cache\506774274a0a7357350eeed918cb935a2fa93a2e\output\AndroidManifest.xml:20:75-121
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.4] C:\Users\miran lee\.android\build-cache\930998a79bb575c497a26f0c4f00477c83091db7\output\AndroidManifest.xml:20:75-121
 	android:name
-		ADDED from [com.google.android.gms:play-services-appinvite:10.2.4] C:\Users\Tazo\.android\build-cache\506774274a0a7357350eeed918cb935a2fa93a2e\output\AndroidManifest.xml:20:19-50
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.4] C:\Users\miran lee\.android\build-cache\930998a79bb575c497a26f0c4f00477c83091db7\output\AndroidManifest.xml:20:19-50
 intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
-ADDED from [com.google.android.gms:play-services-appinvite:10.2.4] C:\Users\Tazo\.android\build-cache\506774274a0a7357350eeed918cb935a2fa93a2e\output\AndroidManifest.xml:21:13-24:29
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.4] C:\Users\miran lee\.android\build-cache\930998a79bb575c497a26f0c4f00477c83091db7\output\AndroidManifest.xml:21:13-24:29
 action#com.google.android.gms.appinvite.ACTION_PREVIEW
-ADDED from [com.google.android.gms:play-services-appinvite:10.2.4] C:\Users\Tazo\.android\build-cache\506774274a0a7357350eeed918cb935a2fa93a2e\output\AndroidManifest.xml:22:17-89
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.4] C:\Users\miran lee\.android\build-cache\930998a79bb575c497a26f0c4f00477c83091db7\output\AndroidManifest.xml:22:17-89
 	android:name
-		ADDED from [com.google.android.gms:play-services-appinvite:10.2.4] C:\Users\Tazo\.android\build-cache\506774274a0a7357350eeed918cb935a2fa93a2e\output\AndroidManifest.xml:22:25-87
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.4] C:\Users\miran lee\.android\build-cache\930998a79bb575c497a26f0c4f00477c83091db7\output\AndroidManifest.xml:22:25-87
 category#android.intent.category.DEFAULT
-ADDED from [com.google.android.gms:play-services-appinvite:10.2.4] C:\Users\Tazo\.android\build-cache\506774274a0a7357350eeed918cb935a2fa93a2e\output\AndroidManifest.xml:23:17-75
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.4] C:\Users\miran lee\.android\build-cache\930998a79bb575c497a26f0c4f00477c83091db7\output\AndroidManifest.xml:23:17-75
 	android:name
-		ADDED from [com.google.android.gms:play-services-appinvite:10.2.4] C:\Users\Tazo\.android\build-cache\506774274a0a7357350eeed918cb935a2fa93a2e\output\AndroidManifest.xml:23:27-73
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.4] C:\Users\miran lee\.android\build-cache\930998a79bb575c497a26f0c4f00477c83091db7\output\AndroidManifest.xml:23:27-73
 activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
-ADDED from [com.google.android.gms:play-services-auth:10.2.4] C:\Users\Tazo\.android\build-cache\4acdfd5a05f60176d4c8415ddb228c01cddd0d7f\output\AndroidManifest.xml:20:9-189
+ADDED from [com.google.android.gms:play-services-auth:10.2.4] C:\Users\miran lee\.android\build-cache\eab7c062cf95bf29d45d30b0152197690f6313e0\output\AndroidManifest.xml:20:9-189
 	android:excludeFromRecents
-		ADDED from [com.google.android.gms:play-services-auth:10.2.4] C:\Users\Tazo\.android\build-cache\4acdfd5a05f60176d4c8415ddb228c01cddd0d7f\output\AndroidManifest.xml:20:129-162
+		ADDED from [com.google.android.gms:play-services-auth:10.2.4] C:\Users\miran lee\.android\build-cache\eab7c062cf95bf29d45d30b0152197690f6313e0\output\AndroidManifest.xml:20:129-162
 	android:exported
-		ADDED from [com.google.android.gms:play-services-auth:10.2.4] C:\Users\Tazo\.android\build-cache\4acdfd5a05f60176d4c8415ddb228c01cddd0d7f\output\AndroidManifest.xml:20:163-187
+		ADDED from [com.google.android.gms:play-services-auth:10.2.4] C:\Users\miran lee\.android\build-cache\eab7c062cf95bf29d45d30b0152197690f6313e0\output\AndroidManifest.xml:20:163-187
 	android:theme
-		ADDED from [com.google.android.gms:play-services-auth:10.2.4] C:\Users\Tazo\.android\build-cache\4acdfd5a05f60176d4c8415ddb228c01cddd0d7f\output\AndroidManifest.xml:20:69-128
+		ADDED from [com.google.android.gms:play-services-auth:10.2.4] C:\Users\miran lee\.android\build-cache\eab7c062cf95bf29d45d30b0152197690f6313e0\output\AndroidManifest.xml:20:69-128
 	android:name
-		ADDED from [com.google.android.gms:play-services-auth:10.2.4] C:\Users\Tazo\.android\build-cache\4acdfd5a05f60176d4c8415ddb228c01cddd0d7f\output\AndroidManifest.xml:20:19-68
+		ADDED from [com.google.android.gms:play-services-auth:10.2.4] C:\Users\miran lee\.android\build-cache\eab7c062cf95bf29d45d30b0152197690f6313e0\output\AndroidManifest.xml:20:19-68
 service#com.google.android.gms.auth.api.signin.RevocationBoundService
-ADDED from [com.google.android.gms:play-services-auth:10.2.4] C:\Users\Tazo\.android\build-cache\4acdfd5a05f60176d4c8415ddb228c01cddd0d7f\output\AndroidManifest.xml:24:9-184
+ADDED from [com.google.android.gms:play-services-auth:10.2.4] C:\Users\miran lee\.android\build-cache\eab7c062cf95bf29d45d30b0152197690f6313e0\output\AndroidManifest.xml:24:9-184
 	android:exported
-		ADDED from [com.google.android.gms:play-services-auth:10.2.4] C:\Users\Tazo\.android\build-cache\4acdfd5a05f60176d4c8415ddb228c01cddd0d7f\output\AndroidManifest.xml:24:64-87
+		ADDED from [com.google.android.gms:play-services-auth:10.2.4] C:\Users\miran lee\.android\build-cache\eab7c062cf95bf29d45d30b0152197690f6313e0\output\AndroidManifest.xml:24:64-87
 	android:permission
-		ADDED from [com.google.android.gms:play-services-auth:10.2.4] C:\Users\Tazo\.android\build-cache\4acdfd5a05f60176d4c8415ddb228c01cddd0d7f\output\AndroidManifest.xml:24:88-182
+		ADDED from [com.google.android.gms:play-services-auth:10.2.4] C:\Users\miran lee\.android\build-cache\eab7c062cf95bf29d45d30b0152197690f6313e0\output\AndroidManifest.xml:24:88-182
 	android:name
-		ADDED from [com.google.android.gms:play-services-auth:10.2.4] C:\Users\Tazo\.android\build-cache\4acdfd5a05f60176d4c8415ddb228c01cddd0d7f\output\AndroidManifest.xml:24:18-63
+		ADDED from [com.google.android.gms:play-services-auth:10.2.4] C:\Users\miran lee\.android\build-cache\eab7c062cf95bf29d45d30b0152197690f6313e0\output\AndroidManifest.xml:24:18-63
 receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
-ADDED from [com.google.android.gms:play-services-cast-framework:10.2.4] C:\Users\Tazo\.android\build-cache\b3fdb81a9e72738aaa31b9fcabf30942c1a8568e\output\AndroidManifest.xml:5:9-99
+ADDED from [com.google.android.gms:play-services-cast-framework:10.2.4] C:\Users\miran lee\.android\build-cache\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\output\AndroidManifest.xml:5:9-99
 	android:name
-		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.4] C:\Users\Tazo\.android\build-cache\b3fdb81a9e72738aaa31b9fcabf30942c1a8568e\output\AndroidManifest.xml:5:19-97
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.4] C:\Users\miran lee\.android\build-cache\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\output\AndroidManifest.xml:5:19-97
 service#com.google.android.gms.cast.framework.media.MediaNotificationService
-ADDED from [com.google.android.gms:play-services-cast-framework:10.2.4] C:\Users\Tazo\.android\build-cache\b3fdb81a9e72738aaa31b9fcabf30942c1a8568e\output\AndroidManifest.xml:6:9-103
+ADDED from [com.google.android.gms:play-services-cast-framework:10.2.4] C:\Users\miran lee\.android\build-cache\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\output\AndroidManifest.xml:6:9-103
 	android:name
-		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.4] C:\Users\Tazo\.android\build-cache\b3fdb81a9e72738aaa31b9fcabf30942c1a8568e\output\AndroidManifest.xml:6:18-101
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.4] C:\Users\miran lee\.android\build-cache\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\output\AndroidManifest.xml:6:18-101
 service#com.google.android.gms.cast.framework.ReconnectionService
-ADDED from [com.google.android.gms:play-services-cast-framework:10.2.4] C:\Users\Tazo\.android\build-cache\b3fdb81a9e72738aaa31b9fcabf30942c1a8568e\output\AndroidManifest.xml:7:9-92
+ADDED from [com.google.android.gms:play-services-cast-framework:10.2.4] C:\Users\miran lee\.android\build-cache\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\output\AndroidManifest.xml:7:9-92
 	android:name
-		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.4] C:\Users\Tazo\.android\build-cache\b3fdb81a9e72738aaa31b9fcabf30942c1a8568e\output\AndroidManifest.xml:7:18-90
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.4] C:\Users\miran lee\.android\build-cache\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\output\AndroidManifest.xml:7:18-90
 service#com.google.firebase.messaging.FirebaseMessagingService
-ADDED from [com.google.firebase:firebase-messaging:10.2.4] C:\Users\Tazo\.android\build-cache\5a81978db58c862bafd11929a6b02e488f25bbe2\output\AndroidManifest.xml:23:9-27:19
+ADDED from [com.google.firebase:firebase-messaging:10.2.4] C:\Users\miran lee\.android\build-cache\ce45edea2620d0ebce3c7750734f363157dea85a\output\AndroidManifest.xml:23:9-27:19
 	android:exported
-		ADDED from [com.google.firebase:firebase-messaging:10.2.4] C:\Users\Tazo\.android\build-cache\5a81978db58c862bafd11929a6b02e488f25bbe2\output\AndroidManifest.xml:23:88-111
+		ADDED from [com.google.firebase:firebase-messaging:10.2.4] C:\Users\miran lee\.android\build-cache\ce45edea2620d0ebce3c7750734f363157dea85a\output\AndroidManifest.xml:23:88-111
 	android:name
-		ADDED from [com.google.firebase:firebase-messaging:10.2.4] C:\Users\Tazo\.android\build-cache\5a81978db58c862bafd11929a6b02e488f25bbe2\output\AndroidManifest.xml:23:18-87
+		ADDED from [com.google.firebase:firebase-messaging:10.2.4] C:\Users\miran lee\.android\build-cache\ce45edea2620d0ebce3c7750734f363157dea85a\output\AndroidManifest.xml:23:18-87
 intent-filter#com.google.firebase.MESSAGING_EVENT
-ADDED from [com.google.firebase:firebase-messaging:10.2.4] C:\Users\Tazo\.android\build-cache\5a81978db58c862bafd11929a6b02e488f25bbe2\output\AndroidManifest.xml:24:13-26:29
+ADDED from [com.google.firebase:firebase-messaging:10.2.4] C:\Users\miran lee\.android\build-cache\ce45edea2620d0ebce3c7750734f363157dea85a\output\AndroidManifest.xml:24:13-26:29
 	android:priority
-		ADDED from [com.google.firebase:firebase-messaging:10.2.4] C:\Users\Tazo\.android\build-cache\5a81978db58c862bafd11929a6b02e488f25bbe2\output\AndroidManifest.xml:24:28-51
+		ADDED from [com.google.firebase:firebase-messaging:10.2.4] C:\Users\miran lee\.android\build-cache\ce45edea2620d0ebce3c7750734f363157dea85a\output\AndroidManifest.xml:24:28-51
 action#com.google.firebase.MESSAGING_EVENT
-ADDED from [com.google.firebase:firebase-messaging:10.2.4] C:\Users\Tazo\.android\build-cache\5a81978db58c862bafd11929a6b02e488f25bbe2\output\AndroidManifest.xml:25:17-77
+ADDED from [com.google.firebase:firebase-messaging:10.2.4] C:\Users\miran lee\.android\build-cache\ce45edea2620d0ebce3c7750734f363157dea85a\output\AndroidManifest.xml:25:17-77
 	android:name
-		ADDED from [com.google.firebase:firebase-messaging:10.2.4] C:\Users\Tazo\.android\build-cache\5a81978db58c862bafd11929a6b02e488f25bbe2\output\AndroidManifest.xml:25:25-75
+		ADDED from [com.google.firebase:firebase-messaging:10.2.4] C:\Users\miran lee\.android\build-cache\ce45edea2620d0ebce3c7750734f363157dea85a\output\AndroidManifest.xml:25:25-75
 uses-permission#com.google.android.c2dm.permission.RECEIVE
-ADDED from [com.google.android.gms:play-services-gcm:10.2.4] C:\Users\Tazo\.android\build-cache\acf0761587ff681025643a2cc35cf2ecb09d5210\output\AndroidManifest.xml:20:5-81
-MERGED from [com.google.android.gms:play-services-iid:10.2.4] C:\Users\Tazo\.android\build-cache\103c3f0afe8f0093a7a54416f6674d16e684f161\output\AndroidManifest.xml:20:5-81
-MERGED from [com.google.firebase:firebase-iid:10.2.4] C:\Users\Tazo\.android\build-cache\f5b1edfd9da7f4787fd39cd92973e4e945f5b5a4\output\AndroidManifest.xml:22:5-81
+ADDED from [com.google.android.gms:play-services-gcm:10.2.4] C:\Users\miran lee\.android\build-cache\bba008a1ecc9e58ab32153c1241b9ab5dbf1e23a\output\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:10.2.4] C:\Users\miran lee\.android\build-cache\e9e4a723a7bb92be09e4700230f6ec001476e5f8\output\AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:10.2.4] C:\Users\miran lee\.android\build-cache\3216fc06b7e55643d910bef7589559c10cc8f280\output\AndroidManifest.xml:22:5-81
 	android:name
-		ADDED from [com.google.android.gms:play-services-gcm:10.2.4] C:\Users\Tazo\.android\build-cache\acf0761587ff681025643a2cc35cf2ecb09d5210\output\AndroidManifest.xml:20:22-79
+		ADDED from [com.google.android.gms:play-services-gcm:10.2.4] C:\Users\miran lee\.android\build-cache\bba008a1ecc9e58ab32153c1241b9ab5dbf1e23a\output\AndroidManifest.xml:20:22-79
 service#com.google.android.gms.tagmanager.TagManagerService
-ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.4] C:\Users\Tazo\.android\build-cache\9b009c93f5f99deec782b5c6102ea488af131e4b\output\AndroidManifest.xml:24:9-134
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.4] C:\Users\miran lee\.android\build-cache\8696edf1c4934cfd1745fdc665cc03319d94ac8e\output\AndroidManifest.xml:24:9-134
 	android:enabled
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.4] C:\Users\Tazo\.android\build-cache\9b009c93f5f99deec782b5c6102ea488af131e4b\output\AndroidManifest.xml:24:110-132
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.4] C:\Users\miran lee\.android\build-cache\8696edf1c4934cfd1745fdc665cc03319d94ac8e\output\AndroidManifest.xml:24:110-132
 	android:exported
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.4] C:\Users\Tazo\.android\build-cache\9b009c93f5f99deec782b5c6102ea488af131e4b\output\AndroidManifest.xml:24:85-109
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.4] C:\Users\miran lee\.android\build-cache\8696edf1c4934cfd1745fdc665cc03319d94ac8e\output\AndroidManifest.xml:24:85-109
 	android:name
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.4] C:\Users\Tazo\.android\build-cache\9b009c93f5f99deec782b5c6102ea488af131e4b\output\AndroidManifest.xml:24:18-84
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.4] C:\Users\miran lee\.android\build-cache\8696edf1c4934cfd1745fdc665cc03319d94ac8e\output\AndroidManifest.xml:24:18-84
 activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
-ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.4] C:\Users\Tazo\.android\build-cache\9b009c93f5f99deec782b5c6102ea488af131e4b\output\AndroidManifest.xml:25:9-32:20
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.4] C:\Users\miran lee\.android\build-cache\8696edf1c4934cfd1745fdc665cc03319d94ac8e\output\AndroidManifest.xml:25:9-32:20
 	android:noHistory
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.4] C:\Users\Tazo\.android\build-cache\9b009c93f5f99deec782b5c6102ea488af131e4b\output\AndroidManifest.xml:25:94-118
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.4] C:\Users\miran lee\.android\build-cache\8696edf1c4934cfd1745fdc665cc03319d94ac8e\output\AndroidManifest.xml:25:94-118
 	android:name
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.4] C:\Users\Tazo\.android\build-cache\9b009c93f5f99deec782b5c6102ea488af131e4b\output\AndroidManifest.xml:25:19-93
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.4] C:\Users\miran lee\.android\build-cache\8696edf1c4934cfd1745fdc665cc03319d94ac8e\output\AndroidManifest.xml:25:19-93
 intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
-ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.4] C:\Users\Tazo\.android\build-cache\9b009c93f5f99deec782b5c6102ea488af131e4b\output\AndroidManifest.xml:26:13-31:29
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.4] C:\Users\miran lee\.android\build-cache\8696edf1c4934cfd1745fdc665cc03319d94ac8e\output\AndroidManifest.xml:26:13-31:29
 data
-ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.4] C:\Users\Tazo\.android\build-cache\9b009c93f5f99deec782b5c6102ea488af131e4b\output\AndroidManifest.xml:27:17-71
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.4] C:\Users\miran lee\.android\build-cache\8696edf1c4934cfd1745fdc665cc03319d94ac8e\output\AndroidManifest.xml:27:17-71
 	android:scheme
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.4] C:\Users\Tazo\.android\build-cache\9b009c93f5f99deec782b5c6102ea488af131e4b\output\AndroidManifest.xml:27:23-69
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.4] C:\Users\miran lee\.android\build-cache\8696edf1c4934cfd1745fdc665cc03319d94ac8e\output\AndroidManifest.xml:27:23-69
 action#android.intent.action.VIEW
-ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.4] C:\Users\Tazo\.android\build-cache\9b009c93f5f99deec782b5c6102ea488af131e4b\output\AndroidManifest.xml:28:17-68
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.4] C:\Users\miran lee\.android\build-cache\8696edf1c4934cfd1745fdc665cc03319d94ac8e\output\AndroidManifest.xml:28:17-68
 	android:name
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.4] C:\Users\Tazo\.android\build-cache\9b009c93f5f99deec782b5c6102ea488af131e4b\output\AndroidManifest.xml:28:25-66
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.4] C:\Users\miran lee\.android\build-cache\8696edf1c4934cfd1745fdc665cc03319d94ac8e\output\AndroidManifest.xml:28:25-66
 category#android.intent.category.BROWSABLE
-ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.4] C:\Users\Tazo\.android\build-cache\9b009c93f5f99deec782b5c6102ea488af131e4b\output\AndroidManifest.xml:30:17-77
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.4] C:\Users\miran lee\.android\build-cache\8696edf1c4934cfd1745fdc665cc03319d94ac8e\output\AndroidManifest.xml:30:17-77
 	android:name
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.4] C:\Users\Tazo\.android\build-cache\9b009c93f5f99deec782b5c6102ea488af131e4b\output\AndroidManifest.xml:30:27-75
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.4] C:\Users\miran lee\.android\build-cache\8696edf1c4934cfd1745fdc665cc03319d94ac8e\output\AndroidManifest.xml:30:27-75
 receiver#com.google.android.gms.measurement.AppMeasurementReceiver
-ADDED from [com.google.firebase:firebase-analytics:10.2.4] C:\Users\Tazo\.android\build-cache\79148fe154cc1e5b40c48e09652e4dada6ba9854\output\AndroidManifest.xml:25:7-26:18
-MERGED from [com.google.firebase:firebase-analytics-impl:10.2.4] C:\Users\Tazo\.android\build-cache\c345ea5e683618967350148391ad8e1de89edc3e\output\AndroidManifest.xml:25:7-26:18
+ADDED from [com.google.firebase:firebase-analytics:10.2.4] C:\Users\miran lee\.android\build-cache\1ec2b8203be8765add95aa81809fd9537efcad9f\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.4] C:\Users\miran lee\.android\build-cache\bedff818e1b962e27fd77d2b15fa6416b2dda12d\output\AndroidManifest.xml:25:7-26:18
 	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:10.2.4] C:\Users\Tazo\.android\build-cache\79148fe154cc1e5b40c48e09652e4dada6ba9854\output\AndroidManifest.xml:25:90-112
+		ADDED from [com.google.firebase:firebase-analytics:10.2.4] C:\Users\miran lee\.android\build-cache\1ec2b8203be8765add95aa81809fd9537efcad9f\output\AndroidManifest.xml:25:90-112
 	android:exported
-		ADDED from [com.google.firebase:firebase-analytics:10.2.4] C:\Users\Tazo\.android\build-cache\79148fe154cc1e5b40c48e09652e4dada6ba9854\output\AndroidManifest.xml:25:113-137
+		ADDED from [com.google.firebase:firebase-analytics:10.2.4] C:\Users\miran lee\.android\build-cache\1ec2b8203be8765add95aa81809fd9537efcad9f\output\AndroidManifest.xml:25:113-137
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:10.2.4] C:\Users\Tazo\.android\build-cache\79148fe154cc1e5b40c48e09652e4dada6ba9854\output\AndroidManifest.xml:25:17-89
+		ADDED from [com.google.firebase:firebase-analytics:10.2.4] C:\Users\miran lee\.android\build-cache\1ec2b8203be8765add95aa81809fd9537efcad9f\output\AndroidManifest.xml:25:17-89
 receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
-ADDED from [com.google.firebase:firebase-analytics:10.2.4] C:\Users\Tazo\.android\build-cache\79148fe154cc1e5b40c48e09652e4dada6ba9854\output\AndroidManifest.xml:27:7-31:18
+ADDED from [com.google.firebase:firebase-analytics:10.2.4] C:\Users\miran lee\.android\build-cache\1ec2b8203be8765add95aa81809fd9537efcad9f\output\AndroidManifest.xml:27:7-31:18
 	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:10.2.4] C:\Users\Tazo\.android\build-cache\79148fe154cc1e5b40c48e09652e4dada6ba9854\output\AndroidManifest.xml:27:162-184
+		ADDED from [com.google.firebase:firebase-analytics:10.2.4] C:\Users\miran lee\.android\build-cache\1ec2b8203be8765add95aa81809fd9537efcad9f\output\AndroidManifest.xml:27:162-184
 	android:permission
-		ADDED from [com.google.firebase:firebase-analytics:10.2.4] C:\Users\Tazo\.android\build-cache\79148fe154cc1e5b40c48e09652e4dada6ba9854\output\AndroidManifest.xml:27:105-161
+		ADDED from [com.google.firebase:firebase-analytics:10.2.4] C:\Users\miran lee\.android\build-cache\1ec2b8203be8765add95aa81809fd9537efcad9f\output\AndroidManifest.xml:27:105-161
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:10.2.4] C:\Users\Tazo\.android\build-cache\79148fe154cc1e5b40c48e09652e4dada6ba9854\output\AndroidManifest.xml:27:17-104
+		ADDED from [com.google.firebase:firebase-analytics:10.2.4] C:\Users\miran lee\.android\build-cache\1ec2b8203be8765add95aa81809fd9537efcad9f\output\AndroidManifest.xml:27:17-104
 intent-filter#com.android.vending.INSTALL_REFERRER
-ADDED from [com.google.firebase:firebase-analytics:10.2.4] C:\Users\Tazo\.android\build-cache\79148fe154cc1e5b40c48e09652e4dada6ba9854\output\AndroidManifest.xml:28:11-30:27
+ADDED from [com.google.firebase:firebase-analytics:10.2.4] C:\Users\miran lee\.android\build-cache\1ec2b8203be8765add95aa81809fd9537efcad9f\output\AndroidManifest.xml:28:11-30:27
 action#com.android.vending.INSTALL_REFERRER
-ADDED from [com.google.firebase:firebase-analytics:10.2.4] C:\Users\Tazo\.android\build-cache\79148fe154cc1e5b40c48e09652e4dada6ba9854\output\AndroidManifest.xml:29:15-76
+ADDED from [com.google.firebase:firebase-analytics:10.2.4] C:\Users\miran lee\.android\build-cache\1ec2b8203be8765add95aa81809fd9537efcad9f\output\AndroidManifest.xml:29:15-76
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:10.2.4] C:\Users\Tazo\.android\build-cache\79148fe154cc1e5b40c48e09652e4dada6ba9854\output\AndroidManifest.xml:29:23-74
+		ADDED from [com.google.firebase:firebase-analytics:10.2.4] C:\Users\miran lee\.android\build-cache\1ec2b8203be8765add95aa81809fd9537efcad9f\output\AndroidManifest.xml:29:23-74
 service#com.google.android.gms.measurement.AppMeasurementService
-ADDED from [com.google.firebase:firebase-analytics:10.2.4] C:\Users\Tazo\.android\build-cache\79148fe154cc1e5b40c48e09652e4dada6ba9854\output\AndroidManifest.xml:32:7-137
-MERGED from [com.google.firebase:firebase-analytics-impl:10.2.4] C:\Users\Tazo\.android\build-cache\c345ea5e683618967350148391ad8e1de89edc3e\output\AndroidManifest.xml:27:7-137
+ADDED from [com.google.firebase:firebase-analytics:10.2.4] C:\Users\miran lee\.android\build-cache\1ec2b8203be8765add95aa81809fd9537efcad9f\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.4] C:\Users\miran lee\.android\build-cache\bedff818e1b962e27fd77d2b15fa6416b2dda12d\output\AndroidManifest.xml:27:7-137
 	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:10.2.4] C:\Users\Tazo\.android\build-cache\79148fe154cc1e5b40c48e09652e4dada6ba9854\output\AndroidManifest.xml:32:88-110
+		ADDED from [com.google.firebase:firebase-analytics:10.2.4] C:\Users\miran lee\.android\build-cache\1ec2b8203be8765add95aa81809fd9537efcad9f\output\AndroidManifest.xml:32:88-110
 	android:exported
-		ADDED from [com.google.firebase:firebase-analytics:10.2.4] C:\Users\Tazo\.android\build-cache\79148fe154cc1e5b40c48e09652e4dada6ba9854\output\AndroidManifest.xml:32:111-135
+		ADDED from [com.google.firebase:firebase-analytics:10.2.4] C:\Users\miran lee\.android\build-cache\1ec2b8203be8765add95aa81809fd9537efcad9f\output\AndroidManifest.xml:32:111-135
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:10.2.4] C:\Users\Tazo\.android\build-cache\79148fe154cc1e5b40c48e09652e4dada6ba9854\output\AndroidManifest.xml:32:16-87
+		ADDED from [com.google.firebase:firebase-analytics:10.2.4] C:\Users\miran lee\.android\build-cache\1ec2b8203be8765add95aa81809fd9537efcad9f\output\AndroidManifest.xml:32:16-87
 permission#${applicationId}.permission.C2D_MESSAGE
-ADDED from [com.google.firebase:firebase-iid:10.2.4] C:\Users\Tazo\.android\build-cache\f5b1edfd9da7f4787fd39cd92973e4e945f5b5a4\output\AndroidManifest.xml:24:5-109
+ADDED from [com.google.firebase:firebase-iid:10.2.4] C:\Users\miran lee\.android\build-cache\3216fc06b7e55643d910bef7589559c10cc8f280\output\AndroidManifest.xml:24:5-109
 	android:protectionLevel
-		ADDED from [com.google.firebase:firebase-iid:10.2.4] C:\Users\Tazo\.android\build-cache\f5b1edfd9da7f4787fd39cd92973e4e945f5b5a4\output\AndroidManifest.xml:24:72-107
+		ADDED from [com.google.firebase:firebase-iid:10.2.4] C:\Users\miran lee\.android\build-cache\3216fc06b7e55643d910bef7589559c10cc8f280\output\AndroidManifest.xml:24:72-107
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.2.4] C:\Users\Tazo\.android\build-cache\f5b1edfd9da7f4787fd39cd92973e4e945f5b5a4\output\AndroidManifest.xml:24:17-71
+		ADDED from [com.google.firebase:firebase-iid:10.2.4] C:\Users\miran lee\.android\build-cache\3216fc06b7e55643d910bef7589559c10cc8f280\output\AndroidManifest.xml:24:17-71
 uses-permission#${applicationId}.permission.C2D_MESSAGE
-ADDED from [com.google.firebase:firebase-iid:10.2.4] C:\Users\Tazo\.android\build-cache\f5b1edfd9da7f4787fd39cd92973e4e945f5b5a4\output\AndroidManifest.xml:26:5-78
+ADDED from [com.google.firebase:firebase-iid:10.2.4] C:\Users\miran lee\.android\build-cache\3216fc06b7e55643d910bef7589559c10cc8f280\output\AndroidManifest.xml:26:5-78
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.2.4] C:\Users\Tazo\.android\build-cache\f5b1edfd9da7f4787fd39cd92973e4e945f5b5a4\output\AndroidManifest.xml:26:22-76
+		ADDED from [com.google.firebase:firebase-iid:10.2.4] C:\Users\miran lee\.android\build-cache\3216fc06b7e55643d910bef7589559c10cc8f280\output\AndroidManifest.xml:26:22-76
 receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
-ADDED from [com.google.firebase:firebase-iid:10.2.4] C:\Users\Tazo\.android\build-cache\f5b1edfd9da7f4787fd39cd92973e4e945f5b5a4\output\AndroidManifest.xml:30:9-35:20
+ADDED from [com.google.firebase:firebase-iid:10.2.4] C:\Users\miran lee\.android\build-cache\3216fc06b7e55643d910bef7589559c10cc8f280\output\AndroidManifest.xml:30:9-35:20
 	android:exported
-		ADDED from [com.google.firebase:firebase-iid:10.2.4] C:\Users\Tazo\.android\build-cache\f5b1edfd9da7f4787fd39cd92973e4e945f5b5a4\output\AndroidManifest.xml:30:85-108
+		ADDED from [com.google.firebase:firebase-iid:10.2.4] C:\Users\miran lee\.android\build-cache\3216fc06b7e55643d910bef7589559c10cc8f280\output\AndroidManifest.xml:30:85-108
 	android:permission
-		ADDED from [com.google.firebase:firebase-iid:10.2.4] C:\Users\Tazo\.android\build-cache\f5b1edfd9da7f4787fd39cd92973e4e945f5b5a4\output\AndroidManifest.xml:30:109-169
+		ADDED from [com.google.firebase:firebase-iid:10.2.4] C:\Users\miran lee\.android\build-cache\3216fc06b7e55643d910bef7589559c10cc8f280\output\AndroidManifest.xml:30:109-169
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.2.4] C:\Users\Tazo\.android\build-cache\f5b1edfd9da7f4787fd39cd92973e4e945f5b5a4\output\AndroidManifest.xml:30:19-84
+		ADDED from [com.google.firebase:firebase-iid:10.2.4] C:\Users\miran lee\.android\build-cache\3216fc06b7e55643d910bef7589559c10cc8f280\output\AndroidManifest.xml:30:19-84
 intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:10.2.4] C:\Users\Tazo\.android\build-cache\f5b1edfd9da7f4787fd39cd92973e4e945f5b5a4\output\AndroidManifest.xml:31:13-34:29
+ADDED from [com.google.firebase:firebase-iid:10.2.4] C:\Users\miran lee\.android\build-cache\3216fc06b7e55643d910bef7589559c10cc8f280\output\AndroidManifest.xml:31:13-34:29
 action#com.google.android.c2dm.intent.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:10.2.4] C:\Users\Tazo\.android\build-cache\f5b1edfd9da7f4787fd39cd92973e4e945f5b5a4\output\AndroidManifest.xml:32:17-80
+ADDED from [com.google.firebase:firebase-iid:10.2.4] C:\Users\miran lee\.android\build-cache\3216fc06b7e55643d910bef7589559c10cc8f280\output\AndroidManifest.xml:32:17-80
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.2.4] C:\Users\Tazo\.android\build-cache\f5b1edfd9da7f4787fd39cd92973e4e945f5b5a4\output\AndroidManifest.xml:32:25-78
+		ADDED from [com.google.firebase:firebase-iid:10.2.4] C:\Users\miran lee\.android\build-cache\3216fc06b7e55643d910bef7589559c10cc8f280\output\AndroidManifest.xml:32:25-78
 category#${applicationId}
-ADDED from [com.google.firebase:firebase-iid:10.2.4] C:\Users\Tazo\.android\build-cache\f5b1edfd9da7f4787fd39cd92973e4e945f5b5a4\output\AndroidManifest.xml:33:17-60
+ADDED from [com.google.firebase:firebase-iid:10.2.4] C:\Users\miran lee\.android\build-cache\3216fc06b7e55643d910bef7589559c10cc8f280\output\AndroidManifest.xml:33:17-60
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.2.4] C:\Users\Tazo\.android\build-cache\f5b1edfd9da7f4787fd39cd92973e4e945f5b5a4\output\AndroidManifest.xml:33:27-58
+		ADDED from [com.google.firebase:firebase-iid:10.2.4] C:\Users\miran lee\.android\build-cache\3216fc06b7e55643d910bef7589559c10cc8f280\output\AndroidManifest.xml:33:27-58
 receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
-ADDED from [com.google.firebase:firebase-iid:10.2.4] C:\Users\Tazo\.android\build-cache\f5b1edfd9da7f4787fd39cd92973e4e945f5b5a4\output\AndroidManifest.xml:39:9-119
+ADDED from [com.google.firebase:firebase-iid:10.2.4] C:\Users\miran lee\.android\build-cache\3216fc06b7e55643d910bef7589559c10cc8f280\output\AndroidManifest.xml:39:9-119
 	android:exported
-		ADDED from [com.google.firebase:firebase-iid:10.2.4] C:\Users\Tazo\.android\build-cache\f5b1edfd9da7f4787fd39cd92973e4e945f5b5a4\output\AndroidManifest.xml:39:93-117
+		ADDED from [com.google.firebase:firebase-iid:10.2.4] C:\Users\miran lee\.android\build-cache\3216fc06b7e55643d910bef7589559c10cc8f280\output\AndroidManifest.xml:39:93-117
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.2.4] C:\Users\Tazo\.android\build-cache\f5b1edfd9da7f4787fd39cd92973e4e945f5b5a4\output\AndroidManifest.xml:39:19-92
+		ADDED from [com.google.firebase:firebase-iid:10.2.4] C:\Users\miran lee\.android\build-cache\3216fc06b7e55643d910bef7589559c10cc8f280\output\AndroidManifest.xml:39:19-92
 service#com.google.firebase.iid.FirebaseInstanceIdService
-ADDED from [com.google.firebase:firebase-iid:10.2.4] C:\Users\Tazo\.android\build-cache\f5b1edfd9da7f4787fd39cd92973e4e945f5b5a4\output\AndroidManifest.xml:43:9-47:19
+ADDED from [com.google.firebase:firebase-iid:10.2.4] C:\Users\miran lee\.android\build-cache\3216fc06b7e55643d910bef7589559c10cc8f280\output\AndroidManifest.xml:43:9-47:19
 	android:exported
-		ADDED from [com.google.firebase:firebase-iid:10.2.4] C:\Users\Tazo\.android\build-cache\f5b1edfd9da7f4787fd39cd92973e4e945f5b5a4\output\AndroidManifest.xml:43:83-106
+		ADDED from [com.google.firebase:firebase-iid:10.2.4] C:\Users\miran lee\.android\build-cache\3216fc06b7e55643d910bef7589559c10cc8f280\output\AndroidManifest.xml:43:83-106
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.2.4] C:\Users\Tazo\.android\build-cache\f5b1edfd9da7f4787fd39cd92973e4e945f5b5a4\output\AndroidManifest.xml:43:18-82
+		ADDED from [com.google.firebase:firebase-iid:10.2.4] C:\Users\miran lee\.android\build-cache\3216fc06b7e55643d910bef7589559c10cc8f280\output\AndroidManifest.xml:43:18-82
 intent-filter#com.google.firebase.INSTANCE_ID_EVENT
-ADDED from [com.google.firebase:firebase-iid:10.2.4] C:\Users\Tazo\.android\build-cache\f5b1edfd9da7f4787fd39cd92973e4e945f5b5a4\output\AndroidManifest.xml:44:13-46:29
+ADDED from [com.google.firebase:firebase-iid:10.2.4] C:\Users\miran lee\.android\build-cache\3216fc06b7e55643d910bef7589559c10cc8f280\output\AndroidManifest.xml:44:13-46:29
 	android:priority
-		ADDED from [com.google.firebase:firebase-iid:10.2.4] C:\Users\Tazo\.android\build-cache\f5b1edfd9da7f4787fd39cd92973e4e945f5b5a4\output\AndroidManifest.xml:44:28-51
+		ADDED from [com.google.firebase:firebase-iid:10.2.4] C:\Users\miran lee\.android\build-cache\3216fc06b7e55643d910bef7589559c10cc8f280\output\AndroidManifest.xml:44:28-51
 action#com.google.firebase.INSTANCE_ID_EVENT
-ADDED from [com.google.firebase:firebase-iid:10.2.4] C:\Users\Tazo\.android\build-cache\f5b1edfd9da7f4787fd39cd92973e4e945f5b5a4\output\AndroidManifest.xml:45:17-79
+ADDED from [com.google.firebase:firebase-iid:10.2.4] C:\Users\miran lee\.android\build-cache\3216fc06b7e55643d910bef7589559c10cc8f280\output\AndroidManifest.xml:45:17-79
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.2.4] C:\Users\Tazo\.android\build-cache\f5b1edfd9da7f4787fd39cd92973e4e945f5b5a4\output\AndroidManifest.xml:45:25-77
+		ADDED from [com.google.firebase:firebase-iid:10.2.4] C:\Users\miran lee\.android\build-cache\3216fc06b7e55643d910bef7589559c10cc8f280\output\AndroidManifest.xml:45:25-77
 provider#com.google.firebase.provider.FirebaseInitProvider
-ADDED from [com.google.firebase:firebase-common:10.2.4] C:\Users\Tazo\.android\build-cache\312b3bd8c4d9e27117fddcb99d211ab9bdf9a2b0\output\AndroidManifest.xml:6:9-194
+ADDED from [com.google.firebase:firebase-common:10.2.4] C:\Users\miran lee\.android\build-cache\8036462d524107404738e24efbf2b8a1b7dae312\output\AndroidManifest.xml:6:9-194
 	android:authorities
-		ADDED from [com.google.firebase:firebase-common:10.2.4] C:\Users\Tazo\.android\build-cache\312b3bd8c4d9e27117fddcb99d211ab9bdf9a2b0\output\AndroidManifest.xml:6:19-78
+		ADDED from [com.google.firebase:firebase-common:10.2.4] C:\Users\miran lee\.android\build-cache\8036462d524107404738e24efbf2b8a1b7dae312\output\AndroidManifest.xml:6:19-78
 	android:exported
-		ADDED from [com.google.firebase:firebase-common:10.2.4] C:\Users\Tazo\.android\build-cache\312b3bd8c4d9e27117fddcb99d211ab9bdf9a2b0\output\AndroidManifest.xml:6:144-168
+		ADDED from [com.google.firebase:firebase-common:10.2.4] C:\Users\miran lee\.android\build-cache\8036462d524107404738e24efbf2b8a1b7dae312\output\AndroidManifest.xml:6:144-168
 	android:initOrder
-		ADDED from [com.google.firebase:firebase-common:10.2.4] C:\Users\Tazo\.android\build-cache\312b3bd8c4d9e27117fddcb99d211ab9bdf9a2b0\output\AndroidManifest.xml:6:169-192
+		ADDED from [com.google.firebase:firebase-common:10.2.4] C:\Users\miran lee\.android\build-cache\8036462d524107404738e24efbf2b8a1b7dae312\output\AndroidManifest.xml:6:169-192
 	android:name
-		ADDED from [com.google.firebase:firebase-common:10.2.4] C:\Users\Tazo\.android\build-cache\312b3bd8c4d9e27117fddcb99d211ab9bdf9a2b0\output\AndroidManifest.xml:6:79-143
+		ADDED from [com.google.firebase:firebase-common:10.2.4] C:\Users\miran lee\.android\build-cache\8036462d524107404738e24efbf2b8a1b7dae312\output\AndroidManifest.xml:6:79-143
 activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\Tazo\.android\build-cache\3cf591524ecf74e95899f4321de919b9188727d6\output\AndroidManifest.xml:19:9-172
+ADDED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\miran lee\.android\build-cache\a0cd4610b01520f5519a95cafd2d750744788c33\output\AndroidManifest.xml:19:9-172
 	android:exported
-		ADDED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\Tazo\.android\build-cache\3cf591524ecf74e95899f4321de919b9188727d6\output\AndroidManifest.xml:19:146-170
+		ADDED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\miran lee\.android\build-cache\a0cd4610b01520f5519a95cafd2d750744788c33\output\AndroidManifest.xml:19:146-170
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\Tazo\.android\build-cache\3cf591524ecf74e95899f4321de919b9188727d6\output\AndroidManifest.xml:19:86-145
+		ADDED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\miran lee\.android\build-cache\a0cd4610b01520f5519a95cafd2d750744788c33\output\AndroidManifest.xml:19:86-145
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\Tazo\.android\build-cache\3cf591524ecf74e95899f4321de919b9188727d6\output\AndroidManifest.xml:19:19-85
+		ADDED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\miran lee\.android\build-cache\a0cd4610b01520f5519a95cafd2d750744788c33\output\AndroidManifest.xml:19:19-85

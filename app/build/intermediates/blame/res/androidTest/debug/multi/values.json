@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "outputFile": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,55 +11,7 @@
                     "endOffset": 96
                 },
                 "from": {
-                    "file": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\bae2bfab0372cbd093d2835e76f1476e5be3110c\\output\\res\\values\\values.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 229,
-                        "endColumn": 45,
-                        "endOffset": 270
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 45,
-                    "endOffset": 96
-                },
-                "from": {
-                    "file": "C:\\Users\\kyeolhan\\.android\\build-cache\\ff9f51a475f3912030cb7cecb817177f5d25736c\\output\\res\\values\\values.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 229,
-                        "endColumn": 45,
-                        "endOffset": 270
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 45,
-                    "endOffset": 96
-                },
-                "from": {
-                    "file": "C:\\Users\\Tazo\\.android\\build-cache\\fc3ae7629c04bd06625ae6e0d66de117c8987d7f\\output\\res\\values\\values.xml",
+                    "file": "C:\\Users\\miran lee\\.android\\build-cache\\bae2bfab0372cbd093d2835e76f1476e5be3110c\\output\\res\\values\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

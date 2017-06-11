@@ -1,14 +1,6 @@
 [
     {
-        "merged": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
-        "source": "C:\\Users\\Tazo\\.android\\build-cache\\b3fd857432d0f4f048a6f505dbb0c4791f16a114\\output\\res\\layout-v21\\place_autocomplete_fragment.xml"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
-        "source": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\0142f3ff289c742feb1ddf6a7234c0cd360a5114\\output\\res\\layout-v21\\place_autocomplete_fragment.xml"
-    },
-    {
-        "merged": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
-        "source": "C:\\Users\\kyeolhan\\.android\\build-cache\\73d26c5edd6a3dd67398311c2455ad0342bd9519\\output\\res\\layout-v21\\place_autocomplete_fragment.xml"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\0142f3ff289c742feb1ddf6a7234c0cd360a5114\\output\\res\\layout-v21\\place_autocomplete_fragment.xml"
     }
 ]

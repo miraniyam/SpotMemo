@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldltr-v21\\values-ldltr-v21.xml",
+        "outputFile": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldltr-v21\\values-ldltr-v21.xml",
         "map": [
             {
                 "to": {
@@ -11,55 +11,7 @@
                     "endOffset": 163
                 },
                 "from": {
-                    "file": "C:\\Users\\kyeolhan\\.android\\build-cache\\2607aba05a66cc786bdcbd1838d7f41808c24011\\output\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 112,
-                        "endOffset": 163
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "C:\\Users\\Tazo\\SpotMemo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldltr-v21\\values-ldltr-v21.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 112,
-                    "endOffset": 163
-                },
-                "from": {
-                    "file": "C:\\Users\\Tazo\\.android\\build-cache\\a5c7a7ab5dd5549fb1fbced3379f79b4ab781cf4\\output\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 112,
-                        "endOffset": 163
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldltr-v21\\values-ldltr-v21.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 112,
-                    "endOffset": 163
-                },
-                "from": {
-                    "file": "C:\\Users\\kyeolhan\\Desktop\\spotmemo\\SpotMemo\\C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

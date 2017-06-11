@@ -14,7 +14,8 @@
             android:padding="20dp"
             android:textSize="20dp"
             android:text="내가 남긴 N개 메모"
-            android:id="@+id/btn_myMemo"/>
+            android:id="@+id/btn_myMemo"
+            android:onClick="changeActivity"/>
 
         <fragment
             android:id="@+id/map"
@@ -28,7 +29,8 @@
             android:padding="20dp"
             android:textSize="20dp"
             android:text="메모 추가"
-            android:id="@+id/btn_addMemo"/>
+            android:id="@+id/btn_addMemo"
+            android:onClick="changeActivity"/>
 
         <Button
             android:layout_width="match_parent"
@@ -36,9 +38,11 @@
             android:padding="20dp"
             android:textSize="20dp"
             android:text="주변에 공유된 메모보기"
-            android:id="@+id/btn_othersMemo"/>
+            android:id="@+id/btn_othersMemo"
+            android:onClick="changeActivity"/>
         <Button
             android:text="검색하기"
+            android:onClick="changeActivity"
             android:id="@+id/btn_search"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
