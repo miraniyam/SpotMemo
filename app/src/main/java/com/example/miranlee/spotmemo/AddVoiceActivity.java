@@ -16,6 +16,7 @@ import android.support.v4.app.ActivityCompat;
 import android.support.v4.content.ContextCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
+import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.ListView;
@@ -39,7 +40,7 @@ import java.util.Locale;
  * Created by miran lee on 2017-05-14.
  */
 
-public class AddVoiceActivity extends AppCompatActivity implements GoogleApiClient.OnConnectionFailedListener, GoogleApiClient.ConnectionCallbacks, TextToSpeech.OnInitListener, LocationListener {
+public class AddVoiceActivity extends AppCompatActivity implements GoogleApiClient.OnConnectionFailedListener, GoogleApiClient.ConnectionCallbacks, TextToSpeech.OnInitListener, LocationListener, AdapterView.OnItemClickListener {
 
     private LocationManager locationManager;
 
@@ -61,6 +62,7 @@ public class AddVoiceActivity extends AppCompatActivity implements GoogleApiClie
     Location location;
 
     ListView listView;
+    ArrayList<CharSequence> place_name;
 
     @Override
     protected void onStart() {
@@ -80,7 +82,7 @@ public class AddVoiceActivity extends AppCompatActivity implements GoogleApiClie
         getPlace = (TextView) findViewById(R.id.getPlace);
         listView = (ListView)findViewById(R.id.listview);
 
-       final ArrayList<CharSequence> place_name = new ArrayList<CharSequence>();
+        place_name = new ArrayList<CharSequence>();
 
 //        locationManager = (LocationManager) getSystemService(Context.LOCATION_SERVICE);
 //        if (ActivityCompat.checkSelfPermission(this, android.Manifest.permission.ACCESS_FINE_LOCATION) != PackageManager.PERMISSION_GRANTED && ActivityCompat.checkSelfPermission(this, android.Manifest.permission.ACCESS_COARSE_LOCATION) != PackageManager.PERMISSION_GRANTED) {
@@ -142,15 +144,20 @@ public class AddVoiceActivity extends AppCompatActivity implements GoogleApiClie
                             placeLikelihood.getPlace().getName(),
                             placeLikelihood.getLikelihood(),
                             placeLikelihood.getPlace().getLatLng()));
-
                 }
                 likelyPlaces.release();
             }
         });
 
         ArrayAdapter<CharSequence> aa = new ArrayAdapter<CharSequence>(this, android.R.layout.simple_dropdown_item_1line,place_name);
+
         listView.setAdapter(aa);
+        listView.setOnItemClickListener(this);
+
+
     }
+
+
 
     public void onClickStart(View view) {
         tts.speak("이 멘트가 끝나면 녹음이 시작됩니다.",TextToSpeech.QUEUE_FLUSH,null);
@@ -249,5 +256,13 @@ public class AddVoiceActivity extends AppCompatActivity implements GoogleApiClie
     @Override
     public void onConnectionFailed(@NonNull ConnectionResult connectionResult) {
 
+    }
+
+
+    @Override
+    public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
+        if(adapterView == listView){
+            getPlace.setText(place_name.get(i));
+        }
     }
 }
