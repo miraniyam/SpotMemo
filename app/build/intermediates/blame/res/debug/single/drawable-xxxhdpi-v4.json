@@ -1,11 +1,11 @@
 [
     {
-        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_collapse_00004.png",
-        "source": "C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\drawable-xxxhdpi-v4\\ic_collapse_00004.png"
-    },
-    {
         "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\quantum_ic_skip_next_grey600_36.png",
         "source": "C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-xxxhdpi-v4\\quantum_ic_skip_next_grey600_36.png"
+    },
+    {
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_collapse_00004.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\drawable-xxxhdpi-v4\\ic_collapse_00004.png"
     },
     {
         "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
@@ -36,20 +36,20 @@
         "source": "C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-xxxhdpi-v4\\quantum_ic_replay_white_24.png"
     },
     {
-        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_expand_00006.png",
-        "source": "C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\drawable-xxxhdpi-v4\\ic_expand_00006.png"
-    },
-    {
-        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\quantum_ic_cast_connected_white_24.png",
-        "source": "C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-xxxhdpi-v4\\quantum_ic_cast_connected_white_24.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png"
     },
     {
         "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
         "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
-        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png",
-        "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\quantum_ic_cast_connected_white_24.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-xxxhdpi-v4\\quantum_ic_cast_connected_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_expand_00006.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\drawable-xxxhdpi-v4\\ic_expand_00006.png"
     },
     {
         "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_pause_light.png",

@@ -12,6 +12,23 @@
         android:text="녹음 시작"
         android:onClick="onClickStart"/>
 
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:padding="20dp"
+        android:id="@+id/btn_cancel"
+        android:text="녹음 취소"
+        android:onClick="onClickCancel"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:padding="20dp"
+        android:id="@+id/btn_listen"
+        android:text="들어보기"
+        android:onClick="onClickListen"/>
 
     <Button
         android:layout_width="match_parent"
@@ -19,7 +36,7 @@
         android:textSize="20dp"
         android:padding="20dp"
         android:id="@+id/btn_stop"
-        android:text="중지/저장"
+        android:text="저장하기"
         android:onClick="onClickStop"/>
 
     <Button

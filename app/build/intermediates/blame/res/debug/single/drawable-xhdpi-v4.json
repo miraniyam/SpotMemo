@@ -16,12 +16,12 @@
         "source": "C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-xhdpi-v4\\cast_abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_media_route_connecting_19_light.png",
-        "source": "C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\drawable-xhdpi-v4\\ic_media_route_connecting_19_light.png"
-    },
-    {
         "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_media_route_on_09_dark.png",
         "source": "C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\drawable-xhdpi-v4\\ic_media_route_on_09_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_media_route_connecting_19_light.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\drawable-xhdpi-v4\\ic_media_route_connecting_19_light.png"
     },
     {
         "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_media_route_on_17_light.png",
@@ -60,12 +60,12 @@
         "source": "C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\drawable-xhdpi-v4\\ic_media_route_on_01_light.png"
     },
     {
-        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_media_route_on_11_light.png",
-        "source": "C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\drawable-xhdpi-v4\\ic_media_route_on_11_light.png"
-    },
-    {
         "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
         "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_media_route_on_11_light.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\drawable-xhdpi-v4\\ic_media_route_on_11_light.png"
     },
     {
         "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png",
@@ -76,12 +76,12 @@
         "source": "C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-xhdpi-v4\\quantum_ic_play_circle_filled_grey600_36.png"
     },
     {
-        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\powered_by_google_dark.png",
-        "source": "C:\\Users\\miran lee\\.android\\build-cache\\0142f3ff289c742feb1ddf6a7234c0cd360a5114\\output\\res\\drawable-xhdpi-v4\\powered_by_google_dark.png"
-    },
-    {
         "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
         "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\powered_by_google_dark.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\0142f3ff289c742feb1ddf6a7234c0cd360a5114\\output\\res\\drawable-xhdpi-v4\\powered_by_google_dark.png"
     },
     {
         "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_pause_dark.png",
@@ -180,12 +180,12 @@
         "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
     },
     {
-        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_cast_off_light.png",
-        "source": "C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\drawable-xhdpi-v4\\ic_cast_off_light.png"
-    },
-    {
         "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_media_play.png",
         "source": "C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\drawable-xhdpi-v4\\ic_media_play.png"
+    },
+    {
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_cast_off_light.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\drawable-xhdpi-v4\\ic_cast_off_light.png"
     },
     {
         "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_media_route_connecting_04_light.png",
@@ -236,12 +236,12 @@
         "source": "C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\drawable-xhdpi-v4\\ic_media_route_on_12_light.png"
     },
     {
-        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_tv_dark.png",
-        "source": "C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\drawable-xhdpi-v4\\ic_tv_dark.png"
-    },
-    {
         "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_pause_circle_filled_white_36.png",
         "source": "C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-xhdpi-v4\\quantum_ic_pause_circle_filled_white_36.png"
+    },
+    {
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_tv_dark.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\drawable-xhdpi-v4\\ic_tv_dark.png"
     },
     {
         "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_media_route_on_05_dark.png",
@@ -264,12 +264,12 @@
         "source": "C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-xhdpi-v4\\cast_ic_stop_circle_filled_white.png"
     },
     {
-        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_media_route_connecting_16_dark.png",
-        "source": "C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\drawable-xhdpi-v4\\ic_media_route_connecting_16_dark.png"
-    },
-    {
         "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_replay_10_white_24.png",
         "source": "C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable-xhdpi-v4\\quantum_ic_replay_10_white_24.png"
+    },
+    {
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_media_route_connecting_16_dark.png",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\drawable-xhdpi-v4\\ic_media_route_connecting_16_dark.png"
     },
     {
         "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_media_route_on_18_light.png",
