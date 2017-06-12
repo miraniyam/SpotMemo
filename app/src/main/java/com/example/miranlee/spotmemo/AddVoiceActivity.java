@@ -171,8 +171,8 @@ public class AddVoiceActivity extends AppCompatActivity implements GoogleApiClie
             recorder.setAudioSource(MediaRecorder.AudioSource.MIC);
             recorder.setOutputFormat(MediaRecorder.OutputFormat.THREE_GPP);
             recorder.setAudioEncoder(MediaRecorder.AudioEncoder.AMR_NB);
-            msg = "한국시각장애인연합회";
-            recorder.setOutputFile(nfile.getAbsolutePath()+"/"+msg+".3gp");
+            //msg = "한국시각장애인연합회";
+            recorder.setOutputFile(nfile.getAbsolutePath()+"/"+getPlace+".3gp");
             recorder.prepare();
             while(tts.isSpeaking()) {
                 // 안내 음성이 다 끝나고 나야 저장할 것이다!

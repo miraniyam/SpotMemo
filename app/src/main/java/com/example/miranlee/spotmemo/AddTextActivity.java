@@ -170,7 +170,7 @@ public class AddTextActivity extends AppCompatActivity implements GoogleApiClien
             File file = new File(nfile.getAbsolutePath() + "/" + filename + ".txt");
             int i = 1;
             while(file.exists()) {
-                file = new File(nfile.getAbsolutePath()+"/"+filename+"("+i+").txt");
+                file = new File(nfile.getAbsolutePath()+"/"+filename+"("+(i++)+").txt");
             }
 
             FileWriter fw = null;
