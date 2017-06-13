@@ -42,6 +42,8 @@
         <activity android:name=".AddVoiceActivity"/>
 
         <activity android:name=".AddTextActivity"/>
+
+        <activity android:name=".ReadMemoActivity"/>
     </application>
 
 </manifest>

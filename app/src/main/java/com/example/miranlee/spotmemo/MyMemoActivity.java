@@ -68,42 +68,16 @@ public class MyMemoActivity extends AppCompatActivity implements TextToSpeech.On
             listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
                 @Override
                 public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
+                    Intent i = new Intent(getApplicationContext(), ReadMemoActivity.class);
                     if(fType.get(position) == 0) {
                         // 음성 파일이면 재생
-                        MediaPlayer mediaPlayer = new MediaPlayer();
-                        try {
-                            mediaPlayer.setDataSource(fPath.get(position));
-                        }catch (Exception e) {
-                            e.printStackTrace();
-                        }
-                        try{
-                            mediaPlayer.prepare();
-                        }catch (Exception e) {
-                            e.printStackTrace();
-                        }
-                        mediaPlayer.start();
+                        i.putExtra("type",0);
+                        i.putExtra("file",fPath.get(position));
+                        startActivity(i);
                     }else {
-                        // 텍스트 파일이면 tts로 읽어주기
-                        File file = new File(fPath.get(position));
-                        String s = "";
-                        char ch;
-                        int data;
-                        FileReader fr = null;
-                        try {
-                            fr = new FileReader(file);
-                            while((data = fr.read()) != -1) {
-                                ch = (char)data;
-                                s = s+ch;
-                            }
-                            fr.close();
-                        }catch (Exception e) {
-                            e.printStackTrace();
-                        }
-                        if(s != "") {
-                            tts.speak(s,TextToSpeech.QUEUE_FLUSH,null);
-                        }else {
-                            tts.speak("파일 내용이 없습니다.",TextToSpeech.QUEUE_FLUSH,null);
-                        }
+                        i.putExtra("type",1);
+                        i.putExtra("file",fPath.get(position));
+                        startActivity(i);
                     }
                 }
             });

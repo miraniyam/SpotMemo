@@ -6,22 +6,29 @@
     density="xxhdpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1497352466046"
+    timestamp="1497355452587"
     token="3250444730359256659"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="927" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="56" />
     <task
         name="verifier"
-        duration="0" />
+        duration="4" />
+
+    <artifact
+        location="C:\Users\miran lee\Documents\GitHub\SpotMemo\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\miran lee\Documents\GitHub\SpotMemo\app\build\outputs\apk\app-debug.apk"
+        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
@@ -66,7 +73,28 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1497352466046"
-        verifier="COLD_SWAP_REQUESTED" />
+        timestamp="1497353939840"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="C:\Users\miran lee\Documents\GitHub\SpotMemo\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\miran lee\Documents\GitHub\SpotMemo\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\miran lee\Documents\GitHub\SpotMemo\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1497355452587"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="C:\Users\miran lee\Documents\GitHub\SpotMemo\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\miran lee\Documents\GitHub\SpotMemo\app\build\outputs\apk\app-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
 
 </instant-run>

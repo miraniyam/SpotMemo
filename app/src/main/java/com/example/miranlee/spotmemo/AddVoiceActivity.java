@@ -189,6 +189,9 @@ public class AddVoiceActivity extends AppCompatActivity implements GoogleApiClie
                     newRecording = false;
                 }else {
                     tts.speak("이 멘트가 끝나면 녹음이 다시 시작됩니다.",TextToSpeech.QUEUE_FLUSH,null);
+                    while (tts.isSpeaking()) {
+                        // 안내 음성이 다 끝나고 나야 저장할 것이다!
+                    }
                 }
 
                 audioRecorder.start(new AudioRecorder.OnStartListener() {

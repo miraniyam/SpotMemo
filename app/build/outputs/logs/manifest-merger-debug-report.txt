@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml:2:1-47:12
+ADDED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml:2:1-49:12
 	package
 		ADDED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml:3:5-44
 		INJECTED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml
@@ -61,7 +61,7 @@ MERGED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\miran le
 	android:required
 		ADDED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml:12:19-42
 application
-ADDED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml:14:5-45:19
+ADDED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml:14:5-47:19
 MERGED from [com.google.android.gms:play-services:10.2.4] C:\Users\miran lee\.android\build-cache\a4c93d1d6d4996718ebdeddc29b51698b4830f6b\output\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-ads-lite:10.2.4] C:\Users\miran lee\.android\build-cache\f75fd17d06b561083e8b1b7672ff4399025d1ed2\output\AndroidManifest.xml:23:5-27:19
 MERGED from [com.google.android.gms:play-services-analytics:10.2.4] C:\Users\miran lee\.android\build-cache\5e55dac4eb69dfae2b1cc8db0eebb83b884b8a41\output\AndroidManifest.xml:26:5-19
@@ -170,6 +170,10 @@ activity#com.example.miranlee.spotmemo.AddTextActivity
 ADDED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml:44:9-52
 	android:name
 		ADDED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml:44:19-50
+activity#com.example.miranlee.spotmemo.ReadMemoActivity
+ADDED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml:46:9-53
+	android:name
+		ADDED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml:46:19-51
 uses-sdk
 INJECTED from C:\Users\miran lee\Documents\GitHub\SpotMemo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.google.android.gms:play-services:10.2.4] C:\Users\miran lee\.android\build-cache\a4c93d1d6d4996718ebdeddc29b51698b4830f6b\output\AndroidManifest.xml:4:5-43

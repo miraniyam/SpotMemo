@@ -168,6 +168,10 @@
         "source": "C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\layout\\mr_chooser_list_item.xml"
     },
     {
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_readmemo.xml",
+        "source": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\src\\main\\res\\layout\\activity_readmemo.xml"
+    },
+    {
         "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
         "source": "C:\\Users\\miran lee\\.android\\build-cache\\0142f3ff289c742feb1ddf6a7234c0cd360a5114\\output\\res\\layout\\place_autocomplete_item_prediction.xml"
     },
