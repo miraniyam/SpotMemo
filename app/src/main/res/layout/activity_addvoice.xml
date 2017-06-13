@@ -48,16 +48,5 @@
         android:id="@+id/btn_back"
         android:onClick="onBack"/>
 
-    <TextView
-        android:text="place"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/getPlace"/>
-    <ListView
-        android:id="@+id/listview"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content">
-
-    </ListView>
 
 </LinearLayout>

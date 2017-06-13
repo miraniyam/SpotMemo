@@ -148,7 +148,7 @@ public class MainActivity extends AppCompatActivity implements com.google.androi
                 startActivity(intent);
                 break;
             case R.id.btn_addMemo :
-                intent = new Intent(this,AddMemoActivity.class);
+                intent = new Intent(this,Choose_Place.class);
                 startActivity(intent);
                 break;
             case R.id.btn_othersMemo :

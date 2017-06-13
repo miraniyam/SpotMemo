@@ -20,16 +20,6 @@
         android:textSize="20dp"
         android:text="저장하기"
         android:onClick="onSaveTextMemo"/>
-    <TextView
-        android:text="place"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/getPlace"
-        android:onClick="changeActivity"/>
 
-    <ListView
-        android:id="@+id/listview"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"/>
 
 </LinearLayout>
