@@ -42,6 +42,7 @@
         <activity android:name=".AddVoiceActivity" />
         <activity android:name=".AddTextActivity" />
         <activity android:name=".ReadMemoActivity" />
+        <activity android:name=".Search" />
         <activity android:name=".Choose_Place"></activity>
     </application>
 
