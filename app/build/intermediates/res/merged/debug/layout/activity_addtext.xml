@@ -24,6 +24,7 @@
         android:text="place"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/getPlace"/>
+        android:id="@+id/getPlace"
+        android:onClick="changeActivity"/>
 
 </LinearLayout>

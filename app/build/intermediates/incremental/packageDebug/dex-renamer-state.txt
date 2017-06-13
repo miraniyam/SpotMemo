@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Tue Jun 13 17:58:04 KST 2017
 file.57=/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b8aa6c5eff1411d422f545f0152db7695efcb202/classes.dex
 file.56=/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_869a89f731cf79894399ca0e876793996cf2bfb5/classes.dex
@@ -173,3 +174,12 @@ renamed.13=classes57.dex
 renamed.12=classes58.dex
 renamed.11=classes37.dex
 renamed.10=classes46.dex
+=======
+#Tue Jun 13 02:44:50 KST 2017
+base.0=C\:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_0c73fce7a09ccd854c4d0e9e3e1108d15c3e75a7
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8e242239780465b716cf5988ba0abb14efeaa17a\\classes.dex
+base.1=C\:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8e242239780465b716cf5988ba0abb14efeaa17a
+file.0=C\:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_0c73fce7a09ccd854c4d0e9e3e1108d15c3e75a7\\classes.dex
+>>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf

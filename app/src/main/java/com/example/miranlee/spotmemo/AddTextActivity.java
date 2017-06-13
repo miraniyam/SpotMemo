@@ -15,7 +15,9 @@ import android.support.v4.app.ActivityCompat;
 import android.support.v4.content.ContextCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
+import android.widget.AdapterView;
 import android.widget.EditText;
+import android.widget.ListView;
 import android.widget.TextView;
 
 import com.google.android.gms.common.ConnectionResult;
@@ -31,12 +33,13 @@ import com.google.android.gms.location.places.Places;
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
+import java.util.ArrayList;
 
 /**
  * Created by miran lee on 2017-05-14.
  */
 
-public class AddTextActivity extends AppCompatActivity implements GoogleApiClient.OnConnectionFailedListener, GoogleApiClient.ConnectionCallbacks, TextToSpeech.OnInitListener, LocationListener {
+public class AddTextActivity extends AppCompatActivity implements com.google.android.gms.location.LocationListener, GoogleApiClient.OnConnectionFailedListener, GoogleApiClient.ConnectionCallbacks, TextToSpeech.OnInitListener, LocationListener, AdapterView.OnItemClickListener {
 
     EditText Text;
     private LocationManager locationManager;
@@ -53,6 +56,10 @@ public class AddTextActivity extends AppCompatActivity implements GoogleApiClien
     LocationRequest locationRequest;
     Location location;
 
+    ListView listView;
+    ArrayList<Place_Info> place_name;
+    Place_Adapter aa;
+
     @Override
     protected void onStart() {
         super.onStart();
@@ -68,21 +75,11 @@ public class AddTextActivity extends AppCompatActivity implements GoogleApiClien
         Text = (EditText)findViewById(R.id.TextMemo);
         tts = new TextToSpeech(this,this);
 
-//        locationManager = (LocationManager) getSystemService(Context.LOCATION_SERVICE);
-//        if (ActivityCompat.checkSelfPermission(this, android.Manifest.permission.ACCESS_FINE_LOCATION) != PackageManager.PERMISSION_GRANTED && ActivityCompat.checkSelfPermission(this, android.Manifest.permission.ACCESS_COARSE_LOCATION) != PackageManager.PERMISSION_GRANTED) {
-//            // TODO: Consider calling
-//            //    ActivityCompat#requestPermissions
-//            // here to request the missing permissions, and then overriding
-//            //   public void onRequestPermissionsResult(int requestCode, String[] permissions,
-//            //                                          int[] grantResults)
-//            // to handle the case where the user grants the permission. See the documentation
-//            // for ActivityCompat#requestPermissions for more details.
-//            return;
-//        }
-//        locationManager.requestLocationUpdates(LocationManager.GPS_PROVIDER, 2000, 1, (LocationListener) this);
-
 
         getPlace = (TextView) findViewById(R.id.getPlace);
+        listView = (ListView)findViewById(R.id.listview);
+
+        place_name = new ArrayList<Place_Info>();
 
         if (googleApiClient == null) {
             googleApiClient = new GoogleApiClient.Builder(this)
@@ -120,15 +117,20 @@ public class AddTextActivity extends AppCompatActivity implements GoogleApiClien
             @Override
             public void onResult(PlaceLikelihoodBuffer likelyPlaces) {
                 for (PlaceLikelihood placeLikelihood : likelyPlaces) {
-                    getPlace.setText(String.format("Place '%s' has likelihood: %g LatLng : %s ",
-                            placeLikelihood.getPlace().getName(),
-                            placeLikelihood.getLikelihood(),
-                            placeLikelihood.getPlace().getLatLng()));
+                    Place_Info place_info = new Place_Info( placeLikelihood.getPlace().getName(),placeLikelihood.getPlace().getLatLng());
+                    place_name.add( place_info);
+
 
                 }
                 likelyPlaces.release();
             }
         });
+
+        aa = new Place_Adapter(this,R.layout.place_row, place_name);
+
+        listView.setAdapter(aa);
+        listView.setOnItemClickListener(this);
+
 
     }
 
@@ -141,6 +143,7 @@ public class AddTextActivity extends AppCompatActivity implements GoogleApiClien
     @Override
     public void onLocationChanged(Location location) {
         filename = ""+location.getLatitude()+" "+location.getLongitude();
+        getPlace.setText(""+location.getLatitude()+" "+location.getLongitude());
     }
 
     @Override
@@ -170,7 +173,7 @@ public class AddTextActivity extends AppCompatActivity implements GoogleApiClien
             File file = new File(nfile.getAbsolutePath() + "/" + filename + ".txt");
             int i = 1;
             while(file.exists()) {
-                file = new File(nfile.getAbsolutePath()+"/"+filename+"("+i+").txt");
+                file = new File(nfile.getAbsolutePath()+"/"+filename+"("+(i++)+").txt");
             }
 
             FileWriter fw = null;
@@ -228,6 +231,7 @@ public class AddTextActivity extends AppCompatActivity implements GoogleApiClien
         }
 
         location = LocationServices.FusedLocationApi.getLastLocation(googleApiClient);
+        LocationServices.FusedLocationApi.requestLocationUpdates(googleApiClient,locationRequest,this);
 
     }
 
@@ -239,5 +243,14 @@ public class AddTextActivity extends AppCompatActivity implements GoogleApiClien
     @Override
     public void onConnectionFailed(@NonNull ConnectionResult connectionResult) {
 
+    }
+
+    @Override
+    public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
+        if(adapterView == listView){
+            getPlace.setText(place_name.get(i).place_name + "-" + place_name.get(i).place_latlng.latitude + "-" + place_name.get(i).place_latlng.longitude);
+
+            listView.setAdapter(aa);
+        }
     }
 }

@@ -1,6 +1,11 @@
 [
     {
+<<<<<<< HEAD
         "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
         "source": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+=======
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+>>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
     }
 ]

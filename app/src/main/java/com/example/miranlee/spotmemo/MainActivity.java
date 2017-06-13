@@ -36,11 +36,12 @@ import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.MarkerOptions;
 
 import java.io.File;
-import java.util.StringTokenizer;
 
 public class MainActivity extends AppCompatActivity implements com.google.android.gms.location.LocationListener, GoogleApiClient.ConnectionCallbacks, GoogleApiClient.OnConnectionFailedListener, PlaceSelectionListener, OnMapReadyCallback, TextToSpeech.OnInitListener{
 
-    public static Button btn_myMemo;
+    Button btn_myMemo;
+    Button btn_addMemo;
+    Button btn_othersMemo;
     TextToSpeech tts;
 
 
@@ -54,9 +55,9 @@ public class MainActivity extends AppCompatActivity implements com.google.androi
     File filesv;
     File filest;
 
-    int numvoice;
-    int numtext;
-    int numoffile;
+    int numvoice=0;
+    int numtext=0;
+    int numoffile = 0;
     int Fileidx;
     String sFileName;
     String FileName;
@@ -83,15 +84,19 @@ public class MainActivity extends AppCompatActivity implements com.google.androi
         String ext = Environment.getExternalStorageState();
         if (ext.equals(Environment.MEDIA_MOUNTED)) {
             filesv = new File(Environment.getExternalStorageDirectory().getAbsolutePath() + "/Documents/SpotMemo/Voice");
+            filesv.mkdirs(); // 있으면 안만들거고, 없으면 만들어주게~
             String numfilev[] = filesv.list();
             numvoice = numfilev.length;
             filest = new File(Environment.getExternalStorageDirectory().getAbsolutePath() + "/Documents/SpotMemo/Text");
+            filest.mkdirs();
             String numfilet[] = filest.list();
             numtext = numfilet.length;
         }
         numoffile = numvoice + numtext;
         btn_myMemo = (Button)findViewById(R.id.btn_myMemo);
-        btn_myMemo.setText("내가 남긴 "+numoffile+"개 메모");
+        String hey = "내가 남긴 "+String.valueOf(numoffile)+"개 메모";
+
+        btn_myMemo.setText(hey);
         // 메모가 몇개인지 알아내서 버튼 이름 바꿔야지~
         tts = new TextToSpeech(this, this);
         //tts.speak("주변에 내가 남긴 N개의 메모가 있습니다",TextToSpeech.QUEUE_FLUSH,null);
@@ -134,19 +139,27 @@ public class MainActivity extends AppCompatActivity implements com.google.androi
 
     }
 
-    public void onClickMyMemo(View view) {
-        Intent intent = new Intent(this,MyMemoActivity.class);
-        startActivity(intent);
-    }
+    public void changeActivity(View view){
+        Intent intent;
+        switch (view.getId()) {
+            case R.id.btn_myMemo :
+                intent = new Intent(this,MyMemoActivity.class);
+                startActivity(intent);
+                break;
+            case R.id.btn_addMemo :
+                intent = new Intent(this,AddMemoActivity.class);
+                startActivity(intent);
+                break;
+            case R.id.btn_othersMemo :
+                intent = new Intent(this,OthersMemoActivity.class);
+                startActivity(intent);
+                break;
+            case R.id.btn_search:
+                intent = new Intent(this,Search.class);
+                startActivity(intent);
+                break;
+        }
 
-    public void onClickAddMemo(View view) {
-        Intent intent = new Intent(this,AddMemoActivity.class);
-        startActivity(intent);
-    }
-
-    public void onClickOthersMemo(View view) {
-        Intent intent = new Intent(this,OthersMemoActivity.class);
-        startActivity(intent);
     }
 
     @Override

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\miran lee\Documents\GitHub\SpotMemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\miran lee\Documents\GitHub\SpotMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_0c73fce7a09ccd854c4d0e9e3e1108d15c3e75a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\miran lee\Documents\GitHub\SpotMemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f48c65d8432bec2c3a81dfc2e3fa6060e69e0557">
+        <dex dex="C:\Users\miran lee\Documents\GitHub\SpotMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_8e242239780465b716cf5988ba0abb14efeaa17a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\miran lee\.gradle\caches\modules-2\files-2.1\com.googlecode.mp4parser\isoparser\1.0.5.4\232e5130b709e6cc2ac4c4e5c5212a89929ab592\isoparser-1.0.5.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="232e5130b709e6cc2ac4c4e5c5212a89929ab592">
+        <dex dex="C:\Users\miran lee\Documents\GitHub\SpotMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\isoparser-1.0.5.4_7ff6212575695d76275acf1d068bd6d0c1b6cfea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\miran lee\.android\build-cache\4932a2f06bfceb34d29298e24f549035d3d71172\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="18fe6490464f32217803f8276d2383d53da11e9b">
+        <dex dex="C:\Users\miran lee\Documents\GitHub\SpotMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f01b3eff0a1910b31f94bd1ee3004c91b9674445\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\miran lee\.gradle\caches\modules-2\files-2.1\org.aspectj\aspectjrt\1.8.2\7dede91c0c36b1265fc99c55283b90ed2be144c8\aspectjrt-1.8.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7dede91c0c36b1265fc99c55283b90ed2be144c8">
+        <dex dex="C:\Users\miran lee\Documents\GitHub\SpotMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\aspectjrt-1.8.2_9b6a507d400cc49ebc5c25f8442efeea629e1de4\classes.dex" />
+    </item>
+
+</items>

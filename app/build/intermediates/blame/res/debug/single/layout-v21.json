@@ -1,6 +1,11 @@
 [
     {
+<<<<<<< HEAD
         "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/layout-v21/place_autocomplete_fragment.xml",
         "source": "/Users/kyeolhan/.android/build-cache/73d26c5edd6a3dd67398311c2455ad0342bd9519/output/res/layout-v21/place_autocomplete_fragment.xml"
+=======
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\0142f3ff289c742feb1ddf6a7234c0cd360a5114\\output\\res\\layout-v21\\place_autocomplete_fragment.xml"
+>>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
     }
 ]
