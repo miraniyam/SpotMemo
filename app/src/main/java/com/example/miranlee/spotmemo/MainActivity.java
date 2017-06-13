@@ -213,25 +213,23 @@ public class MainActivity extends AppCompatActivity implements com.google.androi
     public void onMapReady(GoogleMap googleMap) {
         map = googleMap;
         map.setMapType(GoogleMap.MAP_TYPE_NORMAL);
-        if (filesv.listFiles().length > 0){
-            for (File file:filesv.listFiles()){
+        if (filesv.listFiles().length > 0) {
+            for (File file : filesv.listFiles()) {
                 // 음성 메모이면 0
                 sFileName = file.getName();
                 Fileidx = sFileName.lastIndexOf(".");
-                FileName = sFileName.substring(0,Fileidx);//확장자 제거
-                if(FileName.equals("한국시각장애인연합회"))
-                    continue;
-                else {
-                    //StringTokenizer st = new StringTokenizer(FileName);
-                    //slatitude = st.nextToken();
-                    //slongtitude = st.nextToken();
-                    //tlatitude = Double.parseDouble(slatitude);
-                    //tlongitude = Double.parseDouble(slongtitude);
-                    //MarkerOptions moptions = new MarkerOptions();
-                    //final LatLng Locc = new LatLng(tlatitude, tlongitude);
-                    //moptions.position(Locc);
-                    //moptions.icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_GREEN));
-                    //map.addMarker(moptions);
+                FileName = sFileName.substring(0, Fileidx);//확장자 제거
+                StringTokenizer st = new StringTokenizer(FileName);
+                slatitude = st.nextToken();
+                if(st.hasMoreTokens()) {
+                    slongtitude = st.nextToken();
+                    tlatitude = Double.parseDouble(slatitude);
+                    tlongitude = Double.parseDouble(slongtitude);
+                    MarkerOptions moptions = new MarkerOptions();
+                    final LatLng Locc = new LatLng(tlatitude, tlongitude);
+                    moptions.position(Locc);
+                    moptions.icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_GREEN));
+                    map.addMarker(moptions);
                 }
             }
         }

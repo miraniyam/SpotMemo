@@ -74,6 +74,7 @@ public class AddVoiceActivity extends AppCompatActivity implements GoogleApiClie
         setContentView(R.layout.activity_addvoice);
         setTitle("음성메모 추가하기");
 
+
         tts = new TextToSpeech(this, this);
         tts.setLanguage(Locale.KOREA);
 
@@ -82,18 +83,18 @@ public class AddVoiceActivity extends AppCompatActivity implements GoogleApiClie
 
        final ArrayList<CharSequence> place_name = new ArrayList<CharSequence>();
 
-//        locationManager = (LocationManager) getSystemService(Context.LOCATION_SERVICE);
-//        if (ActivityCompat.checkSelfPermission(this, android.Manifest.permission.ACCESS_FINE_LOCATION) != PackageManager.PERMISSION_GRANTED && ActivityCompat.checkSelfPermission(this, android.Manifest.permission.ACCESS_COARSE_LOCATION) != PackageManager.PERMISSION_GRANTED) {
-//            // TODO: Consider calling
-//            //    ActivityCompat#requestPermissions
-//            // here to request the missing permissions, and then overriding
-//            //   public void onRequestPermissionsResult(int requestCode, String[] permissions,
-//            //                                          int[] grantResults)
-//            // to handle the case where the user grants the permission. See the documentation
-//            // for ActivityCompat#requestPermissions for more details.
-//            return;
-//        }
-//        locationManager.requestLocationUpdates(LocationManager.GPS_PROVIDER, 2000, 1, (LocationListener) this);
+        locationManager = (LocationManager) getSystemService(Context.LOCATION_SERVICE);
+        if (ActivityCompat.checkSelfPermission(this, android.Manifest.permission.ACCESS_FINE_LOCATION) != PackageManager.PERMISSION_GRANTED && ActivityCompat.checkSelfPermission(this, android.Manifest.permission.ACCESS_COARSE_LOCATION) != PackageManager.PERMISSION_GRANTED) {
+            // TODO: Consider calling
+            //    ActivityCompat#requestPermissions
+            // here to request the missing permissions, and then overriding
+            //   public void onRequestPermissionsResult(int requestCode, String[] permissions,
+            //                                          int[] grantResults)
+            // to handle the case where the user grants the permission. See the documentation
+            // for ActivityCompat#requestPermissions for more details.
+            return;
+        }
+        locationManager.requestLocationUpdates(LocationManager.GPS_PROVIDER, 2000, 1, (LocationListener) this);
 
         startbtn = (Button) findViewById(R.id.btn_start);
         stopbtn = (Button) findViewById(R.id.btn_stop);
@@ -164,7 +165,6 @@ public class AddVoiceActivity extends AppCompatActivity implements GoogleApiClie
             recorder.setAudioSource(MediaRecorder.AudioSource.MIC);
             recorder.setOutputFormat(MediaRecorder.OutputFormat.THREE_GPP);
             recorder.setAudioEncoder(MediaRecorder.AudioEncoder.AMR_NB);
-            msg = "한국시각장애인연합회";
             recorder.setOutputFile(nfile.getAbsolutePath()+"/"+msg+".3gp");
             recorder.prepare();
             while(tts.isSpeaking()) {
@@ -200,9 +200,9 @@ public class AddVoiceActivity extends AppCompatActivity implements GoogleApiClie
     }
 
     public void onLocationChanged(Location location){
-        //msg = ""+location.getLatitude() +" "+location.getLongitude();
-        //if (msg.equals(ㅣㅐㅊㅁ))
-            msg = "한국 시각 장애인 연합회";
+
+        msg = ""+location.getLatitude() +" "+location.getLongitude();
+
     }
 
     @Override
