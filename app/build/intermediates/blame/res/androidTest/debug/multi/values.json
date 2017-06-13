@@ -11,11 +11,7 @@
                     "endOffset": 96
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/ff9f51a475f3912030cb7cecb817177f5d25736c/output/res/values/values.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\bae2bfab0372cbd093d2835e76f1476e5be3110c\\output\\res\\values\\values.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

@@ -170,23 +170,6 @@ public class AddVoiceActivity extends AppCompatActivity implements GoogleApiClie
     }
 
     public void onClickStart(View view) {
-<<<<<<< HEAD
-        tts.speak("이 멘트가 끝나면 녹음이 시작됩니다.",TextToSpeech.QUEUE_FLUSH,null);
-        try {
-            File nfile = new File(Environment.getExternalStoragePublicDirectory(Environment.DIRECTORY_DOCUMENTS), "SpotMemo/Voice/");
-
-            boolean f = nfile.mkdirs();
-
-            //String filename = new SimpleDateFormat("yyyy-mm-dd-hh-mm-ss").format(new Date());
-
-            recorder.setAudioSource(MediaRecorder.AudioSource.MIC);
-            recorder.setOutputFormat(MediaRecorder.OutputFormat.THREE_GPP);
-            recorder.setAudioEncoder(MediaRecorder.AudioEncoder.AMR_NB);
-            recorder.setOutputFile(nfile.getAbsolutePath()+"/"+msg+".3gp");
-            recorder.prepare();
-            while(tts.isSpeaking()) {
-                // 안내 음성이 다 끝나고 나야 저장할 것이다!
-=======
         if(!recordingState) {
             // 녹음중이 아니라면 -> 녹음 시작
             recordingState = true;
@@ -208,9 +191,6 @@ public class AddVoiceActivity extends AppCompatActivity implements GoogleApiClie
                     tts.speak("이 멘트가 끝나면 녹음이 다시 시작됩니다.",TextToSpeech.QUEUE_FLUSH,null);
                 }
 
-                while (tts.isSpeaking()) {
-                    // 안내 음성이 다 끝나고 나야 저장할 것이다!
-                }
                 audioRecorder.start(new AudioRecorder.OnStartListener() {
                     @Override
                     public void onStarted() {
@@ -231,7 +211,6 @@ public class AddVoiceActivity extends AppCompatActivity implements GoogleApiClie
                 });
             } catch (Exception e) {
                 e.printStackTrace();
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
             }
         }else {
             // 녹음중 이었다면 -> 일시정지 상태로

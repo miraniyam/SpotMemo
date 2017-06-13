@@ -1,10 +1,6 @@
 [
     {
-<<<<<<< HEAD
-        "outputFile": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
-=======
         "outputFile": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
         "map": [
             {
                 "to": {
@@ -15,11 +11,7 @@
                     "endOffset": 141
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -38,11 +30,7 @@
                     "endOffset": 244
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -61,11 +49,7 @@
                     "endOffset": 347
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -84,11 +68,7 @@
                     "endOffset": 452
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -107,11 +87,7 @@
                     "endOffset": 559
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -130,11 +106,7 @@
                     "endOffset": 668
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -153,11 +125,7 @@
                     "endOffset": 777
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -176,11 +144,7 @@
                     "endOffset": 886
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -199,11 +163,7 @@
                     "endOffset": 995
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -222,11 +182,7 @@
                     "endOffset": 1104
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -245,11 +201,7 @@
                     "endOffset": 1211
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -268,11 +220,7 @@
                     "endOffset": 1314
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -291,11 +239,7 @@
                     "endOffset": 1433
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -315,11 +259,7 @@
                     "endOffset": 1588
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -340,11 +280,7 @@
                     "endOffset": 1743
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -364,11 +300,7 @@
                     "endOffset": 1848
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -387,11 +319,7 @@
                     "endOffset": 1969
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -410,11 +338,7 @@
                     "endOffset": 2070
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -434,11 +358,7 @@
                     "endOffset": 2217
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -459,11 +379,7 @@
                     "endOffset": 2358
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -483,11 +399,7 @@
                     "endOffset": 2461
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -506,11 +418,7 @@
                     "endOffset": 2580
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -529,11 +437,7 @@
                     "endOffset": 2687
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -552,11 +456,7 @@
                     "endOffset": 2790
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
@@ -576,11 +476,7 @@
                     "endOffset": 2945
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
@@ -601,11 +497,7 @@
                     "endOffset": 3116
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
@@ -626,11 +518,7 @@
                     "endOffset": 3265
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 34,
                         "startColumn": 4,
@@ -651,11 +539,7 @@
                     "endOffset": 3430
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 36,
                         "startColumn": 4,
@@ -676,11 +560,7 @@
                     "endOffset": 3587
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 38,
                         "startColumn": 4,
@@ -701,11 +581,7 @@
                     "endOffset": 3738
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 40,
                         "startColumn": 4,
@@ -725,11 +601,7 @@
                     "endOffset": 3857
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 42,
                         "startColumn": 4,
@@ -749,11 +621,7 @@
                     "endOffset": 4229
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 43,
                         "startColumn": 4,
@@ -774,11 +642,7 @@
                     "endOffset": 4378
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 48,
                         "startColumn": 4,
@@ -799,11 +663,7 @@
                     "endOffset": 4527
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 50,
                         "startColumn": 4,
@@ -823,11 +683,7 @@
                     "endOffset": 4639
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 52,
                         "startColumn": 4,
@@ -846,11 +702,7 @@
                     "endOffset": 4786
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 53,
                         "startColumn": 4,
@@ -870,11 +722,7 @@
                     "endOffset": 4939
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 54,
                         "startColumn": 4,
@@ -895,11 +743,7 @@
                     "endOffset": 5086
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 56,
                         "startColumn": 4,
@@ -919,11 +763,7 @@
                     "endOffset": 5161
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 58,
                         "startColumn": 4,
@@ -942,11 +782,7 @@
                     "endOffset": 5250
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 59,
                         "startColumn": 4,
@@ -965,11 +801,7 @@
                     "endOffset": 5337
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 60,
                         "startColumn": 4,
@@ -988,11 +820,7 @@
                     "endOffset": 5438
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 61,
                         "startColumn": 4,
@@ -1011,11 +839,7 @@
                     "endOffset": 5541
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 62,
                         "startColumn": 4,
@@ -1035,11 +859,7 @@
                     "endOffset": 8609
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 63,
                         "startColumn": 4,
@@ -1060,11 +880,7 @@
                     "endOffset": 8795
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 107,
                         "startColumn": 4,
@@ -1085,11 +901,7 @@
                     "endOffset": 11875
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 110,
                         "startColumn": 4,
@@ -1110,11 +922,7 @@
                     "endOffset": 12073
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 154,
                         "startColumn": 4,
@@ -1135,11 +943,7 @@
                     "endOffset": 12273
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 157,
                         "startColumn": 4,
@@ -1160,11 +964,7 @@
                     "endOffset": 12396
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 160,
                         "startColumn": 4,
@@ -1185,11 +985,7 @@
                     "endOffset": 12519
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 162,
                         "startColumn": 4,
@@ -1210,11 +1006,7 @@
                     "endOffset": 12632
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 164,
                         "startColumn": 4,
@@ -1235,11 +1027,7 @@
                     "endOffset": 12815
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 166,
                         "startColumn": 4,
@@ -1260,11 +1048,7 @@
                     "endOffset": 12946
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 169,
                         "startColumn": 4,
@@ -1285,11 +1069,7 @@
                     "endOffset": 13147
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 171,
                         "startColumn": 4,
@@ -1309,11 +1089,7 @@
                     "endOffset": 13236
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 174,
                         "startColumn": 4,
@@ -1332,11 +1108,7 @@
                     "endOffset": 13347
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 175,
                         "startColumn": 4,
@@ -1356,11 +1128,7 @@
                     "endOffset": 13580
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 176,
                         "startColumn": 4,
@@ -1380,11 +1148,7 @@
                     "endOffset": 13681
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 179,
                         "startColumn": 4,
@@ -1403,11 +1167,7 @@
                     "endOffset": 13776
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 180,
                         "startColumn": 4,
@@ -1426,11 +1186,7 @@
                     "endOffset": 13899
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 181,
                         "startColumn": 4,
@@ -1449,11 +1205,7 @@
                     "endOffset": 14028
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 182,
                         "startColumn": 4,
@@ -1472,11 +1224,7 @@
                     "endOffset": 14145
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 183,
                         "startColumn": 4,
@@ -1496,11 +1244,7 @@
                     "endOffset": 14322
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 184,
                         "startColumn": 4,
@@ -1520,11 +1264,7 @@
                     "endOffset": 14421
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 187,
                         "startColumn": 4,
@@ -1544,11 +1284,7 @@
                     "endOffset": 14556
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 188,
                         "startColumn": 4,
@@ -1569,11 +1305,7 @@
                     "endOffset": 14699
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 190,
                         "startColumn": 4,
@@ -1594,11 +1326,7 @@
                     "endOffset": 14834
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 192,
                         "startColumn": 4,
@@ -1619,11 +1347,7 @@
                     "endOffset": 14953
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 194,
                         "startColumn": 4,
@@ -1644,11 +1368,7 @@
                     "endOffset": 15154
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 196,
                         "startColumn": 4,
@@ -1669,11 +1389,7 @@
                     "endOffset": 15273
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 200,
                         "startColumn": 4,
@@ -1693,11 +1409,7 @@
                     "endOffset": 15366
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 202,
                         "startColumn": 4,
@@ -1716,11 +1428,7 @@
                     "endOffset": 15477
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 203,
                         "startColumn": 4,
@@ -1739,11 +1447,7 @@
                     "endOffset": 15533
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 204,
                         "startColumn": 4,
@@ -1763,11 +1467,7 @@
                     "endOffset": 15640
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 205,
                         "startColumn": 4,
@@ -1788,11 +1488,7 @@
                     "endOffset": 15835
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 207,
                         "startColumn": 4,
@@ -1813,11 +1509,7 @@
                     "endOffset": 15946
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 211,
                         "startColumn": 4,
@@ -1838,11 +1530,7 @@
                     "endOffset": 16079
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 213,
                         "startColumn": 4,
@@ -1862,11 +1550,7 @@
                     "endOffset": 16174
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 215,
                         "startColumn": 4,
@@ -1885,11 +1569,7 @@
                     "endOffset": 16265
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 216,
                         "startColumn": 4,
@@ -1908,11 +1588,7 @@
                     "endOffset": 16356
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 217,
                         "startColumn": 4,
@@ -1931,11 +1607,7 @@
                     "endOffset": 16473
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 218,
                         "startColumn": 4,
@@ -1955,11 +1627,7 @@
                     "endOffset": 16612
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 219,
                         "startColumn": 4,
@@ -1980,11 +1648,7 @@
                     "endOffset": 17125
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 221,
                         "startColumn": 4,
@@ -2005,11 +1669,7 @@
                     "endOffset": 17650
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 231,
                         "startColumn": 4,
@@ -2030,11 +1690,7 @@
                     "endOffset": 18330
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 241,
                         "startColumn": 4,
@@ -2054,11 +1710,7 @@
                     "endOffset": 18387
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 251,
                         "startColumn": 4,
@@ -2077,11 +1729,7 @@
                     "endOffset": 18445
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-v21/values-v21.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-v21\\values-v21.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 252,
                         "startColumn": 4,
@@ -2101,11 +1749,7 @@
                     "endOffset": 18575
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/aa6f73e58493cf5244b561f1339374776ad30327/output/res/values-v21/values.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\930998a79bb575c497a26f0c4f00477c83091db7\\output\\res\\values-v21\\values.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 4,
                         "startColumn": 0,

@@ -1987,11 +1987,7 @@
                     "endOffset": 10378
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/0b6cd74281eb6e5af28d2751df34ad424d0c837c/output/res/values-zh-rHK/values.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\105463c339184e5c0f23138ddf9e9cbfe0ce5028\\output\\res\\values-zh-rHK\\values.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 4,
                         "startColumn": 0,

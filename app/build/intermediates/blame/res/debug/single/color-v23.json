@@ -12,10 +12,6 @@
         "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\color-v23\\abc_tint_switch_track.xml"
     },
     {
-<<<<<<< HEAD
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/color-v23/abc_tint_spinner.xml"
-=======
         "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_thumb.xml",
         "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\color-v23\\abc_tint_switch_thumb.xml"
     },
@@ -26,7 +22,6 @@
     {
         "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
         "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\color-v23\\abc_tint_btn_checkable.xml"
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
     },
     {
         "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
@@ -37,20 +32,7 @@
         "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\color-v23\\abc_tint_spinner.xml"
     },
     {
-<<<<<<< HEAD
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/color-v23/abc_tint_default.xml"
-    },
-    {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/color-v23/abc_tint_switch_thumb.xml"
-    },
-    {
-        "merged": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
-        "source": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/color-v23/abc_tint_btn_checkable.xml"
-=======
         "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
         "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
     }
 ]

@@ -676,11 +676,7 @@
                     "endOffset": 3695
                 },
                 "from": {
-<<<<<<< HEAD
-                    "file": "/Users/kyeolhan/.android/build-cache/2607aba05a66cc786bdcbd1838d7f41808c24011/output/res/values-ky-rKG/values-ky-rKG.xml",
-=======
                     "file": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\values-ky-rKG\\values-ky-rKG.xml",
->>>>>>> 20ad630df398cce70f4c5024f6adf61c249fa3cf
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
