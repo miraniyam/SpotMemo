@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Jun 13 21:04:18 KST 2017
+#Tue Jun 13 21:33:43 KST 2017
 20.base=C\:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\resources-debug.ap_
 143.base=C\:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\resources-debug.ap_
 439.set=ANDROID_RESOURCE

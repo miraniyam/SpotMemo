@@ -6,9 +6,12 @@ import android.content.pm.PackageManager;
 import android.location.Location;
 import android.location.LocationListener;
 import android.location.LocationManager;
+import android.media.AudioManager;
 import android.media.MediaPlayer;
+import android.media.ToneGenerator;
 import android.os.Bundle;
 import android.os.Environment;
+import android.os.Handler;
 import android.speech.tts.TextToSpeech;
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
@@ -70,6 +73,10 @@ public class AddVoiceActivity extends AppCompatActivity implements GoogleApiClie
 
     boolean recordingState = false;
     boolean newRecording = true;
+
+    ToneGenerator tone = new ToneGenerator(AudioManager.STREAM_ALARM, 50);
+    MediaPlayer mediaPlayer;
+    boolean isListen = false;
 
     @Override
     protected void onStart() {
@@ -165,8 +172,6 @@ public class AddVoiceActivity extends AppCompatActivity implements GoogleApiClie
 
         listView.setAdapter(aa);
         listView.setOnItemClickListener(this);
-
-
     }
 
     public void onClickStart(View view) {
@@ -179,7 +184,7 @@ public class AddVoiceActivity extends AppCompatActivity implements GoogleApiClie
                 boolean f = nfile.mkdirs();
 
                 if(newRecording) {
-                    tts.speak("이 멘트가 끝나면 녹음이 시작됩니다. 다시 더블탭 하면 녹음이 일시정지 되고, 녹음을 취소하거나 저장, 재생할 수 있습니다.", TextToSpeech.QUEUE_FLUSH, null);
+                    tts.speak("다시 더블탭 하면 녹음이 일시정지 되고, 녹음을 취소하거나 저장, 재생할 수 있습니다. 삐 소리후 녹음이 시작됩니다.", TextToSpeech.QUEUE_FLUSH, null);
                     audioRecorder = AudioRecorderBuilder
                             .with(getApplicationContext())
                             .fileName(nfile.getAbsolutePath() + "/" + getPlace.getText() + ".mp4")
@@ -188,18 +193,17 @@ public class AddVoiceActivity extends AppCompatActivity implements GoogleApiClie
                             .build();
                     newRecording = false;
                 }else {
-                    tts.speak("이 멘트가 끝나면 녹음이 다시 시작됩니다.",TextToSpeech.QUEUE_FLUSH,null);
-                    while (tts.isSpeaking()) {
-                        // 안내 음성이 다 끝나고 나야 저장할 것이다!
-                    }
+                    tts.speak("삐 소리 후 녹음이 다시 시작됩니다.",TextToSpeech.QUEUE_FLUSH,null);
                 }
+
+                while(tts.isSpeaking()) {
+                    // 말 끝나고 삐 하자~
+                }
+                tone.startTone(ToneGenerator.TONE_CDMA_ALERT_CALL_GUARD, 1000);
 
                 audioRecorder.start(new AudioRecorder.OnStartListener() {
                     @Override
                     public void onStarted() {
-                        while (tts.isSpeaking()) {
-                            // 안내 음성이 다 끝나고 나야 저장할 것이다!
-                        }
                         startbtn.setText("일시 정지");
                         playbtn.setEnabled(false);
                         backbtn.setEnabled(false); // 녹음 중에는 뒤로 가지 못하게
@@ -220,7 +224,6 @@ public class AddVoiceActivity extends AppCompatActivity implements GoogleApiClie
             audioRecorder.pause(new AudioRecorder.OnPauseListener() {
                 @Override
                 public void onPaused(String activeRecordFileName) {
-                    recordingState = false;
                     stopbtn.setEnabled(true); // 그대로 저장할 수 있음
                     tts.speak("녹음이 일시정지 되었습니다.", TextToSpeech.QUEUE_FLUSH, null);
                     startbtn.setText("이어서 녹음");
@@ -244,24 +247,37 @@ public class AddVoiceActivity extends AppCompatActivity implements GoogleApiClie
         startbtn.setText("녹음 시작");
         stopbtn.setEnabled(false);
         backbtn.setEnabled(true);
+        playbtn.setEnabled(false);
         cancelbtn.setEnabled(false);
     }
 
     public void onClickListen(View view) {
         if(!newRecording) {
-            recordingState = false;
-            MediaPlayer mediaPlayer = new MediaPlayer();
-            try {
-                mediaPlayer.setDataSource(audioRecorder.getRecordFileName());
-            }catch (Exception e) {
-                e.printStackTrace();
+            if(!isListen) {
+                tts.speak("녹음을 재생합니다. 더블탭 하면 재생이 멈춥니다.",TextToSpeech.QUEUE_FLUSH, null);
+                while(tts.isSpeaking()) {
+                    // 말 끝날때까지 기달료라~
+                }
+                isListen = true;
+                recordingState = false;
+                mediaPlayer = new MediaPlayer();
+                try {
+                    mediaPlayer.setDataSource(audioRecorder.getRecordFileName());
+                } catch (Exception e) {
+                    e.printStackTrace();
+                }
+                try {
+                    mediaPlayer.prepare();
+                } catch (Exception e) {
+                    e.printStackTrace();
+                }
+                mediaPlayer.start();
+            }else {
+                isListen = false;
+                playbtn.setText("들어보기");
+                mediaPlayer.stop();
+                mediaPlayer.release();
             }
-            try{
-                mediaPlayer.prepare();
-            }catch (Exception e) {
-                e.printStackTrace();
-            }
-            mediaPlayer.start();
         }
     }
 
@@ -269,7 +285,20 @@ public class AddVoiceActivity extends AppCompatActivity implements GoogleApiClie
         if(!newRecording) {
             newRecording = true;
             recordingState = false;
-            audioRecorder.cancel();
+            if(audioRecorder.isPaused()) {
+                audioRecorder.start(new AudioRecorder.OnStartListener() {
+                    @Override
+                    public void onStarted() {
+                    }
+
+                    @Override
+                    public void onException(Exception e) {
+
+                    }
+                });
+            }else {
+                audioRecorder.cancel();
+            }
             startbtn.setText("녹음 시작");
             startbtn.setEnabled(true);
             stopbtn.setEnabled(false);

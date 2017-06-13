@@ -93,8 +93,14 @@ public class ReadMemoActivity extends AppCompatActivity implements TextToSpeech.
             isFirst = false;
         }else {
             isFirst = true;
-            tts.speak(f.getName()+"을 삭제합니다.",TextToSpeech.QUEUE_FLUSH,null);
+            tts.speak(f.getName()+"을 삭제하고 메인으로 돌아갑니다.",TextToSpeech.QUEUE_FLUSH,null);
             f.delete();
+            while(tts.isSpeaking()) {
+
+            }
+            Intent i = new Intent(this, MainActivity.class);
+            finish();
+            startActivity(i);
         }
     }
 
