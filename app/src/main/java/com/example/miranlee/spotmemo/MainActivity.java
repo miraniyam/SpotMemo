@@ -82,6 +82,22 @@ public class MainActivity extends AppCompatActivity implements com.google.androi
         setContentView(R.layout.activity_main);
         setTitle("스팟메모");
 
+
+        int Fine_Perm_Check = ContextCompat.checkSelfPermission(this, android.Manifest.permission.RECORD_AUDIO);
+
+        if(Fine_Perm_Check == PackageManager.PERMISSION_DENIED){
+            ActivityCompat.requestPermissions(this,new String[]{
+                    android.Manifest.permission.ACCESS_FINE_LOCATION,
+                    android.Manifest.permission.ACCESS_COARSE_LOCATION,
+                    android.Manifest.permission.INTERNET,
+                    android.Manifest.permission.ACCESS_NETWORK_STATE,
+                    android.Manifest.permission.WRITE_EXTERNAL_STORAGE,
+                    android.Manifest.permission.READ_EXTERNAL_STORAGE,
+                    android.Manifest.permission.RECORD_AUDIO
+            },0);
+        }
+
+
         String ext = Environment.getExternalStorageState();
         if (ext.equals(Environment.MEDIA_MOUNTED)) {
             filesv = new File(Environment.getExternalStorageDirectory().getAbsolutePath() + "/Documents/SpotMemo/Voice");
@@ -102,19 +118,7 @@ public class MainActivity extends AppCompatActivity implements com.google.androi
         tts = new TextToSpeech(this, this);
         //tts.speak("주변에 내가 남긴 N개의 메모가 있습니다",TextToSpeech.QUEUE_FLUSH,null);
 
-        int Fine_Perm_Check = ContextCompat.checkSelfPermission(this, android.Manifest.permission.ACCESS_FINE_LOCATION);
 
-        if(Fine_Perm_Check == PackageManager.PERMISSION_DENIED){
-            ActivityCompat.requestPermissions(this,new String[]{
-                    android.Manifest.permission.ACCESS_FINE_LOCATION,
-                    android.Manifest.permission.ACCESS_COARSE_LOCATION,
-                    android.Manifest.permission.INTERNET,
-                    android.Manifest.permission.ACCESS_NETWORK_STATE,
-                    android.Manifest.permission.WRITE_EXTERNAL_STORAGE,
-                    android.Manifest.permission.READ_EXTERNAL_STORAGE,
-                    android.Manifest.permission.RECORD_AUDIO
-            },0);
-        }
         FragmentManager fragmentManager = getFragmentManager();
         MapFragment mapFragment = (MapFragment)fragmentManager
                 .findFragmentById(R.id.map);

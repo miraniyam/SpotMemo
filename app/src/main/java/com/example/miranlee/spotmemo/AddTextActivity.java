@@ -64,10 +64,10 @@ public class AddTextActivity extends AppCompatActivity implements  TextToSpeech.
 
             boolean f = nfile.mkdirs();
 
-            File file = new File(nfile.getAbsolutePath() + "/" + place_name + ".txt");
+            File file = new File(nfile.getAbsolutePath() + "/" + place_name + "-(0).txt");
             int i = 1;
             while(file.exists()) {
-                file = new File(nfile.getAbsolutePath()+"/"+place_name+"("+(i++)+").txt");
+                file = new File(nfile.getAbsolutePath()+"/"+place_name+"-("+(i++)+").txt");
             }
 
             FileWriter fw = null;

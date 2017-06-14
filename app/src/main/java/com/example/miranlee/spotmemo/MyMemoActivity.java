@@ -1,7 +1,6 @@
 package com.example.miranlee.spotmemo;
 
 import android.content.Intent;
-import android.media.MediaPlayer;
 import android.os.Bundle;
 import android.os.Environment;
 import android.speech.tts.TextToSpeech;
@@ -12,7 +11,6 @@ import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
 import java.io.File;
-import java.io.FileReader;
 import java.util.ArrayList;
 
 /**
@@ -72,6 +70,7 @@ public class MyMemoActivity extends AppCompatActivity implements TextToSpeech.On
                     if(fType.get(position) == 0) {
                         // 음성 파일이면 재생
                         i.putExtra("type",0);
+
                         i.putExtra("file",fPath.get(position));
                         startActivity(i);
                     }else {

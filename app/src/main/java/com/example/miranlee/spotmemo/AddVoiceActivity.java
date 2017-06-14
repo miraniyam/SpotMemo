@@ -85,14 +85,24 @@ public class AddVoiceActivity extends AppCompatActivity implements  TextToSpeech
             recordingState = true;
             try {
                 File nfile = new File(Environment.getExternalStoragePublicDirectory(Environment.DIRECTORY_DOCUMENTS), "SpotMemo/Voice/");
+                File []fileList = nfile.listFiles();
+                int i = 0;
+                for(File temp : fileList){
+                    if(temp.isFile()){
+                        if(temp.getName().equals(nfile.getAbsolutePath() + "/" + place_name + "-("+i+").mp4")){
+                            i++;
+                        }
+                    }
+                }
 
-                boolean f = nfile.mkdirs();
+                String title = nfile.getAbsolutePath() + "/" + place_name +"-("+i+").mp4";
+
 
                 if(newRecording) {
                     tts.speak("다시 더블탭 하면 녹음이 일시정지 되고, 녹음을 취소하거나 저장, 재생할 수 있습니다. 삐 소리후 녹음이 시작됩니다.", TextToSpeech.QUEUE_FLUSH, null);
                     audioRecorder = AudioRecorderBuilder
                             .with(getApplicationContext())
-                            .fileName(nfile.getAbsolutePath() + "/" + place_name + ".mp4")
+                            .fileName(title)
                             .config(AudioRecorder.MediaRecorderConfig.DEFAULT)
                             .loggable()
                             .build();

@@ -3,13 +3,20 @@ package com.example.miranlee.spotmemo;
 import android.content.Intent;
 import android.media.MediaPlayer;
 import android.os.Bundle;
+import android.os.Environment;
 import android.speech.tts.TextToSpeech;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.TextView;
 
+import java.io.BufferedWriter;
 import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
 import java.io.FileReader;
+import java.io.FileWriter;
+import java.io.IOException;
 
 /**
  * Created by miran lee on 2017-06-13.
@@ -24,6 +31,8 @@ public class ReadMemoActivity extends AppCompatActivity implements TextToSpeech.
     TextToSpeech tts;
     boolean isFirst = true;
     String s = "";
+    String[] token; // 토큰 끊은 후
+    String[] second_token;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -35,6 +44,14 @@ public class ReadMemoActivity extends AppCompatActivity implements TextToSpeech.
 
         f = new File(path);
         setTitle(f.getName()+"의 내용");
+        String path = String.valueOf(f.getName());
+
+        if(type == 1)
+            token = path.split("\\.txt");
+        if(type == 0)
+            token = path.split("\\.mp4");
+
+        second_token = token[0].split("-");
 
         tv = (TextView)findViewById(R.id.content);
         tts = new TextToSpeech(this, this);
@@ -112,14 +129,264 @@ public class ReadMemoActivity extends AppCompatActivity implements TextToSpeech.
 
                 switch (category) {
                     case "cafe":
+                        String change_name = second_token[0]+"-"+second_token[1]+"-"+second_token[2]+"-1-"+second_token[4];
+                        if(type == 0){
+                            try {
+                                FileInputStream fin = new FileInputStream(f);
+                                byte b[] = new byte[(int)f.length()];
+                                fin.read(b);
+                                File nfile = new File(Environment.getExternalStoragePublicDirectory(Environment.DIRECTORY_DOCUMENTS), "SpotMemo/Voice/");
+                                File file = new File(nfile.getAbsolutePath() + "/" + change_name + ".mp4");
+
+                                FileOutputStream fo = new FileOutputStream(file);
+                                fo.write(b);
+                                fo.flush();
+                                fo.close();
+
+                                f.delete();
+
+                            } catch (FileNotFoundException e) {
+                                e.printStackTrace();
+                            } catch (IOException e) {
+                                e.printStackTrace();
+                            }
+                            Intent i = new Intent(this, MyMemoActivity.class);
+                            finish();
+                            startActivity(i);
+                        }else if(type ==1){
+                            File nfile = new File(Environment.getExternalStoragePublicDirectory(Environment.DIRECTORY_DOCUMENTS), "SpotMemo/Text/");
+                            File file = new File(nfile.getAbsolutePath() + "/" + change_name + ".txt");
+
+                            FileWriter fw = null;
+                            BufferedWriter buf = null;
+                            try {
+                                fw = new FileWriter(file);
+                                buf = new BufferedWriter(fw);
+                                buf.write(s);
+
+                            } catch (Exception e) {
+                                e.printStackTrace();
+                            }
+                            try {
+                                buf.close();
+                            } catch (IOException e) {
+                                e.printStackTrace();
+                            }
+
+                            f.delete();
+
+                            Intent i = new Intent(this, MyMemoActivity.class);
+                            finish();
+                            startActivity(i);
+                        }
                         break;
                     case "food":
+                        change_name = second_token[0]+"-"+second_token[1]+"-"+second_token[2]+"-2-"+second_token[4];
+                        if(type == 0){
+                            try {
+                                FileInputStream fin = new FileInputStream(f);
+                                byte b[] = new byte[(int)f.length()];
+                                fin.read(b);
+                                File nfile = new File(Environment.getExternalStoragePublicDirectory(Environment.DIRECTORY_DOCUMENTS), "SpotMemo/Voice/");
+                                File file = new File(nfile.getAbsolutePath() + "/" + change_name + ".mp4");
+
+                                FileOutputStream fo = new FileOutputStream(file);
+                                fo.write(b);
+                                fo.flush();
+                                fo.close();
+
+                                f.delete();
+
+                            } catch (FileNotFoundException e) {
+                                e.printStackTrace();
+                            } catch (IOException e) {
+                                e.printStackTrace();
+                            }
+                            Intent i = new Intent(this, MyMemoActivity.class);
+                            finish();
+                            startActivity(i);
+                        }else if(type ==1){
+                            File nfile = new File(Environment.getExternalStoragePublicDirectory(Environment.DIRECTORY_DOCUMENTS), "SpotMemo/Text/");
+                            File file = new File(nfile.getAbsolutePath() + "/" + change_name + ".txt");
+                            FileWriter fw = null;
+                            BufferedWriter buf = null;
+                            try {
+                                fw = new FileWriter(file);
+                                buf = new BufferedWriter(fw);
+                                buf.write(s);
+
+                            } catch (Exception e) {
+                                e.printStackTrace();
+                            }
+                            try {
+                                buf.close();
+                            } catch (IOException e) {
+                                e.printStackTrace();
+                            }
+
+                            f.delete();
+
+                            Intent i = new Intent(this, MyMemoActivity.class);
+                            finish();
+                            startActivity(i);
+                        }
                         break;
                     case "theater":
+                        change_name = second_token[0]+"-"+second_token[1]+"-"+second_token[2]+"-3-"+second_token[4];
+                        if(type == 0){
+                            try {
+                                FileInputStream fin = new FileInputStream(f);
+                                byte b[] = new byte[(int)f.length()];
+                                fin.read(b);
+                                File nfile = new File(Environment.getExternalStoragePublicDirectory(Environment.DIRECTORY_DOCUMENTS), "SpotMemo/Voice/");
+                                File file = new File(nfile.getAbsolutePath() + "/" + change_name + ".mp4");
+
+                                FileOutputStream fo = new FileOutputStream(file);
+                                fo.write(b);
+                                fo.flush();
+                                fo.close();
+
+                                f.delete();
+
+                            } catch (FileNotFoundException e) {
+                                e.printStackTrace();
+                            } catch (IOException e) {
+                                e.printStackTrace();
+                            }
+                            Intent i = new Intent(this, MyMemoActivity.class);
+                            finish();
+                            startActivity(i);
+                        }else if(type ==1){
+                            File nfile = new File(Environment.getExternalStoragePublicDirectory(Environment.DIRECTORY_DOCUMENTS), "SpotMemo/Text/");
+                            File file = new File(nfile.getAbsolutePath() + "/" + change_name + ".txt");
+
+                            FileWriter fw = null;
+                            BufferedWriter buf = null;
+                            try {
+                                fw = new FileWriter(file);
+                                buf = new BufferedWriter(fw);
+                                buf.write(s);
+
+                            } catch (Exception e) {
+                                e.printStackTrace();
+                            }
+                            try {
+                                buf.close();
+                            } catch (IOException e) {
+                                e.printStackTrace();
+                            }
+
+                            f.delete();
+
+                            Intent i = new Intent(this, MyMemoActivity.class);
+                            finish();
+                            startActivity(i);
+                        }
                         break;
                     case "public":
+                        change_name = second_token[0]+"-"+second_token[1]+"-"+second_token[2]+"-4-"+second_token[4];
+                        if(type == 0){
+                            try {
+                                FileInputStream fin = new FileInputStream(f);
+                                byte b[] = new byte[(int)f.length()];
+                                fin.read(b);
+                                File nfile = new File(Environment.getExternalStoragePublicDirectory(Environment.DIRECTORY_DOCUMENTS), "SpotMemo/Voice/");
+                                File file = new File(nfile.getAbsolutePath() + "/" + change_name + ".mp4");
+
+                                FileOutputStream fo = new FileOutputStream(file);
+                                fo.write(b);
+                                fo.flush();
+                                fo.close();
+
+                                f.delete();
+
+                            } catch (FileNotFoundException e) {
+                                e.printStackTrace();
+                            } catch (IOException e) {
+                                e.printStackTrace();
+                            }
+                            Intent i = new Intent(this, MyMemoActivity.class);
+                            finish();
+                            startActivity(i);
+                        }else if(type ==1){
+                            File nfile = new File(Environment.getExternalStoragePublicDirectory(Environment.DIRECTORY_DOCUMENTS), "SpotMemo/Text/");
+                            File file = new File(nfile.getAbsolutePath() + "/" + change_name + ".txt");
+
+                            FileWriter fw = null;
+                            BufferedWriter buf = null;
+                            try {
+                                fw = new FileWriter(file);
+                                buf = new BufferedWriter(fw);
+                                buf.write(s);
+
+                            } catch (Exception e) {
+                                e.printStackTrace();
+                            }
+                            try {
+                                buf.close();
+                            } catch (IOException e) {
+                                e.printStackTrace();
+                            }
+
+                            f.delete();
+
+                            Intent i = new Intent(this, MyMemoActivity.class);
+                            finish();
+                            startActivity(i);
+                        }
                         break;
                     case "etc":
+                        change_name = second_token[0]+"-"+second_token[1]+"-"+second_token[2]+"-5-"+second_token[4];
+                        if(type == 0){
+                            try {
+                                FileInputStream fin = new FileInputStream(f);
+                                byte b[] = new byte[(int)f.length()];
+                                fin.read(b);
+                                File nfile = new File(Environment.getExternalStoragePublicDirectory(Environment.DIRECTORY_DOCUMENTS), "SpotMemo/Voice/");
+                                File file = new File(nfile.getAbsolutePath() + "/" + change_name + ".mp4");
+
+                                FileOutputStream fo = new FileOutputStream(file);
+                                fo.write(b);
+                                fo.flush();
+                                fo.close();
+
+                                f.delete();
+
+                            } catch (FileNotFoundException e) {
+                                e.printStackTrace();
+                            } catch (IOException e) {
+                                e.printStackTrace();
+                            }
+                            Intent i = new Intent(this, MyMemoActivity.class);
+                            finish();
+                            startActivity(i);
+                        }else if(type ==1){
+                            File nfile = new File(Environment.getExternalStoragePublicDirectory(Environment.DIRECTORY_DOCUMENTS), "SpotMemo/Text/");
+                            File file = new File(nfile.getAbsolutePath() + "/" + change_name + ".txt");
+
+                            FileWriter fw = null;
+                            BufferedWriter buf = null;
+                            try {
+                                fw = new FileWriter(file);
+                                buf = new BufferedWriter(fw);
+                                buf.write(s);
+
+                            } catch (Exception e) {
+                                e.printStackTrace();
+                            }
+                            try {
+                                buf.close();
+                            } catch (IOException e) {
+                                e.printStackTrace();
+                            }
+
+                            f.delete();
+
+                            Intent i = new Intent(this, MyMemoActivity.class);
+                            finish();
+                            startActivity(i);
+
+                        }
                         break;
                 }
 
