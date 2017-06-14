@@ -8,6 +8,7 @@ import android.os.Bundle;
 import android.os.Environment;
 import android.speech.tts.TextToSpeech;
 import android.support.v7.app.AppCompatActivity;
+import android.util.Log;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
@@ -62,13 +63,17 @@ public class OthersMemoActivity extends AppCompatActivity implements LocationLis
                     sFileName = file.getName();
                     Fileidx = sFileName.lastIndexOf(".");
                     FileName = sFileName.substring(0, Fileidx);//확장자 제거
-                    StringTokenizer st = new StringTokenizer(FileName);
+                    StringTokenizer st = new StringTokenizer(FileName, "-");
+                    st.nextToken();
                     slatitude = st.nextToken();
                     if(st.hasMoreTokens()) {
                         slongtitude = st.nextToken();
                         tlatitude = Double.parseDouble(slatitude);
                         tlongitude = Double.parseDouble(slongtitude);
                         Location.distanceBetween(latitude, longitude,tlatitude, tlongitude, distance);
+                        Log.i("현재위도경도",""+latitude+" "+longitude);
+                        Log.i("대상위도경도",""+tlatitude+" "+tlongitude);
+                        Log.i("거리",""+distance[0]);
                         if (distance[0] < 300) {
                             fName.add(file.getName());
                             fPath.add(file.getAbsolutePath());
