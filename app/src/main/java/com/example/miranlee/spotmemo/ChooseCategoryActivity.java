@@ -57,6 +57,15 @@ public class ChooseCategoryActivity extends AppCompatActivity implements TextToS
         finish();
     }
 
+    public void  onClickShop(View v){
+        Intent returnIntent = new Intent();
+        returnIntent.putExtra("category","shop");
+        setResult(Activity.RESULT_OK, returnIntent);
+        nar = "옷가게를 선택하셨습니다.";
+        onInit(0);
+        finish();
+    }
+
     public void onClickPublic(View v) {
         // 공공시설
         Intent returnIntent = new Intent();

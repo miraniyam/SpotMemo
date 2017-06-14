@@ -34,6 +34,7 @@ public class ReadMemoActivity extends AppCompatActivity implements TextToSpeech.
     String[] token; // 토큰 끊은 후
     String[] second_token;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -55,6 +56,7 @@ public class ReadMemoActivity extends AppCompatActivity implements TextToSpeech.
 
         tv = (TextView)findViewById(R.id.content);
         tts = new TextToSpeech(this, this);
+
 
         if(type == 1) {
             char ch;
@@ -283,7 +285,7 @@ public class ReadMemoActivity extends AppCompatActivity implements TextToSpeech.
                             startActivity(i);
                         }
                         break;
-                    case "public":
+                    case "shop":
                         change_name = second_token[0]+"-"+second_token[1]+"-"+second_token[2]+"-4-"+second_token[4];
                         if(type == 0){
                             try {
@@ -335,8 +337,60 @@ public class ReadMemoActivity extends AppCompatActivity implements TextToSpeech.
                             startActivity(i);
                         }
                         break;
-                    case "etc":
+                    case "public":
                         change_name = second_token[0]+"-"+second_token[1]+"-"+second_token[2]+"-5-"+second_token[4];
+                        if(type == 0){
+                            try {
+                                FileInputStream fin = new FileInputStream(f);
+                                byte b[] = new byte[(int)f.length()];
+                                fin.read(b);
+                                File nfile = new File(Environment.getExternalStoragePublicDirectory(Environment.DIRECTORY_DOCUMENTS), "SpotMemo/Voice/");
+                                File file = new File(nfile.getAbsolutePath() + "/" + change_name + ".mp4");
+
+                                FileOutputStream fo = new FileOutputStream(file);
+                                fo.write(b);
+                                fo.flush();
+                                fo.close();
+
+                                f.delete();
+
+                            } catch (FileNotFoundException e) {
+                                e.printStackTrace();
+                            } catch (IOException e) {
+                                e.printStackTrace();
+                            }
+                            Intent i = new Intent(this, MyMemoActivity.class);
+                            finish();
+                            startActivity(i);
+                        }else if(type ==1){
+                            File nfile = new File(Environment.getExternalStoragePublicDirectory(Environment.DIRECTORY_DOCUMENTS), "SpotMemo/Text/");
+                            File file = new File(nfile.getAbsolutePath() + "/" + change_name + ".txt");
+
+                            FileWriter fw = null;
+                            BufferedWriter buf = null;
+                            try {
+                                fw = new FileWriter(file);
+                                buf = new BufferedWriter(fw);
+                                buf.write(s);
+
+                            } catch (Exception e) {
+                                e.printStackTrace();
+                            }
+                            try {
+                                buf.close();
+                            } catch (IOException e) {
+                                e.printStackTrace();
+                            }
+
+                            f.delete();
+
+                            Intent i = new Intent(this, MyMemoActivity.class);
+                            finish();
+                            startActivity(i);
+                        }
+                        break;
+                    case "etc":
+                        change_name = second_token[0]+"-"+second_token[1]+"-"+second_token[2]+"-6-"+second_token[4];
                         if(type == 0){
                             try {
                                 FileInputStream fin = new FileInputStream(f);
