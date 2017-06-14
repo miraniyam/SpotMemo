@@ -40,16 +40,16 @@
         "source": "C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable\\cast_ic_mini_controller_pause.xml"
     },
     {
-        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop_large.xml",
-        "source": "C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable\\cast_ic_mini_controller_stop_large.xml"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_light.xml",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\drawable\\mr_ic_pause_light.xml"
     },
     {
         "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_expand.xml",
         "source": "C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\drawable\\ic_expand.xml"
     },
     {
-        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_light.xml",
-        "source": "C:\\Users\\miran lee\\.android\\build-cache\\d46480b8c1de43ba818af4588625b4eee5ed00db\\output\\res\\drawable\\mr_ic_pause_light.xml"
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop_large.xml",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable\\cast_ic_mini_controller_stop_large.xml"
     },
     {
         "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_prev.xml",
@@ -68,12 +68,12 @@
         "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind.xml",
-        "source": "C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable\\cast_ic_notification_rewind.xml"
-    },
-    {
         "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
         "source": "C:\\Users\\miran lee\\.android\\build-cache\\729f6aaf7d7aa204160cef242403f5d6b316b9f8\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind.xml",
+        "source": "C:\\Users\\miran lee\\.android\\build-cache\\8f90d9f7d0553d2f4646ac4ccd510d4b8f23cb58\\output\\res\\drawable\\cast_ic_notification_rewind.xml"
     },
     {
         "merged": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",

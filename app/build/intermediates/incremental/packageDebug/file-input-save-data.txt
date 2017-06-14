@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed Jun 14 20:56:09 KST 2017
+#Wed Jun 14 20:59:16 KST 2017
 20.base=C\:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\resources-debug.ap_
 143.base=C\:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\resources-debug.ap_
 493.base=C\:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\res\\resources-debug.ap_

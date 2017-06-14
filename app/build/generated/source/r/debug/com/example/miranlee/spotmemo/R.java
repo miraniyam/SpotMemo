@@ -3215,7 +3215,7 @@ containing a value of this type.
         public static final int contact=0x7f0d0035;
         public static final int container_all=0x7f0d00d4;
         public static final int container_current=0x7f0d00d5;
-        public static final int content=0x7f0d00b4;
+        public static final int content=0x7f0d00b3;
         public static final int contentPanel=0x7f0d0080;
         public static final int controllers=0x7f0d00bf;
         public static final int crash_reporting_present=0x7f0d0011;
@@ -3241,7 +3241,7 @@ containing a value of this type.
         public static final int google_wallet_classic=0x7f0d006a;
         public static final int google_wallet_grayscale=0x7f0d006b;
         public static final int google_wallet_monochrome=0x7f0d006c;
-        public static final int googlemap=0x7f0d00b7;
+        public static final int googlemap=0x7f0d00b6;
         public static final int grayscale=0x7f0d006d;
         public static final int holo_dark=0x7f0d0056;
         public static final int holo_light=0x7f0d0057;
@@ -3312,7 +3312,7 @@ containing a value of this type.
         public static final int normal=0x7f0d0018;
         public static final int omnibox_title_section=0x7f0d004e;
         public static final int omnibox_url_section=0x7f0d004f;
-        public static final int other_memo=0x7f0d00b8;
+        public static final int other_memo=0x7f0d00b7;
         public static final int parentPanel=0x7f0d007c;
         public static final int place_autocomplete_clear_button=0x7f0d0107;
         public static final int place_autocomplete_powered_by_google=0x7f0d0109;
@@ -3323,7 +3323,7 @@ containing a value of this type.
         public static final int place_autocomplete_search_input=0x7f0d0106;
         public static final int place_autocomplete_separator=0x7f0d0108;
         public static final int place_name=0x7f0d010d;
-        public static final int place_search=0x7f0d00b6;
+        public static final int place_search=0x7f0d00b5;
         public static final int plain=0x7f0d0047;
         public static final int production=0x7f0d0058;
         public static final int progressBar=0x7f0d00da;
@@ -3363,7 +3363,7 @@ containing a value of this type.
         public static final int src_in=0x7f0d0025;
         public static final int src_over=0x7f0d0026;
         public static final int standard=0x7f0d0051;
-        public static final int start_search=0x7f0d00b5;
+        public static final int start_search=0x7f0d00b4;
         public static final int start_text=0x7f0d00c8;
         public static final int status_bar_latest_event_content=0x7f0d00fc;
         public static final int status_text=0x7f0d00c6;
@@ -3387,7 +3387,7 @@ containing a value of this type.
         public static final int title=0x7f0d0079;
         public static final int title_template=0x7f0d007e;
         public static final int title_view=0x7f0d00d8;
-        public static final int tlistView=0x7f0d00b3;
+        public static final int tlistView=0x7f0d00b8;
         public static final int toolbar=0x7f0d00be;
         public static final int top=0x7f0d0055;
         public static final int topPanel=0x7f0d007d;
