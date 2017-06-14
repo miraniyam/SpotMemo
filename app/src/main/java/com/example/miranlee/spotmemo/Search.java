@@ -5,6 +5,7 @@ import android.content.Intent;
 import android.location.Location;
 import android.location.LocationManager;
 import android.os.Bundle;
+import android.os.Environment;
 import android.speech.RecognitionListener;
 import android.speech.RecognizerIntent;
 import android.speech.SpeechRecognizer;
@@ -32,7 +33,9 @@ import com.google.android.gms.maps.model.BitmapDescriptorFactory;
 import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.MarkerOptions;
 
+import java.io.File;
 import java.util.ArrayList;
+import java.util.StringTokenizer;
 
 public class Search extends AppCompatActivity implements GoogleApiClient.ConnectionCallbacks, GoogleApiClient.OnConnectionFailedListener,PlaceSelectionListener,OnMapReadyCallback {
 
@@ -46,6 +49,15 @@ public class Search extends AppCompatActivity implements GoogleApiClient.Connect
     Intent i;
     SpeechRecognizer recognizer;
     boolean SSTsted = false;
+    File filesv;
+    File filest;
+    String sFileName;
+    String FileName;
+    int Fileidx;
+    String slatitude;
+    String slongtitude;
+    double tlatitude;
+    double tlongitude;
 
     PlaceAutocompleteFragment autocompleteFragment;
 
@@ -74,6 +86,16 @@ public class Search extends AppCompatActivity implements GoogleApiClient.Connect
         MapFragment mapFragment = (MapFragment)fragmentManager
                 .findFragmentById(R.id.googlemap);
         mapFragment.getMapAsync(this);
+
+        String ext = Environment.getExternalStorageState();
+        if (ext.equals(Environment.MEDIA_MOUNTED)) {
+            filesv = new File(Environment.getExternalStorageDirectory().getAbsolutePath() + "/Documents/SpotMemo/Voice");
+            filesv.mkdirs(); // 있으면 안만들거고, 없으면 만들어주게~
+            String numfilev[] = filesv.list();
+            filest = new File(Environment.getExternalStorageDirectory().getAbsolutePath() + "/Documents/SpotMemo/Text");
+            filest.mkdirs();
+            String numfilet[] = filest.list();
+        }
 
         if (googleApiClient == null) {
             googleApiClient = new GoogleApiClient.Builder(this)
@@ -213,6 +235,29 @@ public class Search extends AppCompatActivity implements GoogleApiClient.Connect
         options.title(String.valueOf(loc_name));
         //options.snippet("내 위치");
         map.addMarker(options);
+
+        if (filesv.listFiles().length > 0) {
+            for (File file : filesv.listFiles()) {
+                // 음성 메모이면 0
+                sFileName = file.getName();
+                Fileidx = sFileName.lastIndexOf(".");
+                FileName = sFileName.substring(0, Fileidx);//확장자 제거
+                StringTokenizer st = new StringTokenizer(FileName,"-");
+                st.nextToken();
+                slatitude = st.nextToken();
+                if(st.hasMoreTokens()) {
+                    slongtitude = st.nextToken();
+                    tlatitude = Double.parseDouble(slatitude);
+                    tlongitude = Double.parseDouble(slongtitude);
+
+                    MarkerOptions moptions = new MarkerOptions();
+                    final LatLng Locc = new LatLng(tlatitude, tlongitude);
+                    moptions.position(Locc);
+                    moptions.icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_GREEN));
+                    map.addMarker(moptions);
+                }
+            }
+        }
     }
 
     @Override

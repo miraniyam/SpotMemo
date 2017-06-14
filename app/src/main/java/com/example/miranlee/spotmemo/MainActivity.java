@@ -15,7 +15,6 @@ import android.support.annotation.Nullable;
 import android.support.v4.app.ActivityCompat;
 import android.support.v4.content.ContextCompat;
 import android.support.v7.app.AppCompatActivity;
-import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
@@ -279,26 +278,26 @@ public class MainActivity extends AppCompatActivity implements com.google.androi
         map.addMarker(options);
         //mylocation.setText(latitude+" , "+longitude);
         if (filesv.listFiles().length > 0) {
-            for (File file : filesv.listFiles()) {
-                // 음성 메모이면 0
-                sFileName = file.getName();
-                Fileidx = sFileName.lastIndexOf(".");
-                FileName = sFileName.substring(0, Fileidx);//확장자 제거
-                StringTokenizer st = new StringTokenizer(FileName,"-");
-                st.nextToken();
-                slatitude = st.nextToken();
-                if(st.hasMoreTokens()) {
-                    slongtitude = st.nextToken();
-                    tlatitude = Double.parseDouble(slatitude);
-                    tlongitude = Double.parseDouble(slongtitude);
+                for (File file : filesv.listFiles()) {
+                    // 음성 메모이면 0
+                    sFileName = file.getName();
+                    Fileidx = sFileName.lastIndexOf(".");
+                    FileName = sFileName.substring(0, Fileidx);//확장자 제거
+                    StringTokenizer st = new StringTokenizer(FileName,"-");
+                    st.nextToken();
+                    slatitude = st.nextToken();
+                    if(st.hasMoreTokens()) {
+                        slongtitude = st.nextToken();
+                        tlatitude = Double.parseDouble(slatitude);
+                        tlongitude = Double.parseDouble(slongtitude);
 
-                    MarkerOptions moptions = new MarkerOptions();
-                    final LatLng Locc = new LatLng(tlatitude, tlongitude);
-                    moptions.position(Locc);
-                    moptions.icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_GREEN));
-                    map.addMarker(moptions);
+                        MarkerOptions moptions = new MarkerOptions();
+                        final LatLng Locc = new LatLng(tlatitude, tlongitude);
+                        moptions.position(Locc);
+                        moptions.icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_GREEN));
+                        map.addMarker(moptions);
+                    }
                 }
-            }
         }
     }
 }
