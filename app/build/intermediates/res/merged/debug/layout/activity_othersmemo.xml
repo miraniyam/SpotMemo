@@ -57,6 +57,15 @@
         android:layout_height="wrap_content"
         android:padding="20dp"
         android:textSize="20dp"
+        android:id="@+id/btn_etc"
+        android:text="기타"
+        android:onClick="onClickPublic"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        android:textSize="20dp"
         android:text="메인으로 가기"
         android:onClick="onBack"/>
 

@@ -44,6 +44,7 @@
         <activity android:name=".ReadMemoActivity" />
         <activity android:name=".Search" />
         <activity android:name=".Choose_Place"></activity>
+        <activity android:name=".ChooseCategoryActivity"/>
     </application>
 
 </manifest>

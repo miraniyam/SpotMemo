@@ -58,6 +58,9 @@
         <activity android:name="com.example.miranlee.spotmemo.AddVoiceActivity" />
         <activity android:name="com.example.miranlee.spotmemo.AddTextActivity" />
         <activity android:name="com.example.miranlee.spotmemo.ReadMemoActivity" />
+        <activity android:name="com.example.miranlee.spotmemo.Search" />
+        <activity android:name="com.example.miranlee.spotmemo.Choose_Place" />
+        <activity android:name="com.example.miranlee.spotmemo.ChooseCategoryActivity" />
         <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
         <activity
             android:name="com.google.android.gms.ads.AdActivity"

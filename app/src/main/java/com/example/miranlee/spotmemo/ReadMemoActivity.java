@@ -104,6 +104,39 @@ public class ReadMemoActivity extends AppCompatActivity implements TextToSpeech.
         }
     }
 
+    @Override
+    protected void onActivityResult(int requestCode, int resultCode, Intent data) {
+        if(resultCode == RESULT_OK) {
+                String category = data.getStringExtra("category");
+                tts.speak("공유를 설정하고 메모창으로 돌아왔습니다.", TextToSpeech.QUEUE_FLUSH,null);
+
+                switch (category) {
+                    case "cafe":
+                        break;
+                    case "food":
+                        break;
+                    case "theater":
+                        break;
+                    case "public":
+                        break;
+                    case "etc":
+                        break;
+                }
+
+        }else {
+            tts.speak("공유를 취소하고 메모창으로 돌아왔습니다.",TextToSpeech.QUEUE_FLUSH,null);
+        }
+        super.onActivityResult(requestCode, resultCode, data);
+    }
+
+    public void onClickShare(View v) {
+        tts.speak("공유 설정을 위해 카테고리 선택 창으로 진입합니다",TextToSpeech.QUEUE_FLUSH,null);
+        while(tts.isSpeaking()) {
+
+        }
+        startActivityForResult(new Intent(this, ChooseCategoryActivity.class),0);
+    }
+
     public void onBack(View view) {
         Intent i = new Intent(this, MainActivity.class);
         finish();
