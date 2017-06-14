@@ -3,30 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="/Users/kyeolhan/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjrt/1.8.2/7dede91c0c36b1265fc99c55283b90ed2be144c8/aspectjrt-1.8.2.jar"
-        jumboMode="false"
+        jar="C:\Users\miran lee\Documents\GitHub\SpotMemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="7dede91c0c36b1265fc99c55283b90ed2be144c8">
-        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/aspectjrt-1.8.2_0808c2bd4b75c68fa40b45d4e2a776e40f141ba0/classes.dex" />
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\miran lee\Documents\GitHub\SpotMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_0c73fce7a09ccd854c4d0e9e3e1108d15c3e75a7\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/kyeolhan/.gradle/caches/modules-2/files-2.1/com.googlecode.mp4parser/isoparser/1.0.5.4/232e5130b709e6cc2ac4c4e5c5212a89929ab592/isoparser-1.0.5.4.jar"
-        jumboMode="false"
+        jar="C:\Users\miran lee\Documents\GitHub\SpotMemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="232e5130b709e6cc2ac4c4e5c5212a89929ab592">
-        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/isoparser-1.0.5.4_c78a418e88773fc4755d3f5b14dbd5eef2ec2038/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/kyeolhan/.android/build-cache/2c11d83b5f438bcaf6a33a777760a57dd58f8495/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="18fe6490464f32217803f8276d2383d53da11e9b">
-        <dex dex="/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5235c7a28804ff9da6a90f7e057e5cb0285c09c3/classes.dex" />
+        sha1="71cba766fb7d7be3fd16b0e46cf65273abd28950">
+        <dex dex="C:\Users\miran lee\Documents\GitHub\SpotMemo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_8e242239780465b716cf5988ba0abb14efeaa17a\classes.dex" />
     </item>
 
 </items>

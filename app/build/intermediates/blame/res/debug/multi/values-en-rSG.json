@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rSG/values-en-rSG.xml",
+        "outputFile": "C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rSG\\values-en-rSG.xml",
         "map": [
             {
                 "to": {
@@ -11,31 +11,7 @@
                     "endOffset": 154
                 },
                 "from": {
-                    "file": "/Users/kyeolhan/.android/build-cache/0b6cd74281eb6e5af28d2751df34ad424d0c837c/output/res/values-en-rSG/values.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 0,
-                        "startOffset": 244,
-                        "endColumn": 99,
-                        "endOffset": 343
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\Documents\\GitHub\\SpotMemo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rSG\\values-en-rSG.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 103,
-                    "endOffset": 154
-                },
-                "from": {
-                    "file": "/Users/kyeolhan/Desktop/spotmemo/SpotMemo/C:\\Users\\miran lee\\.android\\build-cache\\105463c339184e5c0f23138ddf9e9cbfe0ce5028\\output\\res\\values-en-rSG\\values.xml",
+                    "file": "C:\\Users\\miran lee\\.android\\build-cache\\105463c339184e5c0f23138ddf9e9cbfe0ce5028\\output\\res\\values-en-rSG\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 0,
