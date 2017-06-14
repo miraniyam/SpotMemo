@@ -21,10 +21,14 @@ import android.widget.Toast;
 
 import com.google.android.gms.common.ConnectionResult;
 import com.google.android.gms.common.api.GoogleApiClient;
+import com.google.android.gms.common.api.PendingResult;
+import com.google.android.gms.common.api.ResultCallback;
 import com.google.android.gms.common.api.Status;
 import com.google.android.gms.location.LocationRequest;
 import com.google.android.gms.location.LocationServices;
 import com.google.android.gms.location.places.Place;
+import com.google.android.gms.location.places.PlaceLikelihood;
+import com.google.android.gms.location.places.PlaceLikelihoodBuffer;
 import com.google.android.gms.location.places.Places;
 import com.google.android.gms.location.places.ui.PlaceSelectionListener;
 import com.google.android.gms.maps.CameraUpdateFactory;
@@ -68,6 +72,8 @@ public class MainActivity extends AppCompatActivity implements com.google.androi
     //LocationListener locationListener;
     LocationRequest locationRequest;
     Location location;
+
+    Place_Info place_info;
 
 
     @Override
@@ -142,6 +148,22 @@ public class MainActivity extends AppCompatActivity implements com.google.androi
 
         locationManager = (LocationManager) getSystemService(Context.LOCATION_SERVICE);
 
+
+
+        PendingResult<PlaceLikelihoodBuffer> result = Places.PlaceDetectionApi
+                .getCurrentPlace(googleApiClient, null);
+        result.setResultCallback(new ResultCallback<PlaceLikelihoodBuffer>() {
+            @Override
+            public void onResult(PlaceLikelihoodBuffer likelyPlaces) {
+                int i = 0;
+                for (PlaceLikelihood placeLikelihood : likelyPlaces) {
+                    if(i == 0)
+                        place_info = new Place_Info( placeLikelihood.getPlace().getName(),placeLikelihood.getPlace().getLatLng());
+                    i++;
+                }
+                likelyPlaces.release();
+            }
+        });
     }
 
     public void changeActivity(View view){
@@ -255,6 +277,7 @@ public class MainActivity extends AppCompatActivity implements com.google.androi
     }
 
     public void updateMap(Location location) {
+        map.clear();
         latitude = location.getLatitude();
         longitude = location.getLongitude();
         final LatLng Loc = new LatLng(latitude, longitude);
@@ -264,8 +287,13 @@ public class MainActivity extends AppCompatActivity implements com.google.androi
         options.position(Loc);
         //options.icon(BitmapDescriptorFactory.fromResource(R.drawable.marker));
         options.icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_ROSE));
+
         options.title("내 위치");
-        options.snippet("내 위치");
+        if(place_info!=null)
+            options.snippet(String.valueOf(place_info.place_name));
+        else
+            options.snippet("X");
+
         map.addMarker(options);
         //mylocation.setText(latitude+" , "+longitude);
     }
