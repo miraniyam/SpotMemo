@@ -4,6 +4,7 @@
     android:layout_height="match_parent">
 
     <Button
+        style="@style/ButtonStyle"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textSize="20dp"
@@ -13,6 +14,7 @@
         android:onClick="onClickStart"/>
 
     <Button
+        style="@style/ButtonStyle"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textSize="20dp"
@@ -22,6 +24,7 @@
         android:onClick="onClickCancel"/>
 
     <Button
+        style="@style/ButtonStyle"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textSize="20dp"
@@ -31,6 +34,7 @@
         android:onClick="onClickListen"/>
 
     <Button
+        style="@style/ButtonStyle"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textSize="20dp"
@@ -40,6 +44,7 @@
         android:onClick="onClickStop"/>
 
     <Button
+        style="@style/ButtonStyle"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:padding="20dp"

@@ -43,7 +43,7 @@ public class MyMemoActivity extends AppCompatActivity implements TextToSpeech.On
         if (ext.equals(Environment.MEDIA_MOUNTED)) {
             File files = new File(Environment.getExternalStorageDirectory().getAbsolutePath()+"/Documents/SpotMemo/Voice");
 
-            ArrayAdapter<String> filelist = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, fName);
+            ArrayAdapter<String> filelist = new ArrayAdapter<String>(this, R.layout.mylist, fName);
             if (files.listFiles().length > 0){
                 for (File file:files.listFiles()){
                     // 음성 메모이면 0

@@ -5,6 +5,7 @@
 
 
     <Button
+        style="@style/ButtonStyle"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:padding="20dp"
@@ -14,6 +15,7 @@
         android:onClick="onClickCafe"/>
 
     <Button
+        style="@style/ButtonStyle"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:padding="20dp"
@@ -23,6 +25,7 @@
         android:onClick="onClickFood"/>
 
     <Button
+        style="@style/ButtonStyle"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:padding="20dp"
@@ -32,6 +35,7 @@
         android:onClick="onClickTheater"/>
 
     <Button
+        style="@style/ButtonStyle"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:padding="20dp"
@@ -41,6 +45,7 @@
         android:onClick="onClickShop"/>
 
     <Button
+        style="@style/ButtonStyle"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:padding="20dp"
@@ -50,6 +55,7 @@
         android:onClick="onClickPublic"/>
 
     <Button
+        style="@style/ButtonStyle"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:padding="20dp"
@@ -59,6 +65,7 @@
         android:onClick="onClickPublic"/>
 
     <Button
+        style="@style/ButtonStyle"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:padding="20dp"

@@ -13,6 +13,7 @@
         android:hint="여기에 입력하세요"/>
 
     <Button
+        style="@style/ButtonStyle"
         android:layout_gravity="bottom"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

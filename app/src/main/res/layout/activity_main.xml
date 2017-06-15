@@ -9,6 +9,7 @@
         android:layout_height="match_parent">
 
         <Button
+            style="@style/ButtonStyle"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:padding="20dp"
@@ -24,6 +25,7 @@
             android:name="com.google.android.gms.maps.MapFragment"/>
 
         <Button
+            style="@style/ButtonStyle"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:padding="20dp"
@@ -33,6 +35,7 @@
             android:onClick="changeActivity"/>
 
         <Button
+            style="@style/ButtonStyle"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:padding="20dp"
@@ -41,6 +44,13 @@
             android:id="@+id/btn_othersMemo"
             android:onClick="changeActivity"/>
         <Button
+            android:padding="5dp"
+            android:paddingLeft="20sp"
+            android:background="#448AFF"
+            android:textColor="#FFFFFF"
+            style="@style/ButtonStyle"
+            android:gravity="center"
+            android:textSize="20sp"
             android:text="검색하기"
             android:onClick="changeActivity"
             android:id="@+id/btn_search"

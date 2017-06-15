@@ -8,6 +8,9 @@
     tools:context="com.example.miranlee.spotmemo.Search">
 
     <Button
+        android:padding="15sp"
+        android:textSize="20sp"
+        style="@style/ButtonStyle"
         android:id="@+id/start_search"
         android:text="검색하기"
         android:layout_width="match_parent"
